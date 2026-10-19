@@ -39,8 +39,9 @@ TITLE_RE = re.compile("|".join(TITLE_KEYWORDS), re.I)
 EXCLUDE_RE = re.compile(
     r"\b(sales|account executive|account manager|business development rep|teacher|lærer|"
     r"engineer|developer|technician|mechanic|electrician|operator|driver|chauffeur|nurse|"
-    r"phd|postdoc|professor|lecturer|tenure|intern|internship|student assistant|studentermedhjælp|"
-    r"vice president|\bvp\b|director|head of|chief)\b",
+    r"phd|postdoc|professor|lecturer|tenure|intern\b|internship|student assistant|studentermedhjælp|"
+    r"student instructor|research assistant|scientist|architect|accountant|controller|counsel|lawyer|"
+    r"vice president|vp|director|head of|chief)",
     re.I,
 )
 
@@ -152,7 +153,7 @@ def filter_links(emp, links, final_url):
     candidates = 0
     for l in links:
         href, text, ctx = l["href"], l["text"], l["context"]
-        if not href.startswith("http") or not text or len(text) < 6:
+        if not href.startswith("http") or not text or len(text) < 6 or "[#" in href:
             continue
         if NAV_TEXT_RE.match(text):
             continue
@@ -189,7 +190,7 @@ def main():
     seen = load_seen()
     first_run = not seen
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    new, status = [], []
+    new, status, manual = [], [], []
 
     with sync_playwright() as pw:
         browser = pw.chromium.launch()
@@ -199,6 +200,9 @@ def main():
             viewport={"width": 1366, "height": 900},
         )
         for emp in employers:
+            if emp.get("method") == "claude":
+                manual.append({"employer": emp["name"], "area": emp.get("area", ""), "url": emp["url"]})
+                continue
             page = ctx.new_page()
             st = {"employer": emp["name"], "url": emp["url"], "links": 0, "job_like": 0, "kept": 0, "new": 0, "error": ""}
             try:
@@ -214,7 +218,7 @@ def main():
                         st["new"] += 1
             except Exception as e:  # keep going, report it
                 st["error"] = f"{type(e).__name__}: {str(e)[:200]}"
-            if not st["error"] and st["job_like"] == 0:
+            if not st["error"] and st["job_like"] == 0 and not emp.get("empty_ok"):
                 st["error"] = "No job links found: page may need a different URL or a link_regex"
             status.append(st)
             print(f"{emp['name']:<45} links={st['links']:<4} job_like={st['job_like']:<4} kept={st['kept']:<3} new={st['new']:<3} {st['error']}")
@@ -223,13 +227,17 @@ def main():
 
     if not only:
         SEEN_FILE.write_text(json.dumps(seen, indent=1, ensure_ascii=False, sort_keys=True))
-    result = {"run_date": today, "first_run": first_run, "new": new, "status": status}
+    result = {"run_date": today, "first_run": first_run, "new": new,
+              "check_manually": manual, "status": status}
     out_json = DATA / ("test.json" if only else "latest.json")
     out_json.write_text(json.dumps(result, indent=1, ensure_ascii=False))
 
     lines = [f"# Job Watch {today}", "", f"New ads: {len(new)}" + (" (first run: everything counts as new)" if first_run else ""), ""]
     for j in new:
         lines.append(f"- **{j['employer']}**: [{j['title']}]({j['url']})")
+    if manual:
+        lines += ["", "## Check these by hand (the script can't read them)", ""]
+        lines += [f"- {m['employer']}: {m['url']}" for m in manual]
     broken = [s for s in status if s["error"]]
     if broken:
         lines += ["", "## Pages that need attention", ""]

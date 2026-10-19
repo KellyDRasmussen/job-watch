@@ -2,128 +2,145 @@
 # Fields:
 #   name        employer name
 #   url         careers / vacancies listing page
-#   global      true = big employer hiring worldwide: keep only ads that mention Denmark / Aarhus / Copenhagen / remote
+#   area        aarhus / copenhagen / remote
+#   global      true = employer hiring in many countries: keep only ads whose listing mentions Denmark / Aarhus / Copenhagen / remote
 #   all_titles  true = small org: keep every role, skip the title keyword filter
-#   link_regex  optional: only links whose URL matches this regex count as job ads
-#   area        aarhus / copenhagen / remote (for the human reading the results)
+#   link_regex  only links whose URL matches this regex count as job ads
+#   empty_ok    true = the page often has no vacancies, so 0 ads is not an error
+#   method      claude = the script can't read this page (bot protection etc.); the Job Radar task checks it with its own web tool
 
 employers:
   # ---------- Aarhus area ----------
   - name: Vestas
     url: https://careers.vestas.com/search/?q=&locationsearch=Denmark
-    global: true
+    link_regex: careers\.vestas\.com/job/
     area: aarhus
   - name: Arla Foods
     url: https://jobs.arla.com/search/?q=&locationsearch=Denmark
-    global: true
+    link_regex: /job/
     area: aarhus
   - name: Grundfos
     url: https://jobs.grundfos.com/search/?q=&locationsearch=Denmark
-    global: true
+    link_regex: jobs\.grundfos\.com/job/
     area: aarhus
   - name: Kamstrup
-    url: https://www.kamstrup.com/en-en/about-us/careers/vacancies
+    url: https://www.kamstrup.com/en-en/careers
+    method: claude
     area: aarhus
   - name: Trustpilot
     url: https://job-boards.greenhouse.io/trustpilot
+    link_regex: /careers/job/|/jobs/\d
     global: true
     area: aarhus
   - name: Bestseller
-    url: https://about.bestseller.com/careers/jobs
-    global: true
+    url: https://bestseller.com/careers#open-positions
+    method: claude
     area: aarhus
   - name: UNIwise
     url: https://uniwise.dk/careers/
     all_titles: true
-    area: aarhus
-  - name: Business Region Aarhus / International Community
-    url: https://www.internationalcommunity.dk/
-    all_titles: true
+    empty_ok: true
     area: aarhus
   - name: Aarhus University
     url: https://international.au.dk/about/profile/vacant-positions
+    link_regex: /vacant-positions/job/
     area: aarhus
 
   # ---------- Copenhagen (hybrid) ----------
   - name: Novo Nordisk Foundation
-    url: https://novonordiskfonden.dk/en/careers/
+    url: https://novonordiskfonden.dk/en/careers-and-jobs/vacant-positions/
+    link_regex: workable\.com/.+/j/|vacant-positions/.+
     all_titles: true
+    empty_ok: true
     area: copenhagen
   - name: Rockwool Foundation
-    url: https://www.rockwoolfonden.dk/en/vacancies/
+    url: https://rockwoolfonden.dk/ledige-stillinger/
+    link_regex: /stillingsopslag/
     all_titles: true
+    empty_ok: true
     area: copenhagen
   - name: UNICEF Supply Division
-    url: https://jobs.unicef.org/en-us/listing/
-    global: true
+    url: https://jobs.unicef.org/en-us/search/?search-keyword=&location=Copenhagen
+    link_regex: /job/\d
+    all_titles: true
+    empty_ok: true
     area: copenhagen
   - name: UNOPS
-    url: https://jobs.unops.org/Pages/ViewVacancy/VAListing.aspx
+    url: https://careers.unops.org/careersmarketplace/SearchJobs
+    link_regex: /JobDetail/
     global: true
     area: copenhagen
   - name: WHO Europe
     url: https://careers.who.int/careersection/ex/jobsearch.ftl
-    global: true
+    method: claude
     area: copenhagen
   - name: European Environment Agency
     url: https://jobs.eea.europa.eu/
+    link_regex: jobs\.eea\.europa\.eu/jobs/[a-z][\w-]*-\d+$
     all_titles: true
+    empty_ok: true
     area: copenhagen
   - name: Copenhagen Capacity
-    url: https://www.copcap.com/about-us/job
-    all_titles: true
+    url: https://www.copcap.com/
+    method: claude
     area: copenhagen
   - name: Danish Refugee Council
-    url: https://drc.ngo/about-us/careers/vacancies/
-    global: true
+    url: https://drc.ngo/en/jobs/
+    method: claude
     area: copenhagen
-  - name: ActionAid Denmark
-    url: https://www.ms.dk/en/jobs
+  - name: ActionAid Denmark (MS)
+    url: https://ms.recruiting.mindkey-app.com/da-DK/open-vacancies
     all_titles: true
+    empty_ok: true
     area: copenhagen
   - name: Orsted
     url: https://orsted.com/en/careers/vacancies-list
+    link_regex: /vacancies-list/\d{4}/
     global: true
     area: copenhagen
   - name: Novo Nordisk
     url: https://careers.novonordisk.com/search/?q=&locationsearch=Denmark
-    global: true
+    link_regex: careers\.novonordisk\.com/job/
     area: copenhagen
   - name: Too Good To Go
-    url: https://www.toogoodtogo.com/en/careers/jobs
+    url: https://jobs.ashbyhq.com/toogoodtogo
+    link_regex: ashbyhq\.com/toogoodtogo/[0-9a-f-]{20,}
     global: true
     area: copenhagen
   - name: Pleo
-    url: https://www.pleo.io/en/careers
+    url: https://jobs.ashbyhq.com/pleo
+    link_regex: ashbyhq\.com/pleo/[0-9a-f-]{20,}
     global: true
     area: copenhagen
   - name: Siteimprove
-    url: https://www.siteimprove.com/careers/jobs/
+    url: https://careers.siteimprove.com/
     global: true
     area: copenhagen
   - name: Danish Design Center
-    url: https://ddc.dk/about/job/
+    url: https://ddc.dk/job-i-ddc/
+    link_regex: ddc\.dk/job-i-ddc/.+|ddc\.dk/job/.+
     all_titles: true
+    empty_ok: true
     area: copenhagen
 
   # ---------- Remote ----------
   - name: Our World in Data
     url: https://ourworldindata.org/jobs
-    all_titles: true
+    method: claude
     area: remote
   - name: Ember
-    url: https://ember-energy.org/careers/
-    all_titles: true
+    url: https://ember-energy.org/about-us/careers/
+    method: claude
     area: remote
   - name: Wikimedia Foundation
     url: https://job-boards.greenhouse.io/wikimedia
+    link_regex: /wikimedia/jobs/\d
     area: remote
   - name: Automattic
     url: https://automattic.com/work-with-us/
+    method: claude
     area: remote
   - name: Doist
-    url: https://doist.com/careers
-    area: remote
-  - name: DataCamp
-    url: https://www.datacamp.com/careers
+    url: https://www.todoist.com/careers
+    link_regex: todoist\.com/careers/[0-9a-f]{8}-
     area: remote
