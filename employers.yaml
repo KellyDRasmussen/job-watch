@@ -1,0 +1,129 @@
+# Employer watchlist for Kelly's Job Radar.
+# Fields:
+#   name        employer name
+#   url         careers / vacancies listing page
+#   global      true = big employer hiring worldwide: keep only ads that mention Denmark / Aarhus / Copenhagen / remote
+#   all_titles  true = small org: keep every role, skip the title keyword filter
+#   link_regex  optional: only links whose URL matches this regex count as job ads
+#   area        aarhus / copenhagen / remote (for the human reading the results)
+
+employers:
+  # ---------- Aarhus area ----------
+  - name: Vestas
+    url: https://careers.vestas.com/search/?q=&locationsearch=Denmark
+    global: true
+    area: aarhus
+  - name: Arla Foods
+    url: https://jobs.arla.com/search/?q=&locationsearch=Denmark
+    global: true
+    area: aarhus
+  - name: Grundfos
+    url: https://jobs.grundfos.com/search/?q=&locationsearch=Denmark
+    global: true
+    area: aarhus
+  - name: Kamstrup
+    url: https://www.kamstrup.com/en-en/about-us/careers/vacancies
+    area: aarhus
+  - name: Trustpilot
+    url: https://job-boards.greenhouse.io/trustpilot
+    global: true
+    area: aarhus
+  - name: Bestseller
+    url: https://about.bestseller.com/careers/jobs
+    global: true
+    area: aarhus
+  - name: UNIwise
+    url: https://uniwise.dk/careers/
+    all_titles: true
+    area: aarhus
+  - name: Business Region Aarhus / International Community
+    url: https://www.internationalcommunity.dk/
+    all_titles: true
+    area: aarhus
+  - name: Aarhus University
+    url: https://international.au.dk/about/profile/vacant-positions
+    area: aarhus
+
+  # ---------- Copenhagen (hybrid) ----------
+  - name: Novo Nordisk Foundation
+    url: https://novonordiskfonden.dk/en/careers/
+    all_titles: true
+    area: copenhagen
+  - name: Rockwool Foundation
+    url: https://www.rockwoolfonden.dk/en/vacancies/
+    all_titles: true
+    area: copenhagen
+  - name: UNICEF Supply Division
+    url: https://jobs.unicef.org/en-us/listing/
+    global: true
+    area: copenhagen
+  - name: UNOPS
+    url: https://jobs.unops.org/Pages/ViewVacancy/VAListing.aspx
+    global: true
+    area: copenhagen
+  - name: WHO Europe
+    url: https://careers.who.int/careersection/ex/jobsearch.ftl
+    global: true
+    area: copenhagen
+  - name: European Environment Agency
+    url: https://jobs.eea.europa.eu/
+    all_titles: true
+    area: copenhagen
+  - name: Copenhagen Capacity
+    url: https://www.copcap.com/about-us/job
+    all_titles: true
+    area: copenhagen
+  - name: Danish Refugee Council
+    url: https://drc.ngo/about-us/careers/vacancies/
+    global: true
+    area: copenhagen
+  - name: ActionAid Denmark
+    url: https://www.ms.dk/en/jobs
+    all_titles: true
+    area: copenhagen
+  - name: Orsted
+    url: https://orsted.com/en/careers/vacancies-list
+    global: true
+    area: copenhagen
+  - name: Novo Nordisk
+    url: https://careers.novonordisk.com/search/?q=&locationsearch=Denmark
+    global: true
+    area: copenhagen
+  - name: Too Good To Go
+    url: https://www.toogoodtogo.com/en/careers/jobs
+    global: true
+    area: copenhagen
+  - name: Pleo
+    url: https://www.pleo.io/en/careers
+    global: true
+    area: copenhagen
+  - name: Siteimprove
+    url: https://www.siteimprove.com/careers/jobs/
+    global: true
+    area: copenhagen
+  - name: Danish Design Center
+    url: https://ddc.dk/about/job/
+    all_titles: true
+    area: copenhagen
+
+  # ---------- Remote ----------
+  - name: Our World in Data
+    url: https://ourworldindata.org/jobs
+    all_titles: true
+    area: remote
+  - name: Ember
+    url: https://ember-energy.org/careers/
+    all_titles: true
+    area: remote
+  - name: Wikimedia Foundation
+    url: https://job-boards.greenhouse.io/wikimedia
+    area: remote
+  - name: Automattic
+    url: https://automattic.com/work-with-us/
+    area: remote
+  - name: Doist
+    url: https://doist.com/careers
+    area: remote
+  - name: DataCamp
+    url: https://www.datacamp.com/careers
+    area: remote

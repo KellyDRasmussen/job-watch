@@ -1,0 +1,36 @@
+name: Job Watch
+
+on:
+  schedule:
+    - cron: "30 4 * * 1-5"   # weekdays 04:30 UTC, before the 07:45 Copenhagen Job Radar
+  workflow_dispatch:
+  push:
+    paths: ["employers.yaml", "watch.py", ".github/workflows/watch.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright==1.47.0 pyyaml
+      - run: python -m playwright install --with-deps chromium
+      - run: python watch.py
+      - name: Save results
+        run: |
+          git config user.name "job-watch-bot"
+          git config user.email "job-watch-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Job Watch results $(date -u +%F)"
+          git pull --rebase
+          git push
