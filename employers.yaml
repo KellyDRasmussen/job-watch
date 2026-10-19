@@ -7,20 +7,30 @@
 #   all_titles  true = small org: keep every role, skip the title keyword filter
 #   link_regex  only links whose URL matches this regex count as job ads
 #   empty_ok    true = the page often has no vacancies, so 0 ads is not an error
+#   more_urls   extra pages to check (e.g. page 2 and 3 of the results)
 #   method      claude = the script can't read this page (bot protection etc.); the Job Radar task checks it with its own web tool
 
 employers:
   # ---------- Aarhus area ----------
   - name: Vestas
     url: https://careers.vestas.com/search/?q=&locationsearch=Denmark
+    more_urls:
+      - https://careers.vestas.com/search/?q=&locationsearch=Denmark&startrow=25
+      - https://careers.vestas.com/search/?q=&locationsearch=Denmark&startrow=50
     link_regex: careers\.vestas\.com/job/
     area: aarhus
   - name: Arla Foods
     url: https://jobs.arla.com/search/?q=&locationsearch=Denmark
+    more_urls:
+      - https://jobs.arla.com/search/?q=&locationsearch=Denmark&startrow=25
+      - https://jobs.arla.com/search/?q=&locationsearch=Denmark&startrow=50
     link_regex: /job/
     area: aarhus
   - name: Grundfos
     url: https://jobs.grundfos.com/search/?q=&locationsearch=Denmark
+    more_urls:
+      - https://jobs.grundfos.com/search/?q=&locationsearch=Denmark&startrow=25
+      - https://jobs.grundfos.com/search/?q=&locationsearch=Denmark&startrow=50
     link_regex: jobs\.grundfos\.com/job/
     area: aarhus
   - name: Kamstrup
@@ -49,9 +59,7 @@ employers:
   # ---------- Copenhagen (hybrid) ----------
   - name: Novo Nordisk Foundation
     url: https://novonordiskfonden.dk/en/careers-and-jobs/vacant-positions/
-    link_regex: workable\.com/.+/j/|vacant-positions/.+
-    all_titles: true
-    empty_ok: true
+    method: claude
     area: copenhagen
   - name: Rockwool Foundation
     url: https://rockwoolfonden.dk/ledige-stillinger/
@@ -61,9 +69,7 @@ employers:
     area: copenhagen
   - name: UNICEF Supply Division
     url: https://jobs.unicef.org/en-us/search/?search-keyword=&location=Copenhagen
-    link_regex: /job/\d
-    all_titles: true
-    empty_ok: true
+    method: claude
     area: copenhagen
   - name: UNOPS
     url: https://careers.unops.org/careersmarketplace/SearchJobs

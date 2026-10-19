@@ -40,7 +40,7 @@ EXCLUDE_RE = re.compile(
     r"\b(sales|account executive|account manager|business development rep|teacher|lærer|"
     r"engineer|developer|technician|mechanic|electrician|operator|driver|chauffeur|nurse|"
     r"phd|postdoc|professor|lecturer|tenure|intern\b|internship|student assistant|studentermedhjælp|"
-    r"student instructor|research assistant|scientist|architect|accountant|controller|counsel|lawyer|"
+    r"student instructor|post ?doc|praktikant|jobagent|vikar|frivillig|research assistant|scientist|architect|accountant|controller|counsel|lawyer|"
     r"vice president|vp|director|head of|chief)",
     re.I,
 )
@@ -127,7 +127,17 @@ def click_matching(page, rx, limit):
 
 
 def scrape(page, emp):
-    page.goto(emp["url"], wait_until="domcontentloaded", timeout=45000)
+    links, final = [], emp["url"]
+    for url in [emp["url"]] + emp.get("more_urls", []):
+        l, final_u = scrape_one(page, url)
+        links += l
+        if url == emp["url"]:
+            final = final_u
+    return links, final
+
+
+def scrape_one(page, url):
+    page.goto(url, wait_until="domcontentloaded", timeout=45000)
     try:
         page.wait_for_load_state("networkidle", timeout=15000)
     except Exception:
@@ -165,7 +175,7 @@ def filter_links(emp, links, final_url):
         if norm_url(href) == norm_url(final_url):
             continue
         candidates += 1
-        title = text.split(" | ")[0][:150]
+        title = text.split(" | ")[0][:250]
         if EXCLUDE_RE.search(title):
             continue
         if not emp.get("all_titles") and not TITLE_RE.search(title):
