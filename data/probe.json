@@ -1,0 +1,1093 @@
+[
+ {
+  "url": "https://www.kamstrup.com/en-en/careers",
+  "status": 429,
+  "final": "https://www.kamstrup.com/en-en/careers",
+  "frames": [],
+  "ats_hints": [],
+  "n_links": 1,
+  "n_joblike": 0,
+  "sample": [],
+  "ctx_example": "",
+  "text_head": "Failed to verify your browser |  | Code 10 |  | Vercel Security Checkpoint |  | | |  | pdx1::1792396482-NlGN2SWv5FMJT1cD7IMNRl94vZWB8AIj"
+ },
+ {
+  "url": "https://www.kamstrup.com/en-en/careers/job-openings",
+  "status": 429,
+  "final": "https://www.kamstrup.com/en-en/careers/job-openings",
+  "frames": [],
+  "ats_hints": [],
+  "n_links": 1,
+  "n_joblike": 0,
+  "sample": [],
+  "ctx_example": "",
+  "text_head": "Failed to verify your browser |  | Code 10 |  | Vercel Security Checkpoint |  | | |  | pdx1::1792396485-NlGN2SWv5FMJT1cD7IMNRl94vZWB8AIj"
+ },
+ {
+  "url": "https://internationalcommunity.dk/about-us/jobs",
+  "status": 404,
+  "final": "https://internationalcommunity.dk/about-us/jobs",
+  "frames": [
+   "https://policy.app.cookieinformation.com/cookiesharingiframe.html"
+  ],
+  "ats_hints": [],
+  "n_links": 46,
+  "n_joblike": 0,
+  "sample": [],
+  "ctx_example": "",
+  "text_head": "ABOUT US EVENTS JOIN A CLUB SUBSCRIBE | FOR COMPANIES CONTACT US | Where did that page go? |  | Sorry, but the page you're looking for was not found. |  | Click on something else or send us an e-mail if you need our help. |  | info@internationalcommunity.dk |  | At International Community, we're committed to helping internationals start their journey in Aarhus with ease by providing practical information and facilita"
+ },
+ {
+  "url": "https://www.businessregionaarhus.dk/ledige-stillinger",
+  "status": 404,
+  "final": "https://businessregionaarhus.dk/ledige-stillinger",
+  "frames": [],
+  "ats_hints": [],
+  "n_links": 48,
+  "n_joblike": 8,
+  "sample": [
+   [
+    "Skip to main content",
+    "https://businessregionaarhus.dk/ledige-stillinger#ajax-content-wrap"
+   ],
+   [
+    "Close Search",
+    "https://businessregionaarhus.dk/ledige-stillinger#"
+   ],
+   [
+    "search",
+    "https://businessregionaarhus.dk/ledige-stillinger#search-box"
+   ],
+   [
+    "De 5 vækstdrivere",
+    "https://businessregionaarhus.dk/ledige-stillinger#"
+   ],
+   [
+    "search",
+    "https://businessregionaarhus.dk/ledige-stillinger#search-box"
+   ],
+   [
+    "Back to Home",
+    "https://businessregionaarhus.dk/ledige-stillinger#"
+   ],
+   [
+    "Close Menu",
+    "https://businessregionaarhus.dk/ledige-stillinger#"
+   ],
+   [
+    "De 5 vækstdrivere",
+    "https://businessregionaarhus.dk/ledige-stillinger#"
+   ]
+  ],
+  "ctx_example": "Oh, no! This page doesn’t exist. Back to Home",
+  "text_head": "Skip to main content | Tryk Enter for at søge eller ESC for at lukke | Search | Close Search | Indlæg | Om os | Hvem er vi? | Organisationen | Vestdanmarks vækstcenter | Ny i byrådet? | Mediebibliotek | Vores arbejde | De 5 vækstdrivere | Mobilt arbejdsmarked | Kvalificeret arbejdskraft | Robust energiforsyning | International investeringskraft | International tilgængelighed | Viden | Kontakt os | Sammen om vækst | search | 404 | Oh, no! This"
+ },
+ {
+  "url": "https://jobs.unicef.org/en-us/search/?search-keyword=&location=Copenhagen",
+  "status": 200,
+  "final": "https://jobs.unicef.org/en-us/search/?search-keyword=&location=Copenhagen",
+  "frames": [
+   "https://ws.sharethis.com/secure/index.html",
+   "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LeC1A0UAAAAAPZK8E1CxJkweNzEiOuWfqJ63a0v&co=aHR0cHM6Ly9qb2JzLnVuaWNlZi5vcmc6NDQz&hl=en&v=4EDjxXf4knsx6UBM1L2V6cv8&size=normal&anchor-ms=20000&execute-ms=30000&cb=fzwr9dr2iovu",
+   "about:blank",
+   "about:blank",
+   "https://www.recaptcha.net/recaptcha/api2/bframe?hl=en&v=4EDjxXf4knsx6UBM1L2V6cv8&k=6LeC1A0UAAAAAPZK8E1CxJkweNzEiOuWfqJ63a0v&bft=0dAFcWeA7Ha0-eEOiVTeiJ9D7rRsbq19a-THELR7EdosFRzIlQPA4AxAqMrerJgmZAt8F32yaGNvd4pIQMKHwl4ZuJVwbPzpUuHw"
+  ],
+  "ats_hints": [],
+  "n_links": 57,
+  "n_joblike": 32,
+  "sample": [
+   [
+    "Skip to main content",
+    "https://jobs.unicef.org/en-us/search/?search-keyword=&location=Copenhagen#main-content"
+   ],
+   [
+    "Unicef default logo",
+    "https://www.unicef.org/careers/"
+   ],
+   [
+    "Explore UNICEF",
+    "https://jobs.unicef.org/en-us/search/?search-keyword=&location=Copenhagen#"
+   ],
+   [
+    "Where we work",
+    "https://www.unicef.org/careers/where-we-work"
+   ],
+   [
+    "Explore careers",
+    "https://www.unicef.org/careers/explore-careers-unicef"
+   ],
+   [
+    "Working in emergencies",
+    "https://www.unicef.org/careers/working-humanitarian-emergencies"
+   ],
+   [
+    "Diversity and inclusion",
+    "https://www.unicef.org/careers/equity-inclusion-and-diversity-unicef"
+   ],
+   [
+    "Leadership recruitment",
+    "https://www.unicef.org/careers/executive-management"
+   ],
+   [
+    "Search jobs",
+    "https://jobs.unicef.org/"
+   ],
+   [
+    "Explore careers",
+    "https://www.unicef.org/careers/explore-careers-unicef"
+   ],
+   [
+    "Life at UNICEF",
+    "https://www.unicef.org/careers/life-unicef"
+   ],
+   [
+    "Get prepared",
+    "https://www.unicef.org/careers/get-prepared"
+   ]
+  ],
+  "ctx_example": "Working in emergencies",
+  "text_head": "We use cookies and other identifiers to help improve your online experience. By using our website you agree to this. To learn more, including how to change your settings, see our cookies policy. |  | Skip to main content | Global Links | Visit UNICEF Global | Careers | Explore UNICEF | Search jobs | Candidate login | Careers | Main navigation | Explore careers | Life at UNICEF | Get prepared | Stories and news | Vacancies | Curr"
+ },
+ {
+  "url": "https://www.unicef.org/careers/",
+  "status": 200,
+  "final": "https://www.unicef.org/careers/",
+  "frames": [
+   "https://www.youtube.com/embed/5r3gIPTuaik?autoplay=0&start=0&rel=0&modestbranding=0&mute=1&loop=0&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.unicef.org",
+   "about:blank",
+   "https://ws.sharethis.com/secure/index.html",
+   "https://9200789.fls.doubleclick.net/activityi;dc_pre=CJTdp7DNxZcDFTeOigcdfK04eg;src=9200789;type=count0;cat=delve00b;rcb=5;npa=0;uaa=x64;uab=64;uafvl=HeadlessChrome%3B129.0.6668.29%7CNot%253DA%253FBrand%3B8.0.0.0%7CChromium%3B129.0.6668.29;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=CAAB;gcu=1;auiddc=1406326194.1792396523;gdid=dMDhkMT;gtm=45fe6ae1h1v9136017791z86351560za20gzb6351560zd6351560xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792396522_vWABpx2fxK_-A8Shauosx3hjDDtTgzK74w;_dc_test=1;~oref=https%3A%2F%2Fwww.unicef.org%2Fcareers%2F?",
+   "https://9200789.fls.doubleclick.net/activityi;dc_pre=CP2oqLDNxZcDFdmXigcdhc8BBA;src=9200789;type=count0;cat=delve00f;rcb=5;ord=3247784988686;npa=0;uaa=x64;uab=64;uafvl=HeadlessChrome%3B129.0.6668.29%7CNot%253DA%253FBrand%3B8.0.0.0%7CChromium%3B129.0.6668.29;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=CFA;gcu=1;auiddc=1406326194.1792396523;gdid=dMDhkMT;gtm=45fe6ae1h1v9136017791z86351560za20gzb6351560zd6351560xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792396522_ReXQE-Z-LmWaCxJUrzSzQqvRxTootDNzog;_dc_test=1;~oref=https%3A%2F%2Fwww.unicef.org%2Fcareers%2F?",
+   "https://9200789.fls.doubleclick.net/activityi;dc_pre=CP6PqLDNxZcDFeRewwAdDekVOg;src=9200789;type=unice0;cat=unice00;rcb=5;ord=6154085405517;npa=0;uaa=x64;uab=64;uafvl=HeadlessChrome%3B129.0.6668.29%7CNot%253DA%253FBrand%3B8.0.0.0%7CChromium%3B129.0.6668.29;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=CFA;gcu=1;auiddc=1406326194.1792396523;gdid=dMDhkMT;gtm=45fe6ae1h1v9136017791z86351560za20gzb6351560zd6351560xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792396522_gOV6jX6n7dG9W6v3Y5rS2hFMU0CQ8PJPbA;_dc_test=1;~oref=https%3A%2F%2Fwww.unicef.org%2Fcareers%2F?"
+  ],
+  "ats_hints": [],
+  "n_links": 154,
+  "n_joblike": 40,
+  "sample": [
+   [
+    "Skip to main content",
+    "https://www.unicef.org/careers/#main-content"
+   ],
+   [
+    "Current language: English",
+    "https://www.unicef.org/careers/"
+   ],
+   [
+    "Français",
+    "https://www.unicef.org/careers/fr"
+   ],
+   [
+    "Español",
+    "https://www.unicef.org/careers/es"
+   ],
+   [
+    "العربية",
+    "https://www.unicef.org/careers/ar"
+   ],
+   [
+    "Where we work",
+    "https://www.unicef.org/careers/where-we-work"
+   ],
+   [
+    "Explore careers",
+    "https://www.unicef.org/careers/explore-careers-unicef"
+   ],
+   [
+    "Working in emergencies",
+    "https://www.unicef.org/careers/working-humanitarian-emergencies"
+   ],
+   [
+    "Diversity and inclusion",
+    "https://www.unicef.org/careers/diverse-and-inclusive-workforce-part-unicefs-dna"
+   ],
+   [
+    "Leadership recruitment",
+    "https://www.unicef.org/careers/executive-management"
+   ],
+   [
+    "Search jobs",
+    "http://jobs.unicef.org/"
+   ],
+   [
+    "Explore careers",
+    "https://www.unicef.org/careers/explore-careers-unicef"
+   ]
+  ],
+  "ctx_example": "Where we work",
+  "text_head": "Skip to main content | Current language: | English | Click to select different language | Visit UNICEF Global | Careers | Explore UNICEF | Search jobs | Candidate login | Careers | Explore careers | Life at UNICEF | Get prepared | Stories and news | UNICEF Careers | For every child, a calling. |  | At UNICEF, we are committed, passionate and proud of what we do. Promoting the rights of every child isn’t just a job – it’s a calling"
+ },
+ {
+  "url": "https://jobs.unops.org/Pages/ViewVacancy/VAListing.aspx",
+  "status": 200,
+  "final": "https://careers.unops.org/",
+  "frames": [
+   "https://www.youtube.com/embed/YYIG4_wqqus?si=PjbzWQsFbfYFgVsb"
+  ],
+  "ats_hints": [],
+  "n_links": 151,
+  "n_joblike": 69,
+  "sample": [
+   [
+    "Skip to content",
+    "https://careers.unops.org/#main"
+   ],
+   [
+    "Open Positions",
+    "https://careers.unops.org/careersmarketplace/SearchJobs"
+   ],
+   [
+    "Get Recommendations",
+    "https://careers.unops.org/careersmarketplace/RecommendationMethods"
+   ],
+   [
+    "See All Open Positions",
+    "https://careers.unops.org/careersmarketplace/SearchJobs"
+   ],
+   [
+    "View All",
+    "https://careers.unops.org/careersmarketplace/SearchJobs"
+   ],
+   [
+    "Administration Associate",
+    "https://careers.unops.org/careersmarketplace/JobDetail/Administration-Associate/4825"
+   ],
+   [
+    "Facebook",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcareers.unops.org%2Fcareersmarketplace%2FJobDetail%2FAdminist"
+   ],
+   [
+    "LinkedIn",
+    "https://careers.unops.org/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.unops.org%2F&action=INIT_SHARE&shareUrl=https%3"
+   ],
+   [
+    "Advisor, Digital Technologies (GIS)",
+    "https://careers.unops.org/careersmarketplace/JobDetail/Advisor-Digital-Technologies-GIS-Retainer/4831"
+   ],
+   [
+    "Facebook",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcareers.unops.org%2Fcareersmarketplace%2FJobDetail%2FAdvisor-"
+   ],
+   [
+    "LinkedIn",
+    "https://careers.unops.org/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.unops.org%2F&action=INIT_SHARE&shareUrl=https%3"
+   ],
+   [
+    "Advisor, Technical (Energy Transition)",
+    "https://careers.unops.org/careersmarketplace/JobDetail/Advisor-Technical-Energy-Transition/4826"
+   ]
+  ],
+  "ctx_example": "Administration Associate",
+  "text_head": "Skip to content | UNOPS | Open Positions | How To Apply | What We Offer | Login | Careers to build the future | Search for open positions | Keywords | Country | Duty Station | Position Area | Search | Not sure where to start? Get Recommendations or See All Open Positions | Open Positions | View All | Administration Associate |  | Duty station(s): Kinshasa |  | Seniority Level: Associate |  | Post End date: 28-Oct-2026 |  | Apply | Share | Advisor, "
+ },
+ {
+  "url": "https://careers.who.int/careersection/ex/jobsearch.ftl",
+  "status": 200,
+  "final": "https://careers.who.int/careersection/ex/jobsearch.ftl",
+  "frames": [],
+  "ats_hints": [
+   "taleo"
+  ],
+  "n_links": 99,
+  "n_joblike": 52,
+  "sample": [
+   [
+    "Sign In",
+    "https://careers.who.int/careersection/ex/jobsearch.ftl?ftlcompclass=LoginComponent"
+   ],
+   [
+    "Job Search",
+    "https://careers.who.int/careersection/ex/jobsearch.ftl"
+   ],
+   [
+    "My Jobpage",
+    "https://careers.who.int/careersection/ex/mysubmissions.ftl"
+   ],
+   [
+    "Instructions for candidates",
+    "https://www.who.int/publications/m/item/stellis-user-guide-how-to-apply-to-who-job-opportunities?ua=1"
+   ],
+   [
+    "Access my profile",
+    "https://careers.who.int/careersection/profile.jss?type=1&portal=101430233"
+   ],
+   [
+    "View All Jobs",
+    "https://careers.who.int/careersection/ex/jobsearch.ftl#"
+   ],
+   [
+    "Advanced Search",
+    "https://careers.who.int/careersection/ex/jobsearch.ftl#"
+   ],
+   [
+    "Add Organization",
+    "https://careers.who.int/careersection/ex/jobsearch.ftl#"
+   ],
+   [
+    "Add Location",
+    "https://careers.who.int/careersection/ex/jobsearch.ftl#"
+   ],
+   [
+    "Add Job Field",
+    "https://careers.who.int/careersection/ex/jobsearch.ftl#"
+   ],
+   [
+    "Posting Date",
+    "https://careers.who.int/careersection/ex/jobsearch.ftl#"
+   ],
+   [
+    "Location",
+    "https://careers.who.int/careersection/ex/jobsearch.ftl#"
+   ]
+  ],
+  "ctx_example": "Keyword Location View All Jobs Advanced Search",
+  "text_head": "Welcome. You are not signed in. | Sign In | Job Search | My Jobpage | Instructions for candidates | Keyword  | Location  | View All Jobs | Advanced Search | Job Openings 1 - 25 of 72 | RSS:  | Posting Date | Today | Yesterday | Last 7 Days | Last 14 Days | Last 21 Days | Last 28 Days | Location | Country | Country |  \tSwitzerland(10) |  \tIndia(8) |  \tPhilippines(7) | City | City |  \tGeneva(10) |  \tNew Delhi(7) | Show more... | See all locations | Job Field"
+ },
+ {
+  "url": "https://www.copcap.com/about-us/jobs",
+  "status": 200,
+  "final": "https://www.copcap.com/",
+  "frames": [
+   "https://policy.app.cookieinformation.com/cookiesharingiframe.html",
+   "https://player.vimeo.com/video/705646108?background=1",
+   "https://player.vimeo.com/video/792955092?background=1",
+   "https://player.vimeo.com/video/792953375?background=1",
+   "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/bjie6/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto",
+   "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/l1ijr/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto"
+  ],
+  "ats_hints": [],
+  "n_links": 399,
+  "n_joblike": 8,
+  "sample": [
+   [
+    "Headstart",
+    "https://www.headstartcareer.dk/"
+   ],
+   [
+    "Cambridge Mechatronics Ltd is opening a new R&D centre in Copenhagen T",
+    "https://www.copcap.com/cases/cambridge-mechatronics-ltd-is-opening-a-new-rd-centre-in-copenhagen"
+   ],
+   [
+    "Ferring Pharmaceuticals Creates 120 New Jobs The international pharmac",
+    "https://www.copcap.com/cases/the-international-pharma-company-creates-120-new-jobs"
+   ],
+   [
+    "Career Coffee A State of Denmark A new initiative from Copenhagen Capa",
+    "https://www.copcap.com/campaigns/career-coffee-news"
+   ],
+   [
+    "Events Dec 1, 2026 Navigating your job search in a competitive market ",
+    "https://www.state-of-denmark.com/job-search-in-a-competitive-market"
+   ],
+   [
+    "Events Feb 26, 2026 Life Science Career Event Meet with international ",
+    "https://www.state-of-denmark.com/life-science-career-event-2026"
+   ],
+   [
+    "Events Dec 1, 2026 Navigating your job search in a competitive market ",
+    "https://www.state-of-denmark.com/job-search-in-a-competitive-market"
+   ],
+   [
+    "Events Feb 26, 2026 Life Science Career Event Meet with international ",
+    "https://www.state-of-denmark.com/life-science-career-event-2026"
+   ]
+  ],
+  "ctx_example": "Events Feb 26, 2026 Life Science Career Event Meet with international talent and leading Life Science companies at BioInnovation Institute, Copenhagen. Read more",
+  "text_head": "You control your data |  |  |  | We use our own and third-party cookies for statistics and user-friendliness optimisation to deliver the best content about life and work in Denmark. |  |  |  |  | By clicking ‘Accept all’, you consent to the use of all our cookies as described in our cookie policy. You can also select between different types of cookie consent by ticking the checkboxes before clicking ‘Save settings."
+ },
+ {
+  "url": "https://www.copcap.com/job",
+  "status": 404,
+  "final": "https://www.copcap.com/job",
+  "frames": [
+   "https://policy.app.cookieinformation.com/cookiesharingiframe.html",
+   "about:blank"
+  ],
+  "ats_hints": [],
+  "n_links": 78,
+  "n_joblike": 1,
+  "sample": [
+   [
+    "PHP - Privacy policy(opens in a new tab)",
+    "https://www.copcap.com/job#"
+   ]
+  ],
+  "ctx_example": "Service: PHP Purpose: Required for the website to perform properly. Privacy policy: PHP - Privacy policy(opens in a new tab) Expiry: Session Name: PHPSESSID Vendor: iframe.biotechgate.com",
+  "text_head": "You control your data |  |  |  | We use our own and third-party cookies for statistics and user-friendliness optimisation to deliver the best content about life and work in Denmark. |  |  |  |  | By clicking ‘Accept all’, you consent to the use of all our cookies as described in our cookie policy. You can also select between different types of cookie consent by ticking the checkboxes before clicking ‘Save settings."
+ },
+ {
+  "url": "https://drc.ngo/about-us/careers/vacancies/",
+  "status": 200,
+  "final": "https://drc.ngo/en/jobs/",
+  "frames": [],
+  "ats_hints": [],
+  "n_links": 111,
+  "n_joblike": 2,
+  "sample": [
+   [
+    "Skip navigation",
+    "https://drc.ngo/en/jobs/#main"
+   ],
+   [
+    "Work with us",
+    "https://drc.ngo/en/jobs/"
+   ]
+  ],
+  "ctx_example": "Work with us",
+  "text_head": "Skip navigation | Menu | Donate | Where we work | What we do | Resources | About us | Search | BACK | Work with us |  | Every year, we welcome hundreds of new colleagues passionate about creating lasting change. Together, we work across around 30 countries, contributing to meaningful solutions that directly improve lives. Explore current job opportunities below and see how you can be part of our mission. |  | Filter | Show | H"
+ },
+ {
+  "url": "https://www.ms.dk/job",
+  "status": 200,
+  "final": "https://ms.dk/job",
+  "frames": [],
+  "ats_hints": [
+   "hr-manager"
+  ],
+  "n_links": 98,
+  "n_joblike": 1,
+  "sample": [
+   [
+    "Se og søg ledige stillinger",
+    "https://ms.recruiting.mindkey-app.com/da-DK/open-vacancies"
+   ]
+  ],
+  "ctx_example": "Ledige job Se og søg ledige stillinger",
+  "text_head": "Gør en forskel | Besøg os | Vores arbejde | Om os | Shop | Bliv medlem | Støt | Job | Gør en forskel |  | Vil du kæmpe for en mere retfærdig og bæredygtig verden sammen med os? |  | Vi leder altid efter nye, dygtige medarbejdere, som vil være med på vores rejse for at gøre en forskel i verden både på nationalt og internationalt plan. Vi tilbyder muligheder for fastansættelse på fuld- eller deltid, studiejob eller praktik"
+ },
+ {
+  "url": "https://www.actionaid.dk/job",
+  "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.actionaid.dk/job\nCall log:\nnavigating to \"https://www.actionaid.dk/job\", waiting until \"domcontentloaded\"\n"
+ },
+ {
+  "url": "https://www.toogoodtogo.com/en/careers",
+  "status": 429,
+  "final": "https://www.toogoodtogo.com/en/careers",
+  "frames": [],
+  "ats_hints": [],
+  "n_links": 1,
+  "n_joblike": 0,
+  "sample": [],
+  "ctx_example": "",
+  "text_head": "Failed to verify your browser |  | Code 10 |  | Vercel Security Checkpoint |  | | |  | pdx1::1792396582-MKrsuPz0BZZnWF5VGiZc4NJ6uyWU8DdR"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/toogoodtogo",
+  "status": 404,
+  "final": "https://job-boards.greenhouse.io/toogoodtogo",
+  "frames": [],
+  "ats_hints": [
+   "greenhouse"
+  ],
+  "n_links": 0,
+  "n_joblike": 0,
+  "sample": [],
+  "ctx_example": "",
+  "text_head": "Page not found |  | The job board you were viewing is no longer active."
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/toogoodtogo",
+  "status": 200,
+  "final": "https://jobs.ashbyhq.com/toogoodtogo",
+  "frames": [],
+  "ats_hints": [
+   "ashbyhq"
+  ],
+  "n_links": 49,
+  "n_joblike": 48,
+  "sample": [
+   [
+    "Bilingual Customer Experience Specialist (English & Spanish) Customer ",
+    "https://jobs.ashbyhq.com/toogoodtogo/1402f68f-6f65-46bd-8162-fa8021c83c94"
+   ],
+   [
+    "CX Specialist (French & English Speaker) Customer Experience • Scotlan",
+    "https://jobs.ashbyhq.com/toogoodtogo/4b89cf46-f3b2-432e-bd52-78607e5284c9"
+   ],
+   [
+    "CX Specialist (Italian & English Speaker) Customer Experience • Scotla",
+    "https://jobs.ashbyhq.com/toogoodtogo/8b8fc750-ccab-4fd9-8d82-e3acc7f83dea"
+   ],
+   [
+    "Accountant Finance • Copenhagen, Denmark • Full time • Hybrid",
+    "https://jobs.ashbyhq.com/toogoodtogo/2dbeb05d-7499-475f-be58-a205713a48a6"
+   ],
+   [
+    "Head of Group Financial Controlling Finance • Copenhagen, Denmark • Fu",
+    "https://jobs.ashbyhq.com/toogoodtogo/c9f24d85-b09d-49d5-b823-09dc24184160"
+   ],
+   [
+    "Sales Tax Analyst Finance • New York, NY (US) • Full time • Hybrid",
+    "https://jobs.ashbyhq.com/toogoodtogo/a5720863-d3b3-4f94-93b5-3779d4a6c1be"
+   ],
+   [
+    "Bilingual Inside Sales Executive - Full Cycle (French/English) Sales •",
+    "https://jobs.ashbyhq.com/toogoodtogo/25b66343-4854-4014-ae84-4201211df85f"
+   ],
+   [
+    "Field Sales Executive Sales • Sydney, Australia • Full time • Hybrid",
+    "https://jobs.ashbyhq.com/toogoodtogo/a6a594d9-5328-478c-a6d3-21de56c3c39d"
+   ],
+   [
+    "Head of Sales (FTC) Sales • Warsaw, Poland • Full time • Hybrid",
+    "https://jobs.ashbyhq.com/toogoodtogo/d049c2cf-8df7-467b-ace8-824961cf7972"
+   ],
+   [
+    "Inside Account Executive Sales • Austin, TX (US) • Full time • Hybrid",
+    "https://jobs.ashbyhq.com/toogoodtogo/85d256f4-1690-4809-8231-5315e3561c54"
+   ],
+   [
+    "Inside Sales Executive (Full Cycle) Sales • Toronto, Canada • Full tim",
+    "https://jobs.ashbyhq.com/toogoodtogo/1fbeed5f-367d-4951-9e59-1ca791a53e02"
+   ],
+   [
+    "Inside Sales Specialist Sales • Melbourne, Australia • Full time",
+    "https://jobs.ashbyhq.com/toogoodtogo/8da5b0f5-0936-4ad1-ac6e-4f68f43a7662"
+   ]
+  ],
+  "ctx_example": "Sales Tax Analyst Finance • New York, NY (US) • Full time • Hybrid",
+  "text_head": "Open Positions (44) | Filters: | Reset filters | Department | All Departments | Customer Experience (3) | Finance (3) | Sales (20) | Key Accounts (4) | Manufacturers (2) | Marketing (6) | Product (4) | Tech (2) | Employment Type | All Employment Types | Full time (42) | Intern (1) | Part time (1) | Location | All Locations | Austin, TX (US) (3) | Bologna, Italy (1) | Brussels, Belgium (1) | Copenhagen, Denmark (5) | Lisbon, Portugal (3) | London,"
+ },
+ {
+  "url": "https://ddc.dk/job/",
+  "status": 200,
+  "final": "https://ddc.dk/job-i-ddc/",
+  "frames": [],
+  "ats_hints": [],
+  "n_links": 25,
+  "n_joblike": 2,
+  "sample": [
+   [
+    "Spring til indhold",
+    "https://ddc.dk/job-i-ddc/#main"
+   ],
+   [
+    "Job i DDC",
+    "https://ddc.dk/job-i-ddc/"
+   ]
+  ],
+  "ctx_example": "",
+  "text_head": "Spring til indhold | MENU | Job i DDC |  | Vi har ingen ledige stillinger i øjeblikket. Vi søger fra tid til anden nye kolleger. Hold øje med siden her! |  | Kan du ikke få nok af design og innovation? |  | Tilmeld dig vores nyhedsbrev og få de seneste nyheder fra DDC i din indbakke. |  | TILMELD DIG VORES NYHEDSBREV | DDC – Dansk Design Center |  | Sundkaj 153 | 2. sal | 2150 Nordhavn | CVR 3699 4126 |  | FØLG OS PÅ LINKEDIN | PRIVAT"
+ },
+ {
+  "url": "https://ddc.dk/en/about-ddc/jobs",
+  "status": 404,
+  "final": "https://ddc.dk/en/about-ddc/jobs",
+  "frames": [],
+  "ats_hints": [],
+  "n_links": 25,
+  "n_joblike": 2,
+  "sample": [
+   [
+    "Spring til indhold",
+    "https://ddc.dk/en/about-ddc/jobs#main"
+   ],
+   [
+    "Job i DDC",
+    "https://ddc.dk/job-i-ddc/"
+   ]
+  ],
+  "ctx_example": "",
+  "text_head": "Spring til indhold | MENU | Det er ikke dig, det | er os |  | Undskyld! Vi kan ikke finde siden, du leder efter. |  | Brug menuen til at søge eller | navigere på hjemmesiden. |  | Kan du ikke få nok af design og innovation? |  | Tilmeld dig vores nyhedsbrev og få de seneste nyheder fra DDC i din indbakke. |  | TILMELD DIG VORES NYHEDSBREV | DDC – Dansk Design Center |  | Sundkaj 153 | 2. sal | 2150 Nordhavn | CVR 3699 4126 |  | FØLG OS PÅ L"
+ },
+ {
+  "url": "https://ember-energy.org/about-us/careers/",
+  "status": 403,
+  "final": "https://ember-energy.org/about-us/careers/",
+  "frames": [
+   "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/4diug/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto"
+  ],
+  "ats_hints": [],
+  "n_links": 2,
+  "n_joblike": 0,
+  "sample": [],
+  "ctx_example": "",
+  "text_head": "ember-energy.org | Performing security verification |  | This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. |  | Ray ID: a4ce3a36ba5dc4cf | Performance and Security by Cloudflare | Privacy"
+ },
+ {
+  "url": "https://apply.workable.com/ember/",
+  "status": 200,
+  "final": "https://apply.workable.com/ember/",
+  "frames": [
+   "about:blank",
+   "https://www.googletagmanager.com/ns.html?id=GTM-WKS7WTT&gtm_auth=SGnzIn3pcB7S4fevFXOKPQ&gtm_preview=env-2&gtm_cookies_win=x",
+   "about:blank"
+  ],
+  "ats_hints": [
+   "workable"
+  ],
+  "n_links": 5,
+  "n_joblike": 2,
+  "sample": [
+   [
+    "View jobs",
+    "https://apply.workable.com/ember/#jobs"
+   ],
+   [
+    "Workable",
+    "https://jobs.workable.com/?utm_campaign=careers_page&utm_content=careers_page&utm_medium=feature&utm_source=careers_page"
+   ]
+  ],
+  "ctx_example": "Accessibility Cookie settings Powered byWorkable",
+  "text_head": "Careers at Ember, llc |  |  |  |  | View jobs | Be a part of a team creating events worth attending |  |  |  | just a couple of the gatherings you could be behind the scenes making come to life |  | Job Openings |  |  |  | Sorry, no job openings at the moment. |  | We open new jobs from time to time, so please check again soon! |  | View website | Help | Accessibility | Cookie settings | Powered byWorkable"
+ },
+ {
+  "url": "https://automattic.com/jobs/",
+  "status": 403,
+  "final": "https://automattic.com/jobs/",
+  "frames": [],
+  "ats_hints": [],
+  "n_links": 0,
+  "n_joblike": 0,
+  "sample": [],
+  "ctx_example": "",
+  "text_head": "403 Forbidden | nginx"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/datacamp",
+  "status": 200,
+  "final": "https://job-boards.greenhouse.io/datacamp",
+  "frames": [],
+  "ats_hints": [
+   "greenhouse"
+  ],
+  "n_links": 41,
+  "n_joblike": 41,
+  "sample": [
+   [
+    "Create alert",
+    "https://my.greenhouse.io/users/sign_in?job_board=datacamp&source=job_alert_board"
+   ],
+   [
+    "Engineering Manager (Learn Product) Belgium",
+    "https://job-boards.greenhouse.io/datacamp/jobs/8009925"
+   ],
+   [
+    "Engineering Manager (Learn Product) Portugal",
+    "https://job-boards.greenhouse.io/datacamp/jobs/8110837"
+   ],
+   [
+    "Principal AI Engineer United Kingdom",
+    "https://job-boards.greenhouse.io/datacamp/jobs/8074115"
+   ],
+   [
+    "Principal AI Engineer - AI Creator Belgium; Dubai; Portugal; United Ki",
+    "https://job-boards.greenhouse.io/datacamp/jobs/7754712"
+   ],
+   [
+    "Principal AI Engineer - AI Creator Belgium; Dubai; Portugal; United Ki",
+    "https://job-boards.greenhouse.io/datacamp/jobs/7754781"
+   ],
+   [
+    "Principal AI Engineer - AI Creator Belgium; Dubai; Portugal; United Ki",
+    "https://job-boards.greenhouse.io/datacamp/jobs/7754782"
+   ],
+   [
+    "Principal AI Engineer - AI Creator Belgium; Dubai; Portugal; United Ki",
+    "https://job-boards.greenhouse.io/datacamp/jobs/7754783"
+   ],
+   [
+    "Principal AI Engineer - AI Tutor Belgium; Dubai; Portugal; United King",
+    "https://job-boards.greenhouse.io/datacamp/jobs/7481117"
+   ],
+   [
+    "Principal AI Engineer - AI Tutor Belgium; Dubai; Portugal; United King",
+    "https://job-boards.greenhouse.io/datacamp/jobs/7619315"
+   ],
+   [
+    "Principal AI Engineer - AI Tutor Belgium; Dubai; Portugal; United King",
+    "https://job-boards.greenhouse.io/datacamp/jobs/7619318"
+   ],
+   [
+    "Principal AI Engineer - AI Tutor Belgium; Dubai; Portugal; United King",
+    "https://job-boards.greenhouse.io/datacamp/jobs/7619320"
+   ]
+  ],
+  "ctx_example": "Principal AI Engineer - AI Creator Belgium; Dubai; Portugal; United Kingdom; United States",
+  "text_head": "Current openings at DataCamp |  | Create a Job Alert |  | Level-up your career by having opportunities at DataCamp sent directly to your inbox. |  | Create alert | Search | 39 jobs | Engineering |  | Job |  |  |  |  | Engineering Manager (Learn Product) |  | Belgium |  |  |  |  | Engineering Manager (Learn Product) |  | Portugal |  |  |  |  | Principal AI Engineer |  | United Kingdom |  |  |  |  | Principal AI Engineer - AI Creator |  | Belgium; Dubai; Portugal; United King"
+ },
+ {
+  "url": "https://jobs.lever.co/datacamp",
+  "status": 404,
+  "final": "https://jobs.lever.co/datacamp",
+  "frames": [
+   "about:blank"
+  ],
+  "ats_hints": [
+   "lever.co"
+  ],
+  "n_links": 1,
+  "n_joblike": 1,
+  "sample": [
+   [
+    "Jobs powered by",
+    "https://www.lever.co/job-seeker-support/"
+   ]
+  ],
+  "ctx_example": "Sorry, we couldn't find anything here The job posting you're looking for might have closed, or it has been removed. (404 error). Jobs powered by",
+  "text_head": "Sorry, we couldn't find anything here |  | The job posting you're looking for might have closed, or it has been removed. (404 error). |  | Jobs powered by"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/datacamp",
+  "status": 200,
+  "final": "https://jobs.ashbyhq.com/datacamp",
+  "frames": [],
+  "ats_hints": [
+   "ashbyhq"
+  ],
+  "n_links": 5,
+  "n_joblike": 4,
+  "sample": [
+   [
+    "Powered by",
+    "https://www.ashbyhq.com/"
+   ],
+   [
+    "Privacy Policy",
+    "https://www.ashbyhq.com/privacy"
+   ],
+   [
+    "Security",
+    "https://www.ashbyhq.com/security"
+   ],
+   [
+    "Vulnerability Disclosure",
+    "https://www.ashbyhq.com/disclosure"
+   ]
+  ],
+  "ctx_example": "Vulnerability Disclosure",
+  "text_head": "Page not found |  | The page you requested was not found |  | Powered by  |  | Privacy PolicySecurityVulnerability Disclosure"
+ },
+ {
+  "url": "https://job-boards.greenhouse.io/siteimprove",
+  "status": 404,
+  "final": "https://job-boards.greenhouse.io/siteimprove",
+  "frames": [],
+  "ats_hints": [
+   "greenhouse"
+  ],
+  "n_links": 0,
+  "n_joblike": 0,
+  "sample": [],
+  "ctx_example": "",
+  "text_head": "Page not found |  | The job board you were viewing is no longer active."
+ },
+ {
+  "url": "https://www.siteimprove.com/careers/",
+  "status": 404,
+  "final": "https://www.siteimprove.com/careers/",
+  "frames": [],
+  "ats_hints": [],
+  "n_links": 92,
+  "n_joblike": 3,
+  "sample": [
+   [
+    "Skip to main content",
+    "https://www.siteimprove.com/careers/#main-content"
+   ],
+   [
+    "Careers",
+    "https://careers.siteimprove.com/"
+   ],
+   [
+    "Careers",
+    "https://careers.siteimprove.com/"
+   ]
+  ],
+  "ctx_example": "Careers",
+  "text_head": "Skip to main content | Platform | Solutions | Resources | Company | Login | Request a demo | Oops! We can't seem to find the page you're looking for. |  | Before you go, maybe this link will take you in the right direction.  |  | Our front page | Platform | Platform Overview | Accessibility | Search | Analytics | Content Strategy | Who We Help | Finance | Healthcare | Higher Education | Government | Manufacturing | Retail | Resources | Blog | Case St"
+ },
+ {
+  "url": "https://doist.com/careers",
+  "status": 200,
+  "final": "https://www.todoist.com/careers",
+  "frames": [
+   "about:blank"
+  ],
+  "ats_hints": [],
+  "n_links": 78,
+  "n_joblike": 7,
+  "sample": [
+   [
+    "See open roles",
+    "https://www.todoist.com/careers#open-roles"
+   ],
+   [
+    "General Counsel",
+    "https://www.todoist.com/careers/464709c2-75ab-46d3-a416-6b91e8ca8b7f-general-counsel"
+   ],
+   [
+    "Apple Engineer",
+    "https://www.todoist.com/careers/56d0e7bf-e681-41b0-b5d7-d835d9380c6b-apple-engineer"
+   ],
+   [
+    "See open roles",
+    "https://www.todoist.com/careers#open-roles"
+   ],
+   [
+    "Careers We’re hiring!",
+    "https://www.todoist.com/careers"
+   ],
+   [
+    "Cookie preferences",
+    "https://www.todoist.com/careers#cookie-preferences"
+   ],
+   [
+    "Your Privacy Choices",
+    "https://www.todoist.com/careers#privacy-choices"
+   ]
+  ],
+  "ctx_example": "Cookie preferences",
+  "text_head": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: | Privacy Policy | Manage Preferences | Personal | Business | Integrations & AI | Resources | Pricing | Log in | Start for free |  | Get ready to turn thinking into doing. Meet Ramble |  | Breaking the status quo to make an im"
+ },
+ {
+  "url": "https://jobs.bestseller.com/",
+  "status": 200,
+  "final": "https://bestseller.com/careers",
+  "frames": [
+   "chrome-error://chromewebdata/"
+  ],
+  "ats_hints": [],
+  "n_links": 58,
+  "n_joblike": 5,
+  "sample": [
+   [
+    "CAREERS",
+    "https://bestseller.com/careers"
+   ],
+   [
+    "Careers",
+    "https://bestseller.com/careers"
+   ],
+   [
+    "EARLY TALENT PROGRAMMES",
+    "https://bestseller.com/careers#early-talent-programmes"
+   ],
+   [
+    "OPEN POSITIONS",
+    "https://bestseller.com/careers#open-positions"
+   ],
+   [
+    "FACEBOOK",
+    "https://www.facebook.com/BESTSELLERCareers/"
+   ]
+  ],
+  "ctx_example": "FACEBOOK",
+  "text_head": "YOUR COOKIE CONSENT |  | We use cookies and other tracking technologies on our website, some of which are placed by third parties. We do this to ensure the functionalities on the site, measure and analyze user traffic and create general statistics regarding the use of the page, as well as for targeted marketing, such as retargeting. |  |  |  |  | By clicking on \"Accept all cookies\", you agree that we and third "
+ },
+ {
+  "url": "https://novonordiskfonden.dk/en/careers-and-jobs/",
+  "status": 200,
+  "final": "https://novonordiskfonden.dk/en/careers-and-jobs/",
+  "frames": [
+   "https://policy.app.cookieinformation.com/cookiesharingiframe.html"
+  ],
+  "ats_hints": [
+   "workable"
+  ],
+  "n_links": 119,
+  "n_joblike": 6,
+  "sample": [
+   [
+    "Careers and jobs",
+    "https://novonordiskfonden.dk/en/careers-and-jobs/"
+   ],
+   [
+    "What do we support?",
+    "https://novonordiskfonden.dk/en/careers-and-jobs/#"
+   ],
+   [
+    "How do we work?",
+    "https://novonordiskfonden.dk/en/careers-and-jobs/#"
+   ],
+   [
+    "Who are we?",
+    "https://novonordiskfonden.dk/en/careers-and-jobs/#"
+   ],
+   [
+    "Careers and jobs",
+    "https://novonordiskfonden.dk/en/careers-and-jobs/"
+   ],
+   [
+    "Recruitment process The various steps in our recruitment process are o",
+    "https://novonordiskfonden.dk/en/careers-and-jobs/recruitment-process/"
+   ]
+  ],
+  "ctx_example": "Recruitment process The various steps in our recruitment process are outlined below. Read more Vacant positions Interested in a job at the Novo Nordisk Foundation? Read more",
+  "text_head": "You control your data |  | We and our business partners use technologies, including cookies, to collect information about you for various purposes, including: personalization of content and ads, analyzing our traffic, and providing access to social media features. |  | By clicking ‘Accept’, you give your consent for all these purposes. You can also choose to specify the purposes you consent to by ticking "
+ },
+ {
+  "url": "https://rockwoolfonden.dk/ledige-stillinger/",
+  "status": 200,
+  "final": "https://rockwoolfonden.dk/ledige-stillinger/",
+  "frames": [],
+  "ats_hints": [],
+  "n_links": 53,
+  "n_joblike": 4,
+  "sample": [
+   [
+    "Ledige stillinger",
+    "https://rockwoolfonden.dk/ledige-stillinger/"
+   ],
+   [
+    "Ledige stillinger",
+    "https://rockwoolfonden.dk/ledige-stillinger/"
+   ],
+   [
+    "STILLINGSOPSLAG ROCKWOOL Fonden søger metodestærk økonom med interesse",
+    "https://rockwoolfonden.dk/stillingsopslag/rockwool-fonden-soeger-metodestaerk-oekonom-med-interesse-for-forskning-i-migr"
+   ],
+   [
+    "LEDIGE STILLINGER",
+    "https://rockwoolfonden.dk/ledige-stillinger/"
+   ]
+  ],
+  "ctx_example": "LEDIGE STILLINGER",
+  "text_head": "MEDARBEJDERE |  | OM FONDEN |  | PRESSEKONTAKT | DA |  | / |  | EN | ARBEJDSMARKED OG BESKÆFTIGELSE | SKOLE OG UDDANNELSE | FAMILIE OG SOCIALE FORHOLD | SUNDHED OG TRIVSEL | PRODUKTIVITET OG VELSTAND | Ledige stillinger |  | STILLINGSOPSLAG |  | ROCKWOOL Fonden søger metodestærk økonom med interesse for forskning i migration, mentalt helbred og uddannelse |  | Oktober 2026 |  | Få ny viden direkte i din indbakke |  | Vi sender løbende nyheder om "
+ },
+ {
+  "url": "https://ourworldindata.org/jobs",
+  "status": 200,
+  "final": "https://ourworldindata.org/jobs",
+  "frames": [],
+  "ats_hints": [
+   "greenhouse"
+  ],
+  "n_links": 78,
+  "n_joblike": 1,
+  "sample": [
+   [
+    "CO₂ emissions",
+    "https://ourworldindata.org/co2-and-greenhouse-gas-emissions"
+   ]
+  ],
+  "ctx_example": "CO₂ emissions",
+  "text_head": "Our World | in Data | Browse by topic | Data | Latest | Resources | About | Donate | About | About us | Organization | Funding | Team | Jobs | FAQs | Vacancies | We’re looking for a writer |  | We’re hiring a writer who can make the world’s largest problems understandable to our large Our World in Data audience. |  | Why join Our World in Data? |  | Research and data are crucial to making progress against the world's large problems and buil"
+ },
+ {
+  "url": "https://jobs.ashbyhq.com/pleo",
+  "status": 200,
+  "final": "https://jobs.ashbyhq.com/pleo",
+  "frames": [],
+  "ats_hints": [
+   "ashbyhq"
+  ],
+  "n_links": 33,
+  "n_joblike": 32,
+  "sample": [
+   [
+    "Account Executive II Commercial • Amsterdam • Full time • Hybrid",
+    "https://jobs.ashbyhq.com/pleo/ea20360e-0246-40d5-8f43-24de7af14a26"
+   ],
+   [
+    "Account Executive II - Nordics Commercial • Copenhagen • Full time",
+    "https://jobs.ashbyhq.com/pleo/5fcea6a4-028f-4975-a964-c7cedbd097fa"
+   ],
+   [
+    "Account Executive II DACH Commercial • Berlin • Full time",
+    "https://jobs.ashbyhq.com/pleo/69d8a586-0205-474b-9190-e414c8f9a021"
+   ],
+   [
+    "Account Executive UK/I Commercial • London • Full time • Hybrid",
+    "https://jobs.ashbyhq.com/pleo/2b02b272-cd9b-4229-a902-5aa7bad4fca8"
+   ],
+   [
+    "Account Manager ES Commercial • Lisbon • Full time • Hybrid",
+    "https://jobs.ashbyhq.com/pleo/daf01099-d709-4ba3-9ba2-d4172b29638f"
+   ],
+   [
+    "Manager, Sales (Emerging: ES, NL, Nordics) Commercial • Lisbon; Madrid",
+    "https://jobs.ashbyhq.com/pleo/40a8a279-8680-4169-a17c-51cc30d4c840"
+   ],
+   [
+    "Manager, Sales UKI (Emerging) Commercial • Lisbon; London • Full time ",
+    "https://jobs.ashbyhq.com/pleo/f5e2905c-9fd4-406e-8edf-6980d5387a55"
+   ],
+   [
+    "Senior Manager, Sales UKI Commercial • London • Full time • Hybrid",
+    "https://jobs.ashbyhq.com/pleo/5931594c-d0e3-40c5-85d2-c685f8b22eba"
+   ],
+   [
+    "Customer Success Manager II (Nordics, Danish Speaking) Customer Experi",
+    "https://jobs.ashbyhq.com/pleo/168fea22-f22f-4639-934a-d9568fa892f8"
+   ],
+   [
+    "Customer Support Senior Associate Customer Experience • Lisbon • Full ",
+    "https://jobs.ashbyhq.com/pleo/1469f1e9-4aa2-4f48-af8b-490e074faf8e"
+   ],
+   [
+    "Senior Customer Success Manager Customer Experience • London • Full ti",
+    "https://jobs.ashbyhq.com/pleo/161ac1f2-4fb0-40f2-aca2-e49021fcbd59"
+   ],
+   [
+    "Senior Enterprise Customer Success Manager Customer Experience • Londo",
+    "https://jobs.ashbyhq.com/pleo/acb84882-ff87-4c1e-8707-07c589742243"
+   ]
+  ],
+  "ctx_example": "Manager, Sales (Emerging: ES, NL, Nordics) Commercial • Lisbon; Madrid • Full time • Hybrid",
+  "text_head": "Open Positions (28) | Filters: | Reset filters | Department | All Departments | Commercial (8) | Customer Experience (4) | Data (1) | Engineering (1) | Finance (1) | Legal (4) | People (1) | Product (2) | Revenue Operations (2) | Risk & Compliance (1) | SDR (3) | Employment Type | All Employment Types | Full time (28) | Location | All Locations | Amsterdam (2) | Berlin (1) | Copenhagen (6) | Denmark (3) | Germany (1) | Lisbon (13) | London (11) | Madri"
+ },
+ {
+  "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
+  "status": 200,
+  "final": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
+  "frames": [],
+  "ats_hints": [
+   "successfactors"
+  ],
+  "n_links": 89,
+  "n_joblike": 66,
+  "sample": [
+   [
+    "Skip to main content",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark#content"
+   ],
+   [
+    "Talent Universe",
+    "https://careers.vestas.com/talentcommunity/subscribe/?locale=en_GB"
+   ],
+   [
+    "Language",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark#"
+   ],
+   [
+    "Dansk (Danmark)",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark&locale=da_DK"
+   ],
+   [
+    "Deutsch (Deutschland)",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark&locale=de_DE"
+   ],
+   [
+    "English (United Kingdom)",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark&locale=en_GB"
+   ],
+   [
+    "English (United States)",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark&locale=en_US"
+   ],
+   [
+    "Español (España)",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark&locale=es_ES"
+   ],
+   [
+    "Français (France)",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark&locale=fr_FR"
+   ],
+   [
+    "Italiano (Italia)",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark&locale=it_IT"
+   ],
+   [
+    "日本語 (日本)",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark&locale=ja_JP"
+   ],
+   [
+    "Português (Portugal)",
+    "https://careers.vestas.com/search/?q=&locationsearch=Denmark&locale=pt_PT"
+   ]
+  ],
+  "ctx_example": "English (United Kingdom)",
+  "text_head": "Language   | View profile | Talent Universe | Country/Region | All | Argentina | Australia | Austria | Belgium | Brazil | Canada | Chile | China | Denmark | Dominican Republic | Estonia | Finland | France | Germany | Greece | India | Italy | Japan | Mexico | Netherlands | New Zealand | Peru | Philippines | Poland | Portugal | Romania | South Africa | South Korea | Spain | Sweden | Taiwan | Türkiye | Ukraine | United Kingdom | United States | Job Family | All | Administration, Fac"
+ }
+]
