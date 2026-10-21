@@ -1,34 +1,41 @@
 {
- "run_date": "2026-10-20",
+ "run_date": "2026-10-21",
  "first_run": false,
  "new": [
   {
    "employer": "Vestas",
    "area": "aarhus",
-   "title": "Documentation Senior Specialist",
-   "url": "https://careers.vestas.com/job/Aarhus-N-Documentation-Senior-Specialist-Regi-8200/1447553433/",
-   "context": "Documentation Senior Specialist Aarhus N, Region Central Jutland, DK, 8200 Engineering Management"
+   "title": "Partner Procurement Program Specialist",
+   "url": "https://careers.vestas.com/job/Aarhus-N-Partner-Procurement-Program-Specialist-Regi-8200/1446620033/",
+   "context": "Partner Procurement Program Specialist Aarhus N, Region Central Jutland, DK, 8200 Supply Chain and Logistics Specialist"
   },
   {
    "employer": "Vestas",
    "area": "aarhus",
-   "title": "Traceability Insights Specialist",
-   "url": "https://careers.vestas.com/job/Aarhus-N-Traceability-Insights-Specialist-Regi-8200/1448402033/",
-   "context": "Traceability Insights Specialist Aarhus N, Region Central Jutland, DK, 8200 Engineering Specialist"
+   "title": "Finance Master Data Lead Analyst",
+   "url": "https://careers.vestas.com/job/Pasay-Finance-Master-Data-Lead-Analyst-00-1300/1429048333/",
+   "context": "Finance Master Data Lead Analyst Pasay, 00, PH, 1300 Administration, Facilities & Secretarial Administrative"
   },
   {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Data Privacy and Compliance Advisor",
-   "url": "https://careers.vestas.com/job/Aarhus-N-Data-Privacy-and-Compliance-Advisor-Regi-8200/1447598133/",
-   "context": "Data Privacy and Compliance Advisor Aarhus N, Region Central Jutland, DK, 8200 Legal Specialist"
+   "employer": "Orsted",
+   "area": "copenhagen",
+   "title": "Workplace Project Manager",
+   "url": "https://orsted.com/en/careers/vacancies-list/2026/10/32858-workplace-project-manager",
+   "context": "Workplace Project Manager Facilities Permanent Denmark, United Kingdom, Poland Gentofte, London, Skærbæk, Warsaw 01.11.2026 23:59 CET"
   },
   {
    "employer": "Novo Nordisk",
    "area": "copenhagen",
    "title": "Project Manager",
-   "url": "https://careers.novonordisk.com/job/Hiller%C3%B8d-Project-Manager-Capi/1447995833/",
-   "context": "Project Manager Hillerød, Capital Region of Denmark, DK Project Management & Agile 15 Oct 2026"
+   "url": "https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Project-Manager-Capi/1449423433/",
+   "context": "Project Manager Bagsværd, Capital Region of Denmark, DK Project Management & Agile 20 Oct 2026"
+  },
+  {
+   "employer": "Wikimedia Foundation",
+   "area": "remote",
+   "title": "Wikimania Scholarships and Event Coordinator New Remote",
+   "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8287113",
+   "context": "Wikimania Scholarships and Event Coordinator New Remote"
   }
  ],
  "check_manually": [
@@ -89,8 +96,8 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 249,
    "job_like": 50,
-   "kept": 3,
-   "new": 3,
+   "kept": 5,
+   "new": 2,
    "error": ""
   },
   {
@@ -114,8 +121,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 132,
-   "job_like": 49,
+   "links": 130,
+   "job_like": 47,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -132,9 +139,9 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 364,
-   "job_like": 65,
-   "kept": 2,
+   "links": 362,
+   "job_like": 63,
+   "kept": 1,
    "new": 0,
    "error": ""
   },
@@ -179,16 +186,16 @@
    "url": "https://orsted.com/en/careers/vacancies-list",
    "links": 206,
    "job_like": 43,
-   "kept": 3,
-   "new": 0,
+   "kept": 4,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 225,
-   "job_like": 158,
-   "kept": 5,
+   "links": 223,
+   "job_like": 156,
+   "kept": 6,
    "new": 1,
    "error": ""
   },
@@ -222,7 +229,7 @@
   {
    "employer": "Danish Design Center",
    "url": "https://ddc.dk/job-i-ddc/",
-   "links": 25,
+   "links": 26,
    "job_like": 0,
    "kept": 0,
    "new": 0,
@@ -231,10 +238,10 @@
   {
    "employer": "Wikimedia Foundation",
    "url": "https://job-boards.greenhouse.io/wikimedia",
-   "links": 16,
-   "job_like": 13,
-   "kept": 5,
-   "new": 0,
+   "links": 17,
+   "job_like": 14,
+   "kept": 6,
+   "new": 1,
    "error": ""
   },
   {
