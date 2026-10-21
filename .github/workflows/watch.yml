@@ -2,7 +2,11 @@ name: Job Watch
 
 on:
   schedule:
-    - cron: "30 4 * * 1-5"   # weekdays 04:30 UTC, before the 07:45 Copenhagen Job Radar
+    # GitHub often starts scheduled runs late, so try three times each weekday night.
+    # Runs on the same day add to each other; nothing is lost or repeated.
+    - cron: "7 1 * * 1-5"
+    - cron: "37 2 * * 1-5"
+    - cron: "13 4 * * 1-5"
   workflow_dispatch:
   push:
     paths: ["employers.yaml", "watch.py", ".github/workflows/watch.yml"]

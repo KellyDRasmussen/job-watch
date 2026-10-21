@@ -237,6 +237,14 @@ def main():
 
     if not only:
         SEEN_FILE.write_text(json.dumps(seen, indent=1, ensure_ascii=False, sort_keys=True))
+    # Several runs a day: keep earlier same-day finds so a later run doesn't wipe them
+    latest_file = DATA / "latest.json"
+    if not only and latest_file.exists():
+        prev = json.loads(latest_file.read_text())
+        if prev.get("run_date") == today:
+            known = {norm_url(j["url"]) for j in new}
+            new = [j for j in prev.get("new", []) if norm_url(j["url"]) not in known] + new
+            first_run = first_run or prev.get("first_run", False)
     result = {"run_date": today, "first_run": first_run, "new": new,
               "check_manually": manual, "status": status}
     out_json = DATA / ("test.json" if only else "latest.json")
