@@ -80,8 +80,8 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 249,
-   "job_like": 50,
+   "links": 254,
+   "job_like": 44,
    "kept": 5,
    "new": 0,
    "error": ""
@@ -125,8 +125,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 363,
-   "job_like": 64,
+   "links": 364,
+   "job_like": 65,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -179,8 +179,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 217,
-   "job_like": 150,
+   "links": 219,
+   "job_like": 152,
    "kept": 6,
    "new": 0,
    "error": ""
