@@ -1,12 +1,10 @@
-# Job Watch 2026-10-21
+# Job Watch 2026-10-22
 
-New ads: 5
+New ads: 3
 
-- **Vestas**: [Partner Procurement Program Specialist](https://careers.vestas.com/job/Aarhus-N-Partner-Procurement-Program-Specialist-Regi-8200/1446620033/)
-- **Vestas**: [Finance Master Data Lead Analyst](https://careers.vestas.com/job/Pasay-Finance-Master-Data-Lead-Analyst-00-1300/1429048333/)
-- **Orsted**: [Workplace Project Manager](https://orsted.com/en/careers/vacancies-list/2026/10/32858-workplace-project-manager)
-- **Novo Nordisk**: [Project Manager](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Project-Manager-Capi/1449423433/)
-- **Wikimedia Foundation**: [Wikimania Scholarships and Event Coordinator New Remote](https://job-boards.greenhouse.io/wikimedia/jobs/8287113)
+- **Vestas**: [Process Documentation Enablement](https://careers.vestas.com/job/Aarhus-N-Process-Documentation-Enablement-Regi-8200/1445997733/)
+- **Trustpilot**: [Data Science Manager – (Fake Review Detection)](https://corporate.trustpilot.com/careers/job/8074507)
+- **Novo Nordisk**: [Senior Manager, Search & Evaluation](https://careers.novonordisk.com/job/S%C3%B8borg-Senior-Manager%2C-Search-&-Evaluation-Capi/1449853033/)
 
 ## Check these by hand (the script can't read them)
 

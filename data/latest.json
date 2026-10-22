@@ -1,41 +1,27 @@
 {
- "run_date": "2026-10-21",
+ "run_date": "2026-10-22",
  "first_run": false,
  "new": [
   {
    "employer": "Vestas",
    "area": "aarhus",
-   "title": "Partner Procurement Program Specialist",
-   "url": "https://careers.vestas.com/job/Aarhus-N-Partner-Procurement-Program-Specialist-Regi-8200/1446620033/",
-   "context": "Partner Procurement Program Specialist Aarhus N, Region Central Jutland, DK, 8200 Supply Chain and Logistics Specialist"
+   "title": "Process Documentation Enablement",
+   "url": "https://careers.vestas.com/job/Aarhus-N-Process-Documentation-Enablement-Regi-8200/1445997733/",
+   "context": "Process Documentation Enablement Aarhus N, Region Central Jutland, DK, 8200 Quality, Health, Safety and Environment Professional"
   },
   {
-   "employer": "Vestas",
+   "employer": "Trustpilot",
    "area": "aarhus",
-   "title": "Finance Master Data Lead Analyst",
-   "url": "https://careers.vestas.com/job/Pasay-Finance-Master-Data-Lead-Analyst-00-1300/1429048333/",
-   "context": "Finance Master Data Lead Analyst Pasay, 00, PH, 1300 Administration, Facilities & Secretarial Administrative"
-  },
-  {
-   "employer": "Orsted",
-   "area": "copenhagen",
-   "title": "Workplace Project Manager",
-   "url": "https://orsted.com/en/careers/vacancies-list/2026/10/32858-workplace-project-manager",
-   "context": "Workplace Project Manager Facilities Permanent Denmark, United Kingdom, Poland Gentofte, London, Skærbæk, Warsaw 01.11.2026 23:59 CET"
+   "title": "Data Science Manager – (Fake Review Detection)",
+   "url": "https://corporate.trustpilot.com/careers/job/8074507",
+   "context": "Data Science Manager – (Fake Review Detection) Engineering Copenhagen"
   },
   {
    "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "Project Manager",
-   "url": "https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Project-Manager-Capi/1449423433/",
-   "context": "Project Manager Bagsværd, Capital Region of Denmark, DK Project Management & Agile 20 Oct 2026"
-  },
-  {
-   "employer": "Wikimedia Foundation",
-   "area": "remote",
-   "title": "Wikimania Scholarships and Event Coordinator New Remote",
-   "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8287113",
-   "context": "Wikimania Scholarships and Event Coordinator New Remote"
+   "title": "Senior Manager, Search & Evaluation",
+   "url": "https://careers.novonordisk.com/job/S%C3%B8borg-Senior-Manager%2C-Search-&-Evaluation-Capi/1449853033/",
+   "context": "Senior Manager, Search & Evaluation Søborg, Capital Region of Denmark, DK Business Development & Strategy 21 Oct 2026"
   }
  ],
  "check_manually": [
@@ -97,7 +83,7 @@
    "links": 249,
    "job_like": 50,
    "kept": 5,
-   "new": 2,
+   "new": 1,
    "error": ""
   },
   {
@@ -121,10 +107,10 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 130,
-   "job_like": 47,
-   "kept": 2,
-   "new": 0,
+   "links": 132,
+   "job_like": 49,
+   "kept": 3,
+   "new": 1,
    "error": ""
   },
   {
@@ -139,8 +125,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 362,
-   "job_like": 63,
+   "links": 363,
+   "job_like": 64,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -184,17 +170,17 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 206,
-   "job_like": 43,
+   "links": 209,
+   "job_like": 46,
    "kept": 4,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 223,
-   "job_like": 156,
+   "links": 217,
+   "job_like": 150,
    "kept": 6,
    "new": 1,
    "error": ""
@@ -202,8 +188,8 @@
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 48,
-   "job_like": 43,
+   "links": 50,
+   "job_like": 45,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -211,8 +197,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 34,
-   "job_like": 29,
+   "links": 37,
+   "job_like": 32,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -241,7 +227,7 @@
    "links": 17,
    "job_like": 14,
    "kept": 6,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
