@@ -1,10 +1,10 @@
-# Job Watch 2026-10-22
+# Job Watch 2026-10-23
 
 New ads: 3
 
-- **Vestas**: [Process Documentation Enablement](https://careers.vestas.com/job/Aarhus-N-Process-Documentation-Enablement-Regi-8200/1445997733/)
-- **Trustpilot**: [Data Science Manager – (Fake Review Detection)](https://corporate.trustpilot.com/careers/job/8074507)
-- **Novo Nordisk**: [Senior Manager, Search & Evaluation](https://careers.novonordisk.com/job/S%C3%B8borg-Senior-Manager%2C-Search-&-Evaluation-Capi/1449853033/)
+- **Vestas**: [Business Finance and Planning Analyst](https://careers.vestas.com/job/Aarhus-N-Business-Finance-and-Planning-Analyst-Regi-8200/1441369733/)
+- **ActionAid Denmark (MS)**: [Politisk Kommunikationsrådgiver](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/23-10-2016)
+- **ActionAid Denmark (MS)**: [Digital Creator](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/21-10-2026)
 
 ## Check these by hand (the script can't read them)
 

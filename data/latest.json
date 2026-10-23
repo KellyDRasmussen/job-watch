@@ -1,27 +1,27 @@
 {
- "run_date": "2026-10-22",
+ "run_date": "2026-10-23",
  "first_run": false,
  "new": [
   {
    "employer": "Vestas",
    "area": "aarhus",
-   "title": "Process Documentation Enablement",
-   "url": "https://careers.vestas.com/job/Aarhus-N-Process-Documentation-Enablement-Regi-8200/1445997733/",
-   "context": "Process Documentation Enablement Aarhus N, Region Central Jutland, DK, 8200 Quality, Health, Safety and Environment Professional"
+   "title": "Business Finance and Planning Analyst",
+   "url": "https://careers.vestas.com/job/Aarhus-N-Business-Finance-and-Planning-Analyst-Regi-8200/1441369733/",
+   "context": "Business Finance and Planning Analyst Aarhus N, Region Central Jutland, DK, 8200 Finance Professional"
   },
   {
-   "employer": "Trustpilot",
-   "area": "aarhus",
-   "title": "Data Science Manager – (Fake Review Detection)",
-   "url": "https://corporate.trustpilot.com/careers/job/8074507",
-   "context": "Data Science Manager – (Fake Review Detection) Engineering Copenhagen"
-  },
-  {
-   "employer": "Novo Nordisk",
+   "employer": "ActionAid Denmark (MS)",
    "area": "copenhagen",
-   "title": "Senior Manager, Search & Evaluation",
-   "url": "https://careers.novonordisk.com/job/S%C3%B8borg-Senior-Manager%2C-Search-&-Evaluation-Capi/1449853033/",
-   "context": "Senior Manager, Search & Evaluation Søborg, Capital Region of Denmark, DK Business Development & Strategy 21 Oct 2026"
+   "title": "Politisk Kommunikationsrådgiver",
+   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/23-10-2016",
+   "context": "Politisk Kommunikationsrådgiver"
+  },
+  {
+   "employer": "ActionAid Denmark (MS)",
+   "area": "copenhagen",
+   "title": "Digital Creator",
+   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/21-10-2026",
+   "context": "Digital Creator Kan du skabe digital kommunikation, der gør komplekse emner lette at forstå – og som giver mennesker håb og lyst til at handle? Har du blik for både den gode historie, den visuelle form og den strategiske sammenhæng på tværs af kanaler? Så er du måske vores nye Digital Creator. 3. no"
   }
  ],
  "check_manually": [
@@ -80,10 +80,10 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 254,
-   "job_like": 44,
-   "kept": 5,
-   "new": 0,
+   "links": 260,
+   "job_like": 50,
+   "kept": 4,
+   "new": 1,
    "error": ""
   },
   {
@@ -161,17 +161,17 @@
   {
    "employer": "ActionAid Denmark (MS)",
    "url": "https://ms.recruiting.mindkey-app.com/da-DK/open-vacancies",
-   "links": 20,
-   "job_like": 7,
-   "kept": 2,
-   "new": 0,
+   "links": 26,
+   "job_like": 10,
+   "kept": 4,
+   "new": 2,
    "error": ""
   },
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 209,
-   "job_like": 46,
+   "links": 208,
+   "job_like": 45,
    "kept": 4,
    "new": 0,
    "error": ""
@@ -179,8 +179,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 219,
-   "job_like": 152,
+   "links": 197,
+   "job_like": 130,
    "kept": 6,
    "new": 0,
    "error": ""
@@ -188,8 +188,8 @@
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 50,
-   "job_like": 45,
+   "links": 52,
+   "job_like": 47,
    "kept": 1,
    "new": 0,
    "error": ""
