@@ -87,9 +87,9 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 260,
-   "job_like": 50,
-   "kept": 4,
+   "links": 258,
+   "job_like": 48,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
@@ -114,8 +114,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 132,
-   "job_like": 49,
+   "links": 131,
+   "job_like": 48,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -132,8 +132,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 364,
-   "job_like": 65,
+   "links": 366,
+   "job_like": 67,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -186,10 +186,10 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 197,
-   "job_like": 130,
+   "links": 201,
+   "job_like": 134,
    "kept": 7,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -204,8 +204,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 37,
-   "job_like": 32,
+   "links": 38,
+   "job_like": 33,
    "kept": 1,
    "new": 0,
    "error": ""
