@@ -1,11 +1,9 @@
-# Job Watch 2026-10-23
+# Job Watch 2026-10-26
 
-New ads: 4
+New ads: 2
 
-- **Vestas**: [Business Finance and Planning Analyst](https://careers.vestas.com/job/Aarhus-N-Business-Finance-and-Planning-Analyst-Regi-8200/1441369733/)
-- **ActionAid Denmark (MS)**: [Politisk Kommunikationsrådgiver](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/23-10-2016)
-- **ActionAid Denmark (MS)**: [Digital Creator](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/21-10-2026)
-- **Novo Nordisk**: [Digital Project Manager](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Digital-Project-Manager-Capi/1450605533/)
+- **Vestas**: [Senior Technical Project Manager](https://careers.vestas.com/job/Aarhus-N-Senior-Technical-Project-Manager-Regi-8200/1442829833/)
+- **Novo Nordisk**: [ESG Reporting Advisor](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-ESG-Reporting-Advisor-Capi/1450698333/)
 
 ## Check these by hand (the script can't read them)
 

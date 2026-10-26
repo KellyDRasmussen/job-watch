@@ -1,34 +1,20 @@
 {
- "run_date": "2026-10-23",
+ "run_date": "2026-10-26",
  "first_run": false,
  "new": [
   {
    "employer": "Vestas",
    "area": "aarhus",
-   "title": "Business Finance and Planning Analyst",
-   "url": "https://careers.vestas.com/job/Aarhus-N-Business-Finance-and-Planning-Analyst-Regi-8200/1441369733/",
-   "context": "Business Finance and Planning Analyst Aarhus N, Region Central Jutland, DK, 8200 Finance Professional"
-  },
-  {
-   "employer": "ActionAid Denmark (MS)",
-   "area": "copenhagen",
-   "title": "Politisk Kommunikationsrådgiver",
-   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/23-10-2016",
-   "context": "Politisk Kommunikationsrådgiver"
-  },
-  {
-   "employer": "ActionAid Denmark (MS)",
-   "area": "copenhagen",
-   "title": "Digital Creator",
-   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/21-10-2026",
-   "context": "Digital Creator Kan du skabe digital kommunikation, der gør komplekse emner lette at forstå – og som giver mennesker håb og lyst til at handle? Har du blik for både den gode historie, den visuelle form og den strategiske sammenhæng på tværs af kanaler? Så er du måske vores nye Digital Creator. 3. no"
+   "title": "Senior Technical Project Manager",
+   "url": "https://careers.vestas.com/job/Aarhus-N-Senior-Technical-Project-Manager-Regi-8200/1442829833/",
+   "context": "Senior Technical Project Manager Aarhus N, Region Central Jutland, DK, 8200 Project Portfolio Management Management"
   },
   {
    "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "Digital Project Manager",
-   "url": "https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Digital-Project-Manager-Capi/1450605533/",
-   "context": "Digital Project Manager Bagsværd, Capital Region of Denmark, DK Project Management & Agile 23 Oct 2026"
+   "title": "ESG Reporting Advisor",
+   "url": "https://careers.novonordisk.com/job/Bagsv%C3%A6rd-ESG-Reporting-Advisor-Capi/1450698333/",
+   "context": "ESG Reporting Advisor Bagsværd, Capital Region of Denmark, DK Finance 23 Oct 2026"
   }
  ],
  "check_manually": [
@@ -87,10 +73,10 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 258,
-   "job_like": 48,
+   "links": 249,
+   "job_like": 50,
    "kept": 5,
-   "new": 0,
+   "new": 1,
    "error": ""
   },
   {
@@ -132,8 +118,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 366,
-   "job_like": 67,
+   "links": 364,
+   "job_like": 65,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -177,26 +163,26 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 208,
-   "job_like": 45,
-   "kept": 4,
+   "links": 205,
+   "job_like": 38,
+   "kept": 3,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 201,
-   "job_like": 134,
-   "kept": 7,
-   "new": 0,
+   "links": 181,
+   "job_like": 114,
+   "kept": 6,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 52,
-   "job_like": 47,
+   "links": 57,
+   "job_like": 52,
    "kept": 1,
    "new": 0,
    "error": ""
