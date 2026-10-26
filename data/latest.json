@@ -76,7 +76,7 @@
    "links": 249,
    "job_like": 50,
    "kept": 5,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -163,8 +163,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 205,
-   "job_like": 38,
+   "links": 204,
+   "job_like": 37,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -175,7 +175,7 @@
    "links": 181,
    "job_like": 114,
    "kept": 6,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
