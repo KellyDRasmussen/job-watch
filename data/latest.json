@@ -73,8 +73,8 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 249,
-   "job_like": 50,
+   "links": 250,
+   "job_like": 42,
    "kept": 5,
    "new": 0,
    "error": ""
@@ -93,15 +93,15 @@
    "url": "https://jobs.grundfos.com/search/?q=&locationsearch=Denmark",
    "links": 270,
    "job_like": 30,
-   "kept": 1,
+   "kept": 0,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 131,
-   "job_like": 48,
+   "links": 130,
+   "job_like": 47,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -118,8 +118,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 364,
-   "job_like": 65,
+   "links": 365,
+   "job_like": 66,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -172,8 +172,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 181,
-   "job_like": 114,
+   "links": 183,
+   "job_like": 116,
    "kept": 6,
    "new": 0,
    "error": ""
