@@ -1,20 +1,27 @@
 {
- "run_date": "2026-10-26",
+ "run_date": "2026-10-27",
  "first_run": false,
  "new": [
   {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Senior Technical Project Manager",
-   "url": "https://careers.vestas.com/job/Aarhus-N-Senior-Technical-Project-Manager-Regi-8200/1442829833/",
-   "context": "Senior Technical Project Manager Aarhus N, Region Central Jutland, DK, 8200 Project Portfolio Management Management"
+   "employer": "ActionAid Denmark (MS)",
+   "area": "copenhagen",
+   "title": "Monitoring, Evaluation and Learning (MEL) Officer – ARCH",
+   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/26-10-26",
+   "context": "Monitoring, Evaluation and Learning (MEL) Officer – ARCH Turn data into learning, evidence into impact. Join the ARCH Secretariat and help build the monitoring, evaluation and learning systems behind a groundbreaking cultural cooperation programme connecting Africa and Denmark. Use evidence to stren"
   },
   {
    "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "ESG Reporting Advisor",
-   "url": "https://careers.novonordisk.com/job/Bagsv%C3%A6rd-ESG-Reporting-Advisor-Capi/1450698333/",
-   "context": "ESG Reporting Advisor Bagsværd, Capital Region of Denmark, DK Finance 23 Oct 2026"
+   "title": "Business Analyst",
+   "url": "https://careers.novonordisk.com/job/Ballerup-Business-Analyst-Capi/1417810633/",
+   "context": "Business Analyst Ballerup, Capital Region of Denmark, DK Digital & IT 27 Oct 2026"
+  },
+  {
+   "employer": "Wikimedia Foundation",
+   "area": "remote",
+   "title": "Community Management Associate Remote",
+   "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8008787",
+   "context": "Community Management Associate Remote"
   }
  ],
  "check_manually": [
@@ -73,9 +80,9 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 250,
-   "job_like": 42,
-   "kept": 5,
+   "links": 254,
+   "job_like": 44,
+   "kept": 4,
    "new": 0,
    "error": ""
   },
@@ -100,8 +107,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 130,
-   "job_like": 47,
+   "links": 129,
+   "job_like": 46,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -118,8 +125,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 365,
-   "job_like": 66,
+   "links": 364,
+   "job_like": 65,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -145,26 +152,26 @@
   {
    "employer": "European Environment Agency",
    "url": "https://jobs.eea.europa.eu/",
-   "links": 19,
-   "job_like": 3,
-   "kept": 3,
+   "links": 17,
+   "job_like": 2,
+   "kept": 2,
    "new": 0,
    "error": ""
   },
   {
    "employer": "ActionAid Denmark (MS)",
    "url": "https://ms.recruiting.mindkey-app.com/da-DK/open-vacancies",
-   "links": 26,
-   "job_like": 10,
-   "kept": 4,
-   "new": 0,
+   "links": 28,
+   "job_like": 11,
+   "kept": 5,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 204,
-   "job_like": 37,
+   "links": 202,
+   "job_like": 35,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -172,17 +179,17 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 183,
-   "job_like": 116,
-   "kept": 6,
-   "new": 0,
+   "links": 187,
+   "job_like": 120,
+   "kept": 7,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 57,
-   "job_like": 52,
+   "links": 53,
+   "job_like": 48,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -217,10 +224,10 @@
   {
    "employer": "Wikimedia Foundation",
    "url": "https://job-boards.greenhouse.io/wikimedia",
-   "links": 17,
-   "job_like": 14,
-   "kept": 6,
-   "new": 0,
+   "links": 18,
+   "job_like": 15,
+   "kept": 7,
+   "new": 1,
    "error": ""
   },
   {

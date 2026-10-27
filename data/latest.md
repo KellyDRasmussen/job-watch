@@ -1,9 +1,10 @@
-# Job Watch 2026-10-26
+# Job Watch 2026-10-27
 
-New ads: 2
+New ads: 3
 
-- **Vestas**: [Senior Technical Project Manager](https://careers.vestas.com/job/Aarhus-N-Senior-Technical-Project-Manager-Regi-8200/1442829833/)
-- **Novo Nordisk**: [ESG Reporting Advisor](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-ESG-Reporting-Advisor-Capi/1450698333/)
+- **ActionAid Denmark (MS)**: [Monitoring, Evaluation and Learning (MEL) Officer – ARCH](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/26-10-26)
+- **Novo Nordisk**: [Business Analyst](https://careers.novonordisk.com/job/Ballerup-Business-Analyst-Capi/1417810633/)
+- **Wikimedia Foundation**: [Community Management Associate Remote](https://job-boards.greenhouse.io/wikimedia/jobs/8008787)
 
 ## Check these by hand (the script can't read them)
 
