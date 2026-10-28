@@ -1,27 +1,34 @@
 {
- "run_date": "2026-10-27",
+ "run_date": "2026-10-28",
  "first_run": false,
  "new": [
   {
-   "employer": "ActionAid Denmark (MS)",
-   "area": "copenhagen",
-   "title": "Monitoring, Evaluation and Learning (MEL) Officer – ARCH",
-   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/26-10-26",
-   "context": "Monitoring, Evaluation and Learning (MEL) Officer – ARCH Turn data into learning, evidence into impact. Join the ARCH Secretariat and help build the monitoring, evaluation and learning systems behind a groundbreaking cultural cooperation programme connecting Africa and Denmark. Use evidence to stren"
+   "employer": "Grundfos",
+   "area": "aarhus",
+   "title": "Senior Communication Consultant",
+   "url": "https://jobs.grundfos.com/job/Senior-Communication-Consultant/77808-en_GB",
+   "context": "Senior Communication Consultant Bjerringbro, Midtjylland, Denmark Marketing & Communication Professional Level (some years of experience) Hybrid (office and home-working)"
   },
   {
-   "employer": "Novo Nordisk",
+   "employer": "Orsted",
    "area": "copenhagen",
-   "title": "Business Analyst",
-   "url": "https://careers.novonordisk.com/job/Ballerup-Business-Analyst-Capi/1417810633/",
-   "context": "Business Analyst Ballerup, Capital Region of Denmark, DK Digital & IT 27 Oct 2026"
+   "title": "Administrative Coordinator for Post fixture assistance in Bioenergy",
+   "url": "https://orsted.com/en/careers/vacancies-list/2026/10/32885-administrative-coordinator-for-post-fixture-assistance-in-bioenergy",
+   "context": "Administrative Coordinator for Post fixture assistance in Bioenergy Administration Permanent Denmark Skærbæk 29.11.2026 23:59 CET"
   },
   {
-   "employer": "Wikimedia Foundation",
-   "area": "remote",
-   "title": "Community Management Associate Remote",
-   "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8008787",
-   "context": "Community Management Associate Remote"
+   "employer": "Orsted",
+   "area": "copenhagen",
+   "title": "Purchasing and Warehouse Coordinator til Asnæsværket",
+   "url": "https://orsted.com/en/careers/vacancies-list/2026/10/32829-purchasing-and-warehouse-coordinator-til-asnaesvaerket",
+   "context": "Purchasing and Warehouse Coordinator til Asnæsværket Operations and technicians Permanent Denmark Asnæs Power Station 29.11.2026 23:59 CET"
+  },
+  {
+   "employer": "Orsted",
+   "area": "copenhagen",
+   "title": "Purchasing and Warehouse Coordinator til Herningværket",
+   "url": "https://orsted.com/en/careers/vacancies-list/2026/10/32846-purchasing-and-warehouse-coordinator-til-herningvaerket",
+   "context": "Purchasing and Warehouse Coordinator til Herningværket Operations and technicians Permanent Denmark Herning Power Station 29.11.2026 23:59 CET"
   }
  ],
  "check_manually": [
@@ -80,8 +87,8 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 256,
-   "job_like": 46,
+   "links": 258,
+   "job_like": 48,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -100,15 +107,15 @@
    "url": "https://jobs.grundfos.com/search/?q=&locationsearch=Denmark",
    "links": 270,
    "job_like": 30,
-   "kept": 0,
-   "new": 0,
+   "kept": 1,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 129,
-   "job_like": 46,
+   "links": 128,
+   "job_like": 45,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -125,8 +132,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 365,
-   "job_like": 66,
+   "links": 366,
+   "job_like": 67,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -170,17 +177,17 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 203,
-   "job_like": 36,
-   "kept": 3,
-   "new": 0,
+   "links": 207,
+   "job_like": 40,
+   "kept": 6,
+   "new": 3,
    "error": ""
   },
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 187,
-   "job_like": 120,
+   "links": 199,
+   "job_like": 132,
    "kept": 7,
    "new": 0,
    "error": ""
@@ -188,8 +195,8 @@
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 53,
-   "job_like": 48,
+   "links": 50,
+   "job_like": 45,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -197,8 +204,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 38,
-   "job_like": 33,
+   "links": 39,
+   "job_like": 34,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -233,7 +240,7 @@
   {
    "employer": "Doist",
    "url": "https://www.todoist.com/careers",
-   "links": 78,
+   "links": 77,
    "job_like": 2,
    "kept": 0,
    "new": 0,

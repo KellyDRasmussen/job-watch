@@ -1,10 +1,11 @@
-# Job Watch 2026-10-27
+# Job Watch 2026-10-28
 
-New ads: 3
+New ads: 4
 
-- **ActionAid Denmark (MS)**: [Monitoring, Evaluation and Learning (MEL) Officer – ARCH](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/26-10-26)
-- **Novo Nordisk**: [Business Analyst](https://careers.novonordisk.com/job/Ballerup-Business-Analyst-Capi/1417810633/)
-- **Wikimedia Foundation**: [Community Management Associate Remote](https://job-boards.greenhouse.io/wikimedia/jobs/8008787)
+- **Grundfos**: [Senior Communication Consultant](https://jobs.grundfos.com/job/Senior-Communication-Consultant/77808-en_GB)
+- **Orsted**: [Administrative Coordinator for Post fixture assistance in Bioenergy](https://orsted.com/en/careers/vacancies-list/2026/10/32885-administrative-coordinator-for-post-fixture-assistance-in-bioenergy)
+- **Orsted**: [Purchasing and Warehouse Coordinator til Asnæsværket](https://orsted.com/en/careers/vacancies-list/2026/10/32829-purchasing-and-warehouse-coordinator-til-asnaesvaerket)
+- **Orsted**: [Purchasing and Warehouse Coordinator til Herningværket](https://orsted.com/en/careers/vacancies-list/2026/10/32846-purchasing-and-warehouse-coordinator-til-herningvaerket)
 
 ## Check these by hand (the script can't read them)
 
