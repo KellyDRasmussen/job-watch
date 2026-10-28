@@ -87,9 +87,9 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 258,
-   "job_like": 48,
-   "kept": 3,
+   "links": 254,
+   "job_like": 44,
+   "kept": 2,
    "new": 0,
    "error": ""
   },
@@ -108,7 +108,7 @@
    "links": 270,
    "job_like": 30,
    "kept": 1,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -180,7 +180,7 @@
    "links": 207,
    "job_like": 40,
    "kept": 6,
-   "new": 3,
+   "new": 0,
    "error": ""
   },
   {
