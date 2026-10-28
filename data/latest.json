@@ -107,15 +107,15 @@
    "url": "https://jobs.grundfos.com/search/?q=&locationsearch=Denmark",
    "links": 270,
    "job_like": 30,
-   "kept": 1,
+   "kept": 0,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 128,
-   "job_like": 45,
+   "links": 127,
+   "job_like": 44,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -132,8 +132,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 366,
-   "job_like": 67,
+   "links": 369,
+   "job_like": 70,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -177,9 +177,9 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 207,
-   "job_like": 40,
-   "kept": 6,
+   "links": 206,
+   "job_like": 39,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
@@ -204,8 +204,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 39,
-   "job_like": 34,
+   "links": 40,
+   "job_like": 35,
    "kept": 1,
    "new": 0,
    "error": ""
