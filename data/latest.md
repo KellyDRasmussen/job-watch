@@ -1,9 +1,11 @@
 # Job Watch 2026-10-29
 
-New ads: 2
+New ads: 4
 
 - **Novo Nordisk**: [Advanced Regulatory Writer](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Advanced-Regulatory-Writer-Capi/1450700033/)
 - **Novo Nordisk**: [Senior Project Manager](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Senior-Project-Manager-Capi/1452407933/)
+- **Aarhus University**: [Deadline 12 Nov Roskilde, Department of Ecoscience - Arctic Ecosystem Ecology Academic Employee within ICOS and Geobasis Monitoring at Zackenberg Fixed term: 1 Jan 2027 - 31 Dec 2028 Full-time positio](https://international.au.dk/about/profile/vacant-positions/job/academic-employee-within-icos-and-geobasis-monitoring-at-zackenberg)
+- **Too Good To Go**: [Logistics Systems & Implementation Analyst Manufacturers • Copenhagen, Denmark • Full time • Hybrid](https://jobs.ashbyhq.com/toogoodtogo/4a0c82e4-20f4-4b18-b916-46f4334f0ab4)
 
 ## Check these by hand (the script can't read them)
 
