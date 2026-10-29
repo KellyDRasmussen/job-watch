@@ -1,8 +1,9 @@
 # Job Watch 2026-10-29
 
-New ads: 1
+New ads: 2
 
 - **Novo Nordisk**: [Advanced Regulatory Writer](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Advanced-Regulatory-Writer-Capi/1450700033/)
+- **Novo Nordisk**: [Senior Project Manager](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Senior-Project-Manager-Capi/1452407933/)
 
 ## Check these by hand (the script can't read them)
 
