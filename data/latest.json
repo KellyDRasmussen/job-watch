@@ -1,34 +1,13 @@
 {
- "run_date": "2026-10-28",
+ "run_date": "2026-10-29",
  "first_run": false,
  "new": [
   {
-   "employer": "Grundfos",
-   "area": "aarhus",
-   "title": "Senior Communication Consultant",
-   "url": "https://jobs.grundfos.com/job/Senior-Communication-Consultant/77808-en_GB",
-   "context": "Senior Communication Consultant Bjerringbro, Midtjylland, Denmark Marketing & Communication Professional Level (some years of experience) Hybrid (office and home-working)"
-  },
-  {
-   "employer": "Orsted",
+   "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "Administrative Coordinator for Post fixture assistance in Bioenergy",
-   "url": "https://orsted.com/en/careers/vacancies-list/2026/10/32885-administrative-coordinator-for-post-fixture-assistance-in-bioenergy",
-   "context": "Administrative Coordinator for Post fixture assistance in Bioenergy Administration Permanent Denmark Skærbæk 29.11.2026 23:59 CET"
-  },
-  {
-   "employer": "Orsted",
-   "area": "copenhagen",
-   "title": "Purchasing and Warehouse Coordinator til Asnæsværket",
-   "url": "https://orsted.com/en/careers/vacancies-list/2026/10/32829-purchasing-and-warehouse-coordinator-til-asnaesvaerket",
-   "context": "Purchasing and Warehouse Coordinator til Asnæsværket Operations and technicians Permanent Denmark Asnæs Power Station 29.11.2026 23:59 CET"
-  },
-  {
-   "employer": "Orsted",
-   "area": "copenhagen",
-   "title": "Purchasing and Warehouse Coordinator til Herningværket",
-   "url": "https://orsted.com/en/careers/vacancies-list/2026/10/32846-purchasing-and-warehouse-coordinator-til-herningvaerket",
-   "context": "Purchasing and Warehouse Coordinator til Herningværket Operations and technicians Permanent Denmark Herning Power Station 29.11.2026 23:59 CET"
+   "title": "Advanced Regulatory Writer",
+   "url": "https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Advanced-Regulatory-Writer-Capi/1450700033/",
+   "context": "Advanced Regulatory Writer Bagsværd, Capital Region of Denmark, DK Reg Affairs & Safety Pharmacovigilance 23 Oct 2026"
   }
  ],
  "check_manually": [
@@ -114,8 +93,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 127,
-   "job_like": 44,
+   "links": 128,
+   "job_like": 45,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -132,8 +111,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 369,
-   "job_like": 70,
+   "links": 367,
+   "job_like": 68,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -178,7 +157,7 @@
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
    "links": 206,
-   "job_like": 39,
+   "job_like": 40,
    "kept": 5,
    "new": 0,
    "error": ""
@@ -186,17 +165,17 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 199,
-   "job_like": 132,
-   "kept": 7,
-   "new": 0,
+   "links": 201,
+   "job_like": 134,
+   "kept": 8,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 50,
-   "job_like": 45,
+   "links": 49,
+   "job_like": 44,
    "kept": 1,
    "new": 0,
    "error": ""
