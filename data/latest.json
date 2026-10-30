@@ -94,17 +94,17 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 256,
-   "job_like": 46,
+   "links": 254,
+   "job_like": 44,
    "kept": 2,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
    "employer": "Arla Foods",
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
-   "links": 207,
-   "job_like": 39,
+   "links": 138,
+   "job_like": 26,
    "kept": 0,
    "new": 0,
    "error": ""
@@ -196,7 +196,7 @@
    "links": 207,
    "job_like": 140,
    "kept": 10,
-   "new": 2,
+   "new": 0,
    "error": ""
   },
   {
@@ -211,10 +211,10 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 41,
-   "job_like": 36,
+   "links": 43,
+   "job_like": 38,
    "kept": 3,
-   "new": 2,
+   "new": 0,
    "error": ""
   },
   {
