@@ -103,8 +103,8 @@
   {
    "employer": "Arla Foods",
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
-   "links": 138,
-   "job_like": 26,
+   "links": 207,
+   "job_like": 39,
    "kept": 0,
    "new": 0,
    "error": ""
@@ -202,8 +202,8 @@
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 54,
-   "job_like": 49,
+   "links": 53,
+   "job_like": 48,
    "kept": 2,
    "new": 0,
    "error": ""
