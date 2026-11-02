@@ -1,12 +1,11 @@
-# Job Watch 2026-10-30
+# Job Watch 2026-11-02
 
-New ads: 5
+New ads: 4
 
-- **Vestas**: [Commercial Growth & Insights Manager](https://careers.vestas.com/job/Aarhus-N-Commercial-Growth-&-Insights-Manager-Regi-8200/1452500433/)
-- **Novo Nordisk**: [Trial Insights Manager](https://careers.novonordisk.com/job/S%C3%B8borg-Trial-Insights-Manager-Capi/1452546433/)
-- **Novo Nordisk**: [Global Labour Law & Employee Relations Associate - Project Manager](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Global-Labour-Law-&-Employee-Relations-Associate-Project-Manager-Capi/1452490433/)
-- **Pleo**: [Senior Transaction Monitoring Framework Specialist Legal • Madrid; Lisbon • Full time • Hybrid](https://jobs.ashbyhq.com/pleo/d7516e92-0f65-4c11-9644-1ee2f34dc80f)
-- **Pleo**: [Senior Campaign Manager (Temp Contract) Marketing • United Kingdom; Germany; Lisbon; Spain • Full time • Remote](https://jobs.ashbyhq.com/pleo/eb5f1048-e749-4d48-b705-8fc63e28f854)
+- **Novo Nordisk**: [Clinical Data Management Specialist](https://careers.novonordisk.com/job/Aalborg-Clinical-Data-Management-Specialist-Nort/1452957133/)
+- **Novo Nordisk**: [Project Manager](https://careers.novonordisk.com/job/Hiller%C3%B8d-Project-Manager-Capi/1450693633/)
+- **Novo Nordisk**: [Medical Writing Specialist](https://careers.novonordisk.com/job/S%C3%B8borg-Medical-Writing-Specialist-Capi/1452913333/)
+- **Novo Nordisk**: [Global Advanced Analytics Lead](https://careers.novonordisk.com/job/S%C3%B8borg-Global-Advanced-Analytics-Lead-Capi/1452931433/)
 
 ## Check these by hand (the script can't read them)
 
