@@ -29,6 +29,20 @@
    "title": "Global Advanced Analytics Lead",
    "url": "https://careers.novonordisk.com/job/S%C3%B8borg-Global-Advanced-Analytics-Lead-Capi/1452931433/",
    "context": "Global Advanced Analytics Lead Søborg, Capital Region of Denmark, DK Commercial Marketing 30 Oct 2026"
+  },
+  {
+   "employer": "Vestas",
+   "area": "aarhus",
+   "title": "Senior Project Manager",
+   "url": "https://careers.vestas.com/job/Aarhus-N-Senior-Project-Manager-Regi-8200/1441048533/",
+   "context": "Senior Project Manager Aarhus N, Region Central Jutland, DK, 8200 +2 more… Project Portfolio Management Management"
+  },
+  {
+   "employer": "Vestas",
+   "area": "aarhus",
+   "title": "Team Lead Warehouse operations - Offshore Service Campaign (f/m/d)",
+   "url": "https://careers.vestas.com/job/Oostende-Team-Lead-Warehouse-operations-Offshore-Service-Campaign-%28fmd%29-VWV/1441381133/",
+   "context": "Team Lead Warehouse operations - Offshore Service Campaign (f/m/d) Oostende, VWV, BE +8 more… Supply Chain and Logistics Team Leader"
   }
  ],
  "check_manually": [
@@ -87,10 +101,10 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 260,
-   "job_like": 50,
-   "kept": 3,
-   "new": 0,
+   "links": 266,
+   "job_like": 56,
+   "kept": 5,
+   "new": 2,
    "error": ""
   },
   {
@@ -141,9 +155,9 @@
   {
    "employer": "Rockwool Foundation",
    "url": "https://rockwoolfonden.dk/ledige-stillinger/",
-   "links": 53,
-   "job_like": 1,
-   "kept": 1,
+   "links": 52,
+   "job_like": 0,
+   "kept": 0,
    "new": 0,
    "error": ""
   },
@@ -186,10 +200,10 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 177,
-   "job_like": 110,
+   "links": 179,
+   "job_like": 112,
    "kept": 10,
-   "new": 4,
+   "new": 0,
    "error": ""
   },
   {
