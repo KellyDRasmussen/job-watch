@@ -93,18 +93,18 @@
    "url": "https://jobs.grundfos.com/search/?q=&locationsearch=Denmark",
    "links": 270,
    "job_like": 30,
-   "kept": 0,
+   "kept": 1,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 2,
-   "job_like": 0,
-   "kept": 0,
+   "links": 127,
+   "job_like": 44,
+   "kept": 3,
    "new": 0,
-   "error": "No job links found: page may need a different URL or a link_regex"
+   "error": ""
   },
   {
    "employer": "UNIwise",
@@ -172,17 +172,17 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 189,
-   "job_like": 122,
+   "links": 191,
+   "job_like": 124,
    "kept": 11,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 55,
-   "job_like": 50,
+   "links": 54,
+   "job_like": 49,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -193,7 +193,7 @@
    "links": 46,
    "job_like": 41,
    "kept": 4,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
