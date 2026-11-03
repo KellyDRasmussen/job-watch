@@ -75,7 +75,7 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 264,
    "job_like": 54,
-   "kept": 5,
+   "kept": 6,
    "new": 0,
    "error": ""
   },
@@ -163,8 +163,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 186,
-   "job_like": 26,
+   "links": 185,
+   "job_like": 25,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -190,8 +190,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 46,
-   "job_like": 41,
+   "links": 48,
+   "job_like": 43,
    "kept": 4,
    "new": 0,
    "error": ""
