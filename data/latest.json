@@ -36,6 +36,13 @@
    "title": "Project Manager Customer Experience • London, UK • Full time • Remote",
    "url": "https://jobs.ashbyhq.com/toogoodtogo/2b6fe752-af08-4595-ba6a-451ca3e943ec",
    "context": "Project Manager Customer Experience • London, UK • Full time • Remote"
+  },
+  {
+   "employer": "Novo Nordisk",
+   "area": "copenhagen",
+   "title": "Experienced Medical Writer",
+   "url": "https://careers.novonordisk.com/job/S%C3%B8borg-Experienced-Medical-Writer-Capi/1454220233/",
+   "context": "Experienced Medical Writer Søborg, Capital Region of Denmark, DK Clinical Development 4 Nov 2026"
   }
  ],
  "check_manually": [
@@ -94,8 +101,8 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 266,
-   "job_like": 56,
+   "links": 264,
+   "job_like": 54,
    "kept": 4,
    "new": 0,
    "error": ""
@@ -139,8 +146,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 351,
-   "job_like": 52,
+   "links": 353,
+   "job_like": 54,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -184,8 +191,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 184,
-   "job_like": 24,
+   "links": 185,
+   "job_like": 25,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -195,15 +202,15 @@
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
    "links": 219,
    "job_like": 152,
-   "kept": 14,
-   "new": 0,
+   "kept": 15,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 57,
-   "job_like": 52,
+   "links": 58,
+   "job_like": 53,
    "kept": 3,
    "new": 0,
    "error": ""

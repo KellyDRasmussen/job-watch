@@ -1,12 +1,13 @@
 # Job Watch 2026-11-04
 
-New ads: 5
+New ads: 6
 
 - **Novo Nordisk**: [Senior Clinical Data Management Professional](https://careers.novonordisk.com/job/Aalborg-Senior-Clinical-Data-Management-Professional-Nort/1452957133/)
 - **Novo Nordisk**: [Integration Project Manager](https://careers.novonordisk.com/job/Ballerup-Integration-Project-Manager-Capi/1453842833/)
 - **Novo Nordisk**: [IT Project Manager](https://careers.novonordisk.com/job/M%C3%A5l%C3%B8v-IT-Project-Manager-Capi/1452472833/)
 - **Novo Nordisk**: [Data Governance Professional](https://careers.novonordisk.com/job/Ballerup-Data-Governance-Professional-Capi/1453886533/)
 - **Too Good To Go**: [Project Manager Customer Experience • London, UK • Full time • Remote](https://jobs.ashbyhq.com/toogoodtogo/2b6fe752-af08-4595-ba6a-451ca3e943ec)
+- **Novo Nordisk**: [Experienced Medical Writer](https://careers.novonordisk.com/job/S%C3%B8borg-Experienced-Medical-Writer-Capi/1454220233/)
 
 ## Check these by hand (the script can't read them)
 
