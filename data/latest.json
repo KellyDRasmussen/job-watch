@@ -1,20 +1,41 @@
 {
- "run_date": "2026-11-03",
+ "run_date": "2026-11-04",
  "first_run": false,
  "new": [
   {
    "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "Senior Clinical Data Management Specialist",
-   "url": "https://careers.novonordisk.com/job/Aalborg-Senior-Clinical-Data-Management-Specialist-Nort/1452957133/",
-   "context": "Senior Clinical Data Management Specialist Aalborg, North Denmark Region, DK Data & AI 30 Oct 2026"
+   "title": "Senior Clinical Data Management Professional",
+   "url": "https://careers.novonordisk.com/job/Aalborg-Senior-Clinical-Data-Management-Professional-Nort/1452957133/",
+   "context": "Senior Clinical Data Management Professional Aalborg, North Denmark Region, DK Data & AI 30 Oct 2026"
   },
   {
-   "employer": "Pleo",
+   "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "Business Applications Analyst (Customer Success and Support) Revenue Operations • Portugal; Lisbon • Full time • Remote",
-   "url": "https://jobs.ashbyhq.com/pleo/4f0c7f90-b7f5-45e7-8280-9079d4170bf0",
-   "context": "Business Applications Analyst (Customer Success and Support) Revenue Operations • Portugal; Lisbon • Full time • Remote"
+   "title": "Integration Project Manager",
+   "url": "https://careers.novonordisk.com/job/Ballerup-Integration-Project-Manager-Capi/1453842833/",
+   "context": "Integration Project Manager Ballerup, Capital Region of Denmark, DK Quality 3 Nov 2026"
+  },
+  {
+   "employer": "Novo Nordisk",
+   "area": "copenhagen",
+   "title": "IT Project Manager",
+   "url": "https://careers.novonordisk.com/job/M%C3%A5l%C3%B8v-IT-Project-Manager-Capi/1452472833/",
+   "context": "IT Project Manager Måløv, Capital Region of Denmark, DK Project Management & Agile 29 Oct 2026"
+  },
+  {
+   "employer": "Novo Nordisk",
+   "area": "copenhagen",
+   "title": "Data Governance Professional",
+   "url": "https://careers.novonordisk.com/job/Ballerup-Data-Governance-Professional-Capi/1453886533/",
+   "context": "Data Governance Professional Ballerup, Capital Region of Denmark, DK Data & AI 3 Nov 2026"
+  },
+  {
+   "employer": "Too Good To Go",
+   "area": "copenhagen",
+   "title": "Project Manager Customer Experience • London, UK • Full time • Remote",
+   "url": "https://jobs.ashbyhq.com/toogoodtogo/2b6fe752-af08-4595-ba6a-451ca3e943ec",
+   "context": "Project Manager Customer Experience • London, UK • Full time • Remote"
   }
  ],
  "check_manually": [
@@ -75,7 +96,7 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 264,
    "job_like": 54,
-   "kept": 6,
+   "kept": 4,
    "new": 0,
    "error": ""
   },
@@ -100,8 +121,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 127,
-   "job_like": 44,
+   "links": 128,
+   "job_like": 45,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -118,8 +139,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 355,
-   "job_like": 56,
+   "links": 349,
+   "job_like": 50,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -154,17 +175,17 @@
   {
    "employer": "ActionAid Denmark (MS)",
    "url": "https://ms.recruiting.mindkey-app.com/da-DK/open-vacancies",
-   "links": 30,
-   "job_like": 12,
-   "kept": 6,
+   "links": 28,
+   "job_like": 11,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 185,
-   "job_like": 25,
+   "links": 184,
+   "job_like": 24,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -172,26 +193,26 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 191,
-   "job_like": 124,
-   "kept": 11,
-   "new": 0,
+   "links": 213,
+   "job_like": 146,
+   "kept": 14,
+   "new": 4,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 54,
-   "job_like": 49,
-   "kept": 2,
-   "new": 0,
+   "links": 57,
+   "job_like": 52,
+   "kept": 3,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 48,
-   "job_like": 43,
+   "links": 49,
+   "job_like": 44,
    "kept": 4,
    "new": 0,
    "error": ""
