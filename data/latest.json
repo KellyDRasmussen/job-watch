@@ -1,48 +1,34 @@
 {
- "run_date": "2026-11-04",
+ "run_date": "2026-11-05",
  "first_run": false,
  "new": [
   {
-   "employer": "Novo Nordisk",
-   "area": "copenhagen",
-   "title": "Senior Clinical Data Management Professional",
-   "url": "https://careers.novonordisk.com/job/Aalborg-Senior-Clinical-Data-Management-Professional-Nort/1452957133/",
-   "context": "Senior Clinical Data Management Professional Aalborg, North Denmark Region, DK Data & AI 30 Oct 2026"
+   "employer": "Vestas",
+   "area": "aarhus",
+   "title": "Project Manager",
+   "url": "https://careers.vestas.com/job/Warrington-Project-Manager-Ches-WA3-6XG/1454243333/",
+   "context": "Project Manager Warrington, Cheshire, GB, WA3 6XG +1 more… Project Portfolio Management Management"
+  },
+  {
+   "employer": "Aarhus University",
+   "area": "aarhus",
+   "title": "Deadline 3 Dec Roskilde, Department of Environmental Science Scientific programmer and data analyst in Environmental Science Expected start: 1 Feb 2027 Full-time position",
+   "url": "https://international.au.dk/about/profile/vacant-positions/job/scientific-programmer-and-data-analyst-in-environmental-science",
+   "context": "Deadline 3 Dec Roskilde, Department of Environmental Science Scientific programmer and data analyst in Environmental Science Expected start: 1 Feb 2027 Full-time position"
   },
   {
    "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "Integration Project Manager",
-   "url": "https://careers.novonordisk.com/job/Ballerup-Integration-Project-Manager-Capi/1453842833/",
-   "context": "Integration Project Manager Ballerup, Capital Region of Denmark, DK Quality 3 Nov 2026"
+   "title": "Consumer Analytics & Reporting Mgr.",
+   "url": "https://careers.novonordisk.com/job/%C3%98restad-Consumer-Analytics-&-Reporting-Mgr_-Capi/1454421333/",
+   "context": "Consumer Analytics & Reporting Mgr. Ørestad, Capital Region of Denmark, DK Commercial Marketing 4 Nov 2026"
   },
   {
    "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "IT Project Manager",
-   "url": "https://careers.novonordisk.com/job/M%C3%A5l%C3%B8v-IT-Project-Manager-Capi/1452472833/",
-   "context": "IT Project Manager Måløv, Capital Region of Denmark, DK Project Management & Agile 29 Oct 2026"
-  },
-  {
-   "employer": "Novo Nordisk",
-   "area": "copenhagen",
-   "title": "Data Governance Professional",
-   "url": "https://careers.novonordisk.com/job/Ballerup-Data-Governance-Professional-Capi/1453886533/",
-   "context": "Data Governance Professional Ballerup, Capital Region of Denmark, DK Data & AI 3 Nov 2026"
-  },
-  {
-   "employer": "Too Good To Go",
-   "area": "copenhagen",
-   "title": "Project Manager Customer Experience • London, UK • Full time • Remote",
-   "url": "https://jobs.ashbyhq.com/toogoodtogo/2b6fe752-af08-4595-ba6a-451ca3e943ec",
-   "context": "Project Manager Customer Experience • London, UK • Full time • Remote"
-  },
-  {
-   "employer": "Novo Nordisk",
-   "area": "copenhagen",
-   "title": "Experienced Medical Writer",
-   "url": "https://careers.novonordisk.com/job/S%C3%B8borg-Experienced-Medical-Writer-Capi/1454220233/",
-   "context": "Experienced Medical Writer Søborg, Capital Region of Denmark, DK Clinical Development 4 Nov 2026"
+   "title": "OT Analyst",
+   "url": "https://careers.novonordisk.com/job/Bagsv%C3%A6rd-OT-Analyst-Capi/1437442533/",
+   "context": "OT Analyst Bagsværd, Capital Region of Denmark, DK Digital & IT 5 Nov 2026"
   }
  ],
  "check_manually": [
@@ -101,16 +87,16 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 264,
-   "job_like": 54,
-   "kept": 4,
-   "new": 0,
+   "links": 266,
+   "job_like": 56,
+   "kept": 5,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Arla Foods",
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
-   "links": 207,
+   "links": 198,
    "job_like": 39,
    "kept": 0,
    "new": 0,
@@ -128,8 +114,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 128,
-   "job_like": 45,
+   "links": 125,
+   "job_like": 42,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -146,10 +132,10 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 353,
-   "job_like": 54,
-   "kept": 1,
-   "new": 0,
+   "links": 355,
+   "job_like": 56,
+   "kept": 2,
+   "new": 1,
    "error": ""
   },
   {
@@ -200,10 +186,10 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 219,
-   "job_like": 152,
-   "kept": 15,
-   "new": 1,
+   "links": 223,
+   "job_like": 156,
+   "kept": 16,
+   "new": 2,
    "error": ""
   },
   {
@@ -218,9 +204,9 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 49,
-   "job_like": 44,
-   "kept": 4,
+   "links": 48,
+   "job_like": 43,
+   "kept": 3,
    "new": 0,
    "error": ""
   },
