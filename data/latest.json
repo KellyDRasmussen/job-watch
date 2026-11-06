@@ -15,6 +15,13 @@
    "title": "Sr Digital Opinion Leader Engagement Manager",
    "url": "https://careers.novonordisk.com/job/S%C3%B8borg-Sr-Digital-Opinion-Leader-Engagement-Manager-Capi/1454859333/",
    "context": "Sr Digital Opinion Leader Engagement Manager Søborg, Capital Region of Denmark, DK Project Management & Agile 5 Nov 2026"
+  },
+  {
+   "employer": "Vestas",
+   "area": "aarhus",
+   "title": "Finance Transformation (Senior) Project Manager",
+   "url": "https://careers.vestas.com/job/Copenhagen-S-Finance-Transformation-%28Senior%29-Project-Manager-Regi-2300/1455036333/",
+   "context": "Finance Transformation (Senior) Project Manager Copenhagen S, Region Capital of Denmark, DK, 2300 Finance Management"
   }
  ],
  "check_manually": [
@@ -76,7 +83,7 @@
    "links": 273,
    "job_like": 60,
    "kept": 6,
-   "new": 0,
+   "new": 1,
    "error": ""
   },
   {
@@ -172,10 +179,10 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 233,
-   "job_like": 166,
+   "links": 235,
+   "job_like": 168,
    "kept": 16,
-   "new": 2,
+   "new": 0,
    "error": ""
   },
   {
