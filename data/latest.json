@@ -22,6 +22,13 @@
    "title": "Finance Transformation (Senior) Project Manager",
    "url": "https://careers.vestas.com/job/Copenhagen-S-Finance-Transformation-%28Senior%29-Project-Manager-Regi-2300/1455036333/",
    "context": "Finance Transformation (Senior) Project Manager Copenhagen S, Region Capital of Denmark, DK, 2300 Finance Management"
+  },
+  {
+   "employer": "Arla Foods",
+   "area": "aarhus",
+   "title": "Site EHS Coordinator - Upahl",
+   "url": "https://jobs.arla.com/gb/en/job/109823/Site-EHS-Coordinator-Upahl",
+   "context": "Site EHS Coordinator - Upahl Category: Quality Environment Health Safety Location: Upahl, Germany, 23936 undefined: Temporary"
   }
  ],
  "check_manually": [
@@ -83,7 +90,7 @@
    "links": 273,
    "job_like": 60,
    "kept": 6,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -91,8 +98,8 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 0,
-   "new": 0,
+   "kept": 1,
+   "new": 1,
    "error": ""
   },
   {
@@ -107,8 +114,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 124,
-   "job_like": 41,
+   "links": 123,
+   "job_like": 40,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -125,8 +132,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 348,
-   "job_like": 55,
+   "links": 349,
+   "job_like": 56,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -170,8 +177,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 187,
-   "job_like": 27,
+   "links": 188,
+   "job_like": 28,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -179,8 +186,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 235,
-   "job_like": 168,
+   "links": 237,
+   "job_like": 170,
    "kept": 16,
    "new": 0,
    "error": ""
@@ -197,8 +204,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 48,
-   "job_like": 43,
+   "links": 47,
+   "job_like": 42,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -233,11 +240,11 @@
   {
    "employer": "Doist",
    "url": "https://www.todoist.com/careers",
-   "links": 77,
-   "job_like": 2,
+   "links": 0,
+   "job_like": 0,
    "kept": 0,
    "new": 0,
-   "error": ""
+   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.todoist.com/careers\", waiting until \"domcontentloaded\"\n"
   }
  ]
 }

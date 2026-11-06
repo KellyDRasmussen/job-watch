@@ -1,10 +1,11 @@
 # Job Watch 2026-11-06
 
-New ads: 3
+New ads: 4
 
 - **Novo Nordisk**: [Sr Manager, Partnerships](https://careers.novonordisk.com/job/%C3%98restad-Sr-Manager%2C-Partnerships-Capi/1454727633/)
 - **Novo Nordisk**: [Sr Digital Opinion Leader Engagement Manager](https://careers.novonordisk.com/job/S%C3%B8borg-Sr-Digital-Opinion-Leader-Engagement-Manager-Capi/1454859333/)
 - **Vestas**: [Finance Transformation (Senior) Project Manager](https://careers.vestas.com/job/Copenhagen-S-Finance-Transformation-%28Senior%29-Project-Manager-Regi-2300/1455036333/)
+- **Arla Foods**: [Site EHS Coordinator - Upahl](https://jobs.arla.com/gb/en/job/109823/Site-EHS-Coordinator-Upahl)
 
 ## Check these by hand (the script can't read them)
 
@@ -18,3 +19,10 @@ New ads: 3
 - Our World in Data: https://ourworldindata.org/jobs
 - Ember: https://ember-energy.org/about-us/careers/
 - Automattic: https://automattic.com/work-with-us/
+
+## Pages that need attention
+
+- Doist: TimeoutError: Page.goto: Timeout 45000ms exceeded.
+Call log:
+navigating to "https://www.todoist.com/careers", waiting until "domcontentloaded"
+ (https://www.todoist.com/careers)
