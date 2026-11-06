@@ -1,48 +1,20 @@
 {
- "run_date": "2026-11-05",
+ "run_date": "2026-11-06",
  "first_run": false,
  "new": [
   {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Project Manager",
-   "url": "https://careers.vestas.com/job/Warrington-Project-Manager-Ches-WA3-6XG/1454243333/",
-   "context": "Project Manager Warrington, Cheshire, GB, WA3 6XG +1 more… Project Portfolio Management Management"
-  },
-  {
-   "employer": "Aarhus University",
-   "area": "aarhus",
-   "title": "Deadline 3 Dec Roskilde, Department of Environmental Science Scientific programmer and data analyst in Environmental Science Expected start: 1 Feb 2027 Full-time position",
-   "url": "https://international.au.dk/about/profile/vacant-positions/job/scientific-programmer-and-data-analyst-in-environmental-science",
-   "context": "Deadline 3 Dec Roskilde, Department of Environmental Science Scientific programmer and data analyst in Environmental Science Expected start: 1 Feb 2027 Full-time position"
+   "employer": "Novo Nordisk",
+   "area": "copenhagen",
+   "title": "Sr Manager, Partnerships",
+   "url": "https://careers.novonordisk.com/job/%C3%98restad-Sr-Manager%2C-Partnerships-Capi/1454727633/",
+   "context": "Sr Manager, Partnerships Ørestad, Capital Region of Denmark, DK Project Management & Agile 5 Nov 2026"
   },
   {
    "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "Consumer Analytics & Reporting Mgr.",
-   "url": "https://careers.novonordisk.com/job/%C3%98restad-Consumer-Analytics-&-Reporting-Mgr_-Capi/1454421333/",
-   "context": "Consumer Analytics & Reporting Mgr. Ørestad, Capital Region of Denmark, DK Commercial Marketing 4 Nov 2026"
-  },
-  {
-   "employer": "Novo Nordisk",
-   "area": "copenhagen",
-   "title": "OT Analyst",
-   "url": "https://careers.novonordisk.com/job/Bagsv%C3%A6rd-OT-Analyst-Capi/1437442533/",
-   "context": "OT Analyst Bagsværd, Capital Region of Denmark, DK Digital & IT 5 Nov 2026"
-  },
-  {
-   "employer": "Aarhus University",
-   "area": "aarhus",
-   "title": "Deadline 19 Nov Aarhus C, Dean's Office, Natural Sciences - Open Innovation in Science Programme Manager for Bridge4Water – Aarhus University, AU Open Innovation Science Centre Fixed term: 1 Mar 2027 ",
-   "url": "https://international.au.dk/about/profile/vacant-positions/job/programme-manager-for-bridge4water-aarhus-university-au-open-innovation-science-centre",
-   "context": "Deadline 19 Nov Aarhus C, Dean's Office, Natural Sciences - Open Innovation in Science Programme Manager for Bridge4Water – Aarhus University, AU Open Innovation Science Centre Fixed term: 1 Mar 2027 - 29 Feb 2028 Full-time position"
-  },
-  {
-   "employer": "ActionAid Denmark (MS)",
-   "area": "copenhagen",
-   "title": "Digitalization and AI consultant",
-   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/05-11-2026",
-   "context": "Digitalization and AI consultant Help shape the digital future of the Global Platforms network. We are looking for a Digitalisation Consultant to explore how digital tools and responsible AI can strengthen learning, collaboration and knowledge-sharing across our global network. 11. november 2026 Søg"
+   "title": "Sr Digital Opinion Leader Engagement Manager",
+   "url": "https://careers.novonordisk.com/job/S%C3%B8borg-Sr-Digital-Opinion-Leader-Engagement-Manager-Capi/1454859333/",
+   "context": "Sr Digital Opinion Leader Engagement Manager Søborg, Capital Region of Denmark, DK Project Management & Agile 5 Nov 2026"
   }
  ],
  "check_manually": [
@@ -101,9 +73,9 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 268,
-   "job_like": 58,
-   "kept": 5,
+   "links": 273,
+   "job_like": 60,
+   "kept": 6,
    "new": 0,
    "error": ""
   },
@@ -146,10 +118,10 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 356,
-   "job_like": 57,
+   "links": 348,
+   "job_like": 55,
    "kept": 3,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -185,14 +157,14 @@
    "links": 30,
    "job_like": 12,
    "kept": 6,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 185,
-   "job_like": 25,
+   "links": 187,
+   "job_like": 27,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -200,17 +172,17 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 227,
-   "job_like": 160,
+   "links": 233,
+   "job_like": 166,
    "kept": 16,
-   "new": 0,
+   "new": 2,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 58,
-   "job_like": 53,
+   "links": 60,
+   "job_like": 55,
    "kept": 3,
    "new": 0,
    "error": ""

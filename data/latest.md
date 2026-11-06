@@ -1,13 +1,9 @@
-# Job Watch 2026-11-05
+# Job Watch 2026-11-06
 
-New ads: 6
+New ads: 2
 
-- **Vestas**: [Project Manager](https://careers.vestas.com/job/Warrington-Project-Manager-Ches-WA3-6XG/1454243333/)
-- **Aarhus University**: [Deadline 3 Dec Roskilde, Department of Environmental Science Scientific programmer and data analyst in Environmental Science Expected start: 1 Feb 2027 Full-time position](https://international.au.dk/about/profile/vacant-positions/job/scientific-programmer-and-data-analyst-in-environmental-science)
-- **Novo Nordisk**: [Consumer Analytics & Reporting Mgr.](https://careers.novonordisk.com/job/%C3%98restad-Consumer-Analytics-&-Reporting-Mgr_-Capi/1454421333/)
-- **Novo Nordisk**: [OT Analyst](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-OT-Analyst-Capi/1437442533/)
-- **Aarhus University**: [Deadline 19 Nov Aarhus C, Dean's Office, Natural Sciences - Open Innovation in Science Programme Manager for Bridge4Water – Aarhus University, AU Open Innovation Science Centre Fixed term: 1 Mar 2027 ](https://international.au.dk/about/profile/vacant-positions/job/programme-manager-for-bridge4water-aarhus-university-au-open-innovation-science-centre)
-- **ActionAid Denmark (MS)**: [Digitalization and AI consultant](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/05-11-2026)
+- **Novo Nordisk**: [Sr Manager, Partnerships](https://careers.novonordisk.com/job/%C3%98restad-Sr-Manager%2C-Partnerships-Capi/1454727633/)
+- **Novo Nordisk**: [Sr Digital Opinion Leader Engagement Manager](https://careers.novonordisk.com/job/S%C3%B8borg-Sr-Digital-Opinion-Leader-Engagement-Manager-Capi/1454859333/)
 
 ## Check these by hand (the script can't read them)
 
