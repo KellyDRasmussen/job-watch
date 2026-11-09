@@ -1,34 +1,20 @@
 {
- "run_date": "2026-11-06",
+ "run_date": "2026-11-09",
  "first_run": false,
  "new": [
   {
    "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "Sr Manager, Partnerships",
-   "url": "https://careers.novonordisk.com/job/%C3%98restad-Sr-Manager%2C-Partnerships-Capi/1454727633/",
-   "context": "Sr Manager, Partnerships Ørestad, Capital Region of Denmark, DK Project Management & Agile 5 Nov 2026"
+   "title": "Senior Regulatory Data Professional - Structured Content (Docuvera) - Fixed-term contract",
+   "url": "https://careers.novonordisk.com/job/S%C3%B8borg-Senior-Regulatory-Data-Professional-Structured-Content-%28Docuvera%29-Fixed-term-contract-Capi/1455218333/",
+   "context": "Senior Regulatory Data Professional - Structured Content (Docuvera) - Fixed-term contract Søborg, Capital Region of Denmark, DK Digital & IT 6 Nov 2026"
   },
   {
-   "employer": "Novo Nordisk",
-   "area": "copenhagen",
-   "title": "Sr Digital Opinion Leader Engagement Manager",
-   "url": "https://careers.novonordisk.com/job/S%C3%B8borg-Sr-Digital-Opinion-Leader-Engagement-Manager-Capi/1454859333/",
-   "context": "Sr Digital Opinion Leader Engagement Manager Søborg, Capital Region of Denmark, DK Project Management & Agile 5 Nov 2026"
-  },
-  {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Finance Transformation (Senior) Project Manager",
-   "url": "https://careers.vestas.com/job/Copenhagen-S-Finance-Transformation-%28Senior%29-Project-Manager-Regi-2300/1455036333/",
-   "context": "Finance Transformation (Senior) Project Manager Copenhagen S, Region Capital of Denmark, DK, 2300 Finance Management"
-  },
-  {
-   "employer": "Arla Foods",
-   "area": "aarhus",
-   "title": "Site EHS Coordinator - Upahl",
-   "url": "https://jobs.arla.com/gb/en/job/109823/Site-EHS-Coordinator-Upahl",
-   "context": "Site EHS Coordinator - Upahl Category: Quality Environment Health Safety Location: Upahl, Germany, 23936 undefined: Temporary"
+   "employer": "Wikimedia Foundation",
+   "area": "remote",
+   "title": "Group Product Manager, Data PlatformsNew Remote",
+   "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8346045",
+   "context": "Group Product Manager, Data PlatformsNew Remote"
   }
  ],
  "check_manually": [
@@ -99,7 +85,7 @@
    "links": 198,
    "job_like": 39,
    "kept": 1,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -114,8 +100,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 123,
-   "job_like": 40,
+   "links": 117,
+   "job_like": 34,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -132,8 +118,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 349,
-   "job_like": 56,
+   "links": 347,
+   "job_like": 54,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -177,8 +163,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 188,
-   "job_like": 28,
+   "links": 193,
+   "job_like": 31,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -186,17 +172,17 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 237,
-   "job_like": 170,
-   "kept": 16,
-   "new": 0,
+   "links": 203,
+   "job_like": 136,
+   "kept": 14,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 60,
-   "job_like": 55,
+   "links": 63,
+   "job_like": 58,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -204,17 +190,17 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 47,
-   "job_like": 42,
-   "kept": 3,
+   "links": 43,
+   "job_like": 38,
+   "kept": 2,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Siteimprove",
    "url": "https://careers.siteimprove.com/",
-   "links": 29,
-   "job_like": 24,
+   "links": 30,
+   "job_like": 25,
    "kept": 0,
    "new": 0,
    "error": ""
@@ -231,20 +217,20 @@
   {
    "employer": "Wikimedia Foundation",
    "url": "https://job-boards.greenhouse.io/wikimedia",
-   "links": 17,
-   "job_like": 14,
-   "kept": 7,
-   "new": 0,
+   "links": 18,
+   "job_like": 15,
+   "kept": 8,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Doist",
    "url": "https://www.todoist.com/careers",
-   "links": 0,
-   "job_like": 0,
+   "links": 77,
+   "job_like": 2,
    "kept": 0,
    "new": 0,
-   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.todoist.com/careers\", waiting until \"domcontentloaded\"\n"
+   "error": ""
   }
  ]
 }
