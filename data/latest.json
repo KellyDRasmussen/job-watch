@@ -1,7 +1,15 @@
 {
  "run_date": "2026-11-10",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "employer": "Novo Nordisk",
+   "area": "copenhagen",
+   "title": "Project Manager",
+   "url": "https://careers.novonordisk.com/job/Lyngby-Project-Manager-Capi/1455914733/",
+   "context": "Project Manager Lyngby, Capital Region of Denmark, DK Project Management & Agile 10 Nov 2026"
+  }
+ ],
  "check_manually": [
   {
    "employer": "Kamstrup",
@@ -60,7 +68,7 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 273,
    "job_like": 60,
-   "kept": 6,
+   "kept": 7,
    "new": 0,
    "error": ""
   },
@@ -69,7 +77,7 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 1,
+   "kept": 0,
    "new": 0,
    "error": ""
   },
@@ -103,8 +111,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 347,
-   "job_like": 54,
+   "links": 350,
+   "job_like": 57,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -157,10 +165,10 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 209,
-   "job_like": 142,
-   "kept": 14,
-   "new": 0,
+   "links": 215,
+   "job_like": 148,
+   "kept": 15,
+   "new": 1,
    "error": ""
   },
   {

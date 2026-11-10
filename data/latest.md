@@ -1,7 +1,8 @@
 # Job Watch 2026-11-10
 
-New ads: 0
+New ads: 1
 
+- **Novo Nordisk**: [Project Manager](https://careers.novonordisk.com/job/Lyngby-Project-Manager-Capi/1455914733/)
 
 ## Check these by hand (the script can't read them)
 
