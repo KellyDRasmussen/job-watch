@@ -1,29 +1,7 @@
 {
- "run_date": "2026-11-09",
+ "run_date": "2026-11-10",
  "first_run": false,
- "new": [
-  {
-   "employer": "Novo Nordisk",
-   "area": "copenhagen",
-   "title": "Senior Regulatory Data Professional - Structured Content (Docuvera) - Fixed-term contract",
-   "url": "https://careers.novonordisk.com/job/S%C3%B8borg-Senior-Regulatory-Data-Professional-Structured-Content-%28Docuvera%29-Fixed-term-contract-Capi/1455218333/",
-   "context": "Senior Regulatory Data Professional - Structured Content (Docuvera) - Fixed-term contract Søborg, Capital Region of Denmark, DK Digital & IT 6 Nov 2026"
-  },
-  {
-   "employer": "Wikimedia Foundation",
-   "area": "remote",
-   "title": "Group Product Manager, Data PlatformsNew Remote",
-   "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8346045",
-   "context": "Group Product Manager, Data PlatformsNew Remote"
-  },
-  {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Service Business Performance & Pricing Analyst",
-   "url": "https://careers.vestas.com/job/Copenhagen-S-Service-Business-Performance-&-Pricing-Analyst-Regi-2300/1455574833/",
-   "context": "Service Business Performance & Pricing Analyst Copenhagen S, Region Capital of Denmark, DK, 2300 Commercial Specialist"
-  }
- ],
+ "new": [],
  "check_manually": [
   {
    "employer": "Kamstrup",
@@ -82,8 +60,8 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 273,
    "job_like": 60,
-   "kept": 4,
-   "new": 1,
+   "kept": 6,
+   "new": 0,
    "error": ""
   },
   {
@@ -91,7 +69,7 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 0,
+   "kept": 1,
    "new": 0,
    "error": ""
   },
@@ -107,8 +85,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 116,
-   "job_like": 33,
+   "links": 115,
+   "job_like": 32,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -125,8 +103,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 350,
-   "job_like": 57,
+   "links": 347,
+   "job_like": 54,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -170,8 +148,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 194,
-   "job_like": 32,
+   "links": 196,
+   "job_like": 34,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -179,8 +157,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 205,
-   "job_like": 138,
+   "links": 209,
+   "job_like": 142,
    "kept": 14,
    "new": 0,
    "error": ""
@@ -224,8 +202,8 @@
   {
    "employer": "Wikimedia Foundation",
    "url": "https://job-boards.greenhouse.io/wikimedia",
-   "links": 18,
-   "job_like": 15,
+   "links": 19,
+   "job_like": 16,
    "kept": 8,
    "new": 0,
    "error": ""

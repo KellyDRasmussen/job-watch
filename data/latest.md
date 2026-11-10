@@ -1,10 +1,7 @@
-# Job Watch 2026-11-09
+# Job Watch 2026-11-10
 
-New ads: 3
+New ads: 0
 
-- **Novo Nordisk**: [Senior Regulatory Data Professional - Structured Content (Docuvera) - Fixed-term contract](https://careers.novonordisk.com/job/S%C3%B8borg-Senior-Regulatory-Data-Professional-Structured-Content-%28Docuvera%29-Fixed-term-contract-Capi/1455218333/)
-- **Wikimedia Foundation**: [Group Product Manager, Data PlatformsNew Remote](https://job-boards.greenhouse.io/wikimedia/jobs/8346045)
-- **Vestas**: [Service Business Performance & Pricing Analyst](https://careers.vestas.com/job/Copenhagen-S-Service-Business-Performance-&-Pricing-Analyst-Regi-2300/1455574833/)
 
 ## Check these by hand (the script can't read them)
 
