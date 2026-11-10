@@ -68,7 +68,7 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 273,
    "job_like": 60,
-   "kept": 7,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
@@ -129,7 +129,7 @@
   {
    "employer": "UNOPS",
    "url": "https://careers.unops.org/careersmarketplace/SearchJobs",
-   "links": 68,
+   "links": 63,
    "job_like": 6,
    "kept": 0,
    "new": 0,
@@ -165,17 +165,17 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 215,
-   "job_like": 148,
+   "links": 217,
+   "job_like": 150,
    "kept": 15,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 63,
-   "job_like": 58,
+   "links": 62,
+   "job_like": 57,
    "kept": 3,
    "new": 0,
    "error": ""
