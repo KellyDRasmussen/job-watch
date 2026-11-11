@@ -1,13 +1,13 @@
 {
- "run_date": "2026-11-10",
+ "run_date": "2026-11-11",
  "first_run": false,
  "new": [
   {
-   "employer": "Novo Nordisk",
-   "area": "copenhagen",
-   "title": "Project Manager",
-   "url": "https://careers.novonordisk.com/job/Lyngby-Project-Manager-Capi/1455914733/",
-   "context": "Project Manager Lyngby, Capital Region of Denmark, DK Project Management & Agile 10 Nov 2026"
+   "employer": "Aarhus University",
+   "area": "aarhus",
+   "title": "Deadline 24 Nov Aarhus C, Department of Agroecology - Center for Landscape Research in Sustainable Agricultural Futures - Land-CRAFT Academic employee at Land-CRAFT, Department of Agroecology, Aarhus ",
+   "url": "https://international.au.dk/about/profile/vacant-positions/job/academic-employee-at-land-craft-department-of-agroecology-aarhus-university",
+   "context": "Deadline 24 Nov Aarhus C, Department of Agroecology - Center for Landscape Research in Sustainable Agricultural Futures - Land-CRAFT Academic employee at Land-CRAFT, Department of Agroecology, Aarhus University Fixed term: 1 Mar 2027 - 31 Aug 2028 Full-time position"
   }
  ],
  "check_manually": [
@@ -68,7 +68,7 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 273,
    "job_like": 60,
-   "kept": 5,
+   "kept": 7,
    "new": 0,
    "error": ""
   },
@@ -77,7 +77,7 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 0,
+   "kept": 1,
    "new": 0,
    "error": ""
   },
@@ -111,10 +111,10 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 350,
-   "job_like": 57,
-   "kept": 3,
-   "new": 0,
+   "links": 352,
+   "job_like": 59,
+   "kept": 4,
+   "new": 1,
    "error": ""
   },
   {
@@ -129,7 +129,7 @@
   {
    "employer": "UNOPS",
    "url": "https://careers.unops.org/careersmarketplace/SearchJobs",
-   "links": 63,
+   "links": 68,
    "job_like": 6,
    "kept": 0,
    "new": 0,
@@ -147,17 +147,17 @@
   {
    "employer": "ActionAid Denmark (MS)",
    "url": "https://ms.recruiting.mindkey-app.com/da-DK/open-vacancies",
-   "links": 30,
-   "job_like": 12,
-   "kept": 6,
+   "links": 26,
+   "job_like": 10,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 196,
-   "job_like": 34,
+   "links": 199,
+   "job_like": 37,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -165,8 +165,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 217,
-   "job_like": 150,
+   "links": 221,
+   "job_like": 154,
    "kept": 15,
    "new": 0,
    "error": ""
@@ -174,8 +174,8 @@
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 62,
-   "job_like": 57,
+   "links": 61,
+   "job_like": 56,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -183,8 +183,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 43,
-   "job_like": 38,
+   "links": 44,
+   "job_like": 39,
    "kept": 2,
    "new": 0,
    "error": ""

@@ -1,8 +1,8 @@
-# Job Watch 2026-11-10
+# Job Watch 2026-11-11
 
 New ads: 1
 
-- **Novo Nordisk**: [Project Manager](https://careers.novonordisk.com/job/Lyngby-Project-Manager-Capi/1455914733/)
+- **Aarhus University**: [Deadline 24 Nov Aarhus C, Department of Agroecology - Center for Landscape Research in Sustainable Agricultural Futures - Land-CRAFT Academic employee at Land-CRAFT, Department of Agroecology, Aarhus ](https://international.au.dk/about/profile/vacant-positions/job/academic-employee-at-land-craft-department-of-agroecology-aarhus-university)
 
 ## Check these by hand (the script can't read them)
 
