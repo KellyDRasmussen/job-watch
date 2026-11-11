@@ -111,10 +111,10 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 352,
-   "job_like": 59,
+   "links": 353,
+   "job_like": 60,
    "kept": 4,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -156,8 +156,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 199,
-   "job_like": 37,
+   "links": 200,
+   "job_like": 38,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -183,8 +183,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 44,
-   "job_like": 39,
+   "links": 45,
+   "job_like": 40,
    "kept": 2,
    "new": 0,
    "error": ""
