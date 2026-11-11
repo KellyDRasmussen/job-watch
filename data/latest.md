@@ -1,8 +1,9 @@
 # Job Watch 2026-11-11
 
-New ads: 1
+New ads: 2
 
 - **Aarhus University**: [Deadline 24 Nov Aarhus C, Department of Agroecology - Center for Landscape Research in Sustainable Agricultural Futures - Land-CRAFT Academic employee at Land-CRAFT, Department of Agroecology, Aarhus ](https://international.au.dk/about/profile/vacant-positions/job/academic-employee-at-land-craft-department-of-agroecology-aarhus-university)
+- **Pleo**: [Fraud Operations Analyst Business Operations • Portugal • Full time • Remote](https://jobs.ashbyhq.com/pleo/802d0cbd-7b13-4c4a-8d54-0b1783bf0341)
 
 ## Check these by hand (the script can't read them)
 
