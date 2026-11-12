@@ -15,6 +15,13 @@
    "title": "Project Manager",
    "url": "https://careers.novonordisk.com/job/Kalundborg-Project-Manager-Regi/1454744933/",
    "context": "Project Manager Kalundborg, Region Zealand, DK Project Management & Agile 5 Nov 2026"
+  },
+  {
+   "employer": "Aarhus University",
+   "area": "aarhus",
+   "title": "Deadline 26 Nov Aarhus C, Department of Molecular Biology and Genetics - Neurobiology Project coordinator position, Department of Molecular Biology and Genetics, Aarhus University Fixed term: 15 Jan 2",
+   "url": "https://international.au.dk/about/profile/vacant-positions/job/project-coordinator-position-department-of-molecular-biology-and-genetics-aarhus-university",
+   "context": "Deadline 26 Nov Aarhus C, Department of Molecular Biology and Genetics - Neurobiology Project coordinator position, Department of Molecular Biology and Genetics, Aarhus University Fixed term: 15 Jan 2027 - 14 Jan 2029 Part-time: 30 hours per week"
   }
  ],
  "check_manually": [
@@ -118,10 +125,10 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 354,
-   "job_like": 61,
-   "kept": 4,
-   "new": 0,
+   "links": 355,
+   "job_like": 62,
+   "kept": 5,
+   "new": 1,
    "error": ""
   },
   {
@@ -172,8 +179,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 227,
-   "job_like": 160,
+   "links": 229,
+   "job_like": 162,
    "kept": 16,
    "new": 0,
    "error": ""
@@ -181,8 +188,8 @@
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 57,
-   "job_like": 52,
+   "links": 56,
+   "job_like": 51,
    "kept": 2,
    "new": 0,
    "error": ""
