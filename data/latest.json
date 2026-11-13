@@ -84,7 +84,7 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 0,
+   "kept": 1,
    "new": 0,
    "error": ""
   },
@@ -100,8 +100,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 117,
-   "job_like": 34,
+   "links": 119,
+   "job_like": 36,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -118,8 +118,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 352,
-   "job_like": 59,
+   "links": 355,
+   "job_like": 62,
    "kept": 5,
    "new": 0,
    "error": ""
@@ -172,8 +172,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 231,
-   "job_like": 162,
+   "links": 233,
+   "job_like": 164,
    "kept": 14,
    "new": 0,
    "error": ""
@@ -226,11 +226,11 @@
   {
    "employer": "Doist",
    "url": "https://www.todoist.com/careers",
-   "links": 76,
-   "job_like": 1,
+   "links": 75,
+   "job_like": 0,
    "kept": 0,
    "new": 0,
-   "error": ""
+   "error": "No job links found: page may need a different URL or a link_regex"
   }
  ]
 }

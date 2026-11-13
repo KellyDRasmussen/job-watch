@@ -17,3 +17,7 @@ New ads: 2
 - Our World in Data: https://ourworldindata.org/jobs
 - Ember: https://ember-energy.org/about-us/careers/
 - Automattic: https://automattic.com/work-with-us/
+
+## Pages that need attention
+
+- Doist: No job links found: page may need a different URL or a link_regex (https://www.todoist.com/careers)
