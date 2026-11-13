@@ -1,27 +1,20 @@
 {
- "run_date": "2026-11-12",
+ "run_date": "2026-11-13",
  "first_run": false,
  "new": [
   {
-   "employer": "ActionAid Denmark (MS)",
-   "area": "copenhagen",
-   "title": "Event og engagementsmedarbejder (barselsvikariat)",
-   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/10-11-2026",
-   "context": "Event og engagementsmedarbejder (barselsvikariat) Event og engagementsmedarbejder (deltids barselsvikariat) Vil du være med til at udvikle stærke oplevelser, kampagner og liveformater, der skaber håb og handlekraft? Og kan du drive projekter sikkert fra idé til færdigt resultat? Så er du måske vores"
+   "employer": "Aarhus University",
+   "area": "aarhus",
+   "title": "Deadline 4 Dec Aarhus C, Department of Agroecology - Center for Landscape Research in Sustainable Agricultural Futures - Land-CRAFT Data manager for Center for Landscape Research in Sustainable Agricu",
+   "url": "https://international.au.dk/about/profile/vacant-positions/job/data-manager-for-center-for-landscape-research-in-sustainable-agricultural-futures-land-craft-department-of-agroecology-aarhus-university-1",
+   "context": "Deadline 4 Dec Aarhus C, Department of Agroecology - Center for Landscape Research in Sustainable Agricultural Futures - Land-CRAFT Data manager for Center for Landscape Research in Sustainable Agricultural Futures, Land-CRAFT, Department of Agroecology, Aarhus University Fixed term: 1 Mar 2027 - 28"
   },
   {
    "employer": "Novo Nordisk",
    "area": "copenhagen",
-   "title": "Project Manager",
-   "url": "https://careers.novonordisk.com/job/Kalundborg-Project-Manager-Regi/1454744933/",
-   "context": "Project Manager Kalundborg, Region Zealand, DK Project Management & Agile 5 Nov 2026"
-  },
-  {
-   "employer": "Aarhus University",
-   "area": "aarhus",
-   "title": "Deadline 26 Nov Aarhus C, Department of Molecular Biology and Genetics - Neurobiology Project coordinator position, Department of Molecular Biology and Genetics, Aarhus University Fixed term: 15 Jan 2",
-   "url": "https://international.au.dk/about/profile/vacant-positions/job/project-coordinator-position-department-of-molecular-biology-and-genetics-aarhus-university",
-   "context": "Deadline 26 Nov Aarhus C, Department of Molecular Biology and Genetics - Neurobiology Project coordinator position, Department of Molecular Biology and Genetics, Aarhus University Fixed term: 15 Jan 2027 - 14 Jan 2029 Part-time: 30 hours per week"
+   "title": "Management Coordinator(Maternity Cover)",
+   "url": "https://careers.novonordisk.com/job/Kalundborg-Management-Coordinator%28Maternity-Cover%29-Regi/1456897033/",
+   "context": "Management Coordinator(Maternity Cover) Kalundborg, Region Zealand, DK Business Support & Administration 12 Nov 2026"
   }
  ],
  "check_manually": [
@@ -107,8 +100,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 116,
-   "job_like": 33,
+   "links": 117,
+   "job_like": 34,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -125,8 +118,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 355,
-   "job_like": 62,
+   "links": 352,
+   "job_like": 59,
    "kept": 5,
    "new": 1,
    "error": ""
@@ -170,8 +163,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 200,
-   "job_like": 38,
+   "links": 198,
+   "job_like": 36,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -179,17 +172,17 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 229,
+   "links": 231,
    "job_like": 162,
-   "kept": 16,
-   "new": 0,
+   "kept": 14,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 56,
-   "job_like": 51,
+   "links": 54,
+   "job_like": 49,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -197,8 +190,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 43,
-   "job_like": 38,
+   "links": 40,
+   "job_like": 35,
    "kept": 3,
    "new": 0,
    "error": ""

@@ -1,10 +1,9 @@
-# Job Watch 2026-11-12
+# Job Watch 2026-11-13
 
-New ads: 3
+New ads: 2
 
-- **ActionAid Denmark (MS)**: [Event og engagementsmedarbejder (barselsvikariat)](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/10-11-2026)
-- **Novo Nordisk**: [Project Manager](https://careers.novonordisk.com/job/Kalundborg-Project-Manager-Regi/1454744933/)
-- **Aarhus University**: [Deadline 26 Nov Aarhus C, Department of Molecular Biology and Genetics - Neurobiology Project coordinator position, Department of Molecular Biology and Genetics, Aarhus University Fixed term: 15 Jan 2](https://international.au.dk/about/profile/vacant-positions/job/project-coordinator-position-department-of-molecular-biology-and-genetics-aarhus-university)
+- **Aarhus University**: [Deadline 4 Dec Aarhus C, Department of Agroecology - Center for Landscape Research in Sustainable Agricultural Futures - Land-CRAFT Data manager for Center for Landscape Research in Sustainable Agricu](https://international.au.dk/about/profile/vacant-positions/job/data-manager-for-center-for-landscape-research-in-sustainable-agricultural-futures-land-craft-department-of-agroecology-aarhus-university-1)
+- **Novo Nordisk**: [Management Coordinator(Maternity Cover)](https://careers.novonordisk.com/job/Kalundborg-Management-Coordinator%28Maternity-Cover%29-Regi/1456897033/)
 
 ## Check these by hand (the script can't read them)
 
