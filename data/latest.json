@@ -73,9 +73,9 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 270,
+   "links": 273,
    "job_like": 60,
-   "kept": 6,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
@@ -121,7 +121,7 @@
    "links": 352,
    "job_like": 59,
    "kept": 5,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -163,8 +163,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 198,
-   "job_like": 36,
+   "links": 197,
+   "job_like": 35,
    "kept": 3,
    "new": 0,
    "error": ""
@@ -175,7 +175,7 @@
    "links": 231,
    "job_like": 162,
    "kept": 14,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -208,7 +208,7 @@
   {
    "employer": "Danish Design Center",
    "url": "https://ddc.dk/job-i-ddc/",
-   "links": 26,
+   "links": 25,
    "job_like": 0,
    "kept": 0,
    "new": 0,
