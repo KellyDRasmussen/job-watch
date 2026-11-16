@@ -104,7 +104,7 @@
    "links": 273,
    "job_like": 60,
    "kept": 5,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -112,8 +112,8 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 4,
-   "new": 3,
+   "kept": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -191,10 +191,10 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 193,
-   "job_like": 32,
+   "links": 194,
+   "job_like": 33,
    "kept": 5,
-   "new": 2,
+   "new": 0,
    "error": ""
   },
   {
