@@ -1,20 +1,48 @@
 {
- "run_date": "2026-11-13",
+ "run_date": "2026-11-16",
  "first_run": false,
  "new": [
   {
-   "employer": "Aarhus University",
+   "employer": "Vestas",
    "area": "aarhus",
-   "title": "Deadline 4 Dec Aarhus C, Department of Agroecology - Center for Landscape Research in Sustainable Agricultural Futures - Land-CRAFT Data manager for Center for Landscape Research in Sustainable Agricu",
-   "url": "https://international.au.dk/about/profile/vacant-positions/job/data-manager-for-center-for-landscape-research-in-sustainable-agricultural-futures-land-craft-department-of-agroecology-aarhus-university-1",
-   "context": "Deadline 4 Dec Aarhus C, Department of Agroecology - Center for Landscape Research in Sustainable Agricultural Futures - Land-CRAFT Data manager for Center for Landscape Research in Sustainable Agricultural Futures, Land-CRAFT, Department of Agroecology, Aarhus University Fixed term: 1 Mar 2027 - 28"
+   "title": "Project Manager",
+   "url": "https://careers.vestas.com/job/Aarhus-N-Project-Manager-Regi-8200/1455544133/",
+   "context": "Project Manager Aarhus N, Region Central Jutland, DK, 8200 +2 more… Project Portfolio Management Management"
   },
   {
-   "employer": "Novo Nordisk",
+   "employer": "Arla Foods",
+   "area": "aarhus",
+   "title": "F15 Graduate Programme 2027",
+   "url": "https://jobs.arla.com/gb/en/job/111614/F15-Graduate-Programme-2027",
+   "context": "F15 Graduate Programme 2027Available in {{count}} locations: [ { \"latlong\": { \"lon\": 10.19497, \"lat\": 56.16331 }, \"location\": \"Viby J, Denmark, 8260\" } ]Title: F15 Graduate Programme 2027Category: Students, Trainees and GraduatesLocation: Viby J, Denmark, 8260 Apply Now"
+  },
+  {
+   "employer": "Arla Foods",
+   "area": "aarhus",
+   "title": "IT Graduate Programme 2027 - Gdansk",
+   "url": "https://jobs.arla.com/gb/en/job/111638/IT-Graduate-Programme-2027-Gdansk",
+   "context": "IT Graduate Programme 2027 - GdanskAvailable in {{count}} locations: [ { \"latlong\": { \"lon\": 18.60753, \"lat\": 54.37648 }, \"location\": \"Gdansk, Poland, 80-244\" } ]Title: IT Graduate Programme 2027 - GdanskCategory: Students, Trainees and GraduatesLocation: Gdansk, Poland, 80-244 Apply Now"
+  },
+  {
+   "employer": "Arla Foods",
+   "area": "aarhus",
+   "title": "Finance Graduate Programme 2027",
+   "url": "https://jobs.arla.com/gb/en/job/111629/Finance-Graduate-Programme-2027",
+   "context": "Finance Graduate Programme 2027Available in {{count}} locations: [ { \"latlong\": { \"lon\": 10.19497, \"lat\": 56.16331 }, \"location\": \"Viby J, Denmark, 8260\" } ]Title: Finance Graduate Programme 2027Category: Students, Trainees and GraduatesLocation: Viby J, Denmark, 8260 Apply Now"
+  },
+  {
+   "employer": "Orsted",
    "area": "copenhagen",
-   "title": "Management Coordinator(Maternity Cover)",
-   "url": "https://careers.novonordisk.com/job/Kalundborg-Management-Coordinator%28Maternity-Cover%29-Regi/1456897033/",
-   "context": "Management Coordinator(Maternity Cover) Kalundborg, Region Zealand, DK Business Support & Administration 12 Nov 2026"
+   "title": "Senior Lead Financial Analyst",
+   "url": "https://orsted.com/en/careers/vacancies-list/2026/11/32943-senior-lead-financial-analyst",
+   "context": "Senior Lead Financial Analyst Finance and controlling Permanent Denmark Gentofte 01.12.2026 23:59 CET"
+  },
+  {
+   "employer": "Orsted",
+   "area": "copenhagen",
+   "title": "Senior Sustainability Advisor",
+   "url": "https://orsted.com/en/careers/vacancies-list/2026/11/32995-senior-sustainability-advisor",
+   "context": "Senior Sustainability Advisor Public affairs, regulatory and legal Permanent Denmark Gentofte 13.12.2026 23:59 CET"
   }
  ],
  "check_manually": [
@@ -76,7 +104,7 @@
    "links": 273,
    "job_like": 60,
    "kept": 5,
-   "new": 0,
+   "new": 1,
    "error": ""
   },
   {
@@ -84,8 +112,8 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 1,
-   "new": 0,
+   "kept": 4,
+   "new": 3,
    "error": ""
   },
   {
@@ -93,15 +121,15 @@
    "url": "https://jobs.grundfos.com/search/?q=&locationsearch=Denmark",
    "links": 270,
    "job_like": 30,
-   "kept": 1,
+   "kept": 0,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 119,
-   "job_like": 36,
+   "links": 112,
+   "job_like": 29,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -118,8 +146,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 355,
-   "job_like": 62,
+   "links": 356,
+   "job_like": 63,
    "kept": 5,
    "new": 0,
    "error": ""
@@ -154,35 +182,35 @@
   {
    "employer": "ActionAid Denmark (MS)",
    "url": "https://ms.recruiting.mindkey-app.com/da-DK/open-vacancies",
-   "links": 26,
-   "job_like": 10,
-   "kept": 5,
+   "links": 20,
+   "job_like": 7,
+   "kept": 3,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 197,
-   "job_like": 35,
-   "kept": 3,
-   "new": 0,
+   "links": 193,
+   "job_like": 32,
+   "kept": 5,
+   "new": 2,
    "error": ""
   },
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 233,
-   "job_like": 164,
-   "kept": 14,
+   "links": 225,
+   "job_like": 156,
+   "kept": 13,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 54,
-   "job_like": 49,
+   "links": 55,
+   "job_like": 50,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -199,8 +227,8 @@
   {
    "employer": "Siteimprove",
    "url": "https://careers.siteimprove.com/",
-   "links": 30,
-   "job_like": 25,
+   "links": 29,
+   "job_like": 24,
    "kept": 0,
    "new": 0,
    "error": ""
@@ -226,11 +254,11 @@
   {
    "employer": "Doist",
    "url": "https://www.todoist.com/careers",
-   "links": 75,
-   "job_like": 0,
+   "links": 76,
+   "job_like": 1,
    "kept": 0,
    "new": 0,
-   "error": "No job links found: page may need a different URL or a link_regex"
+   "error": ""
   }
  ]
 }

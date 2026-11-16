@@ -1,9 +1,13 @@
-# Job Watch 2026-11-13
+# Job Watch 2026-11-16
 
-New ads: 2
+New ads: 6
 
-- **Aarhus University**: [Deadline 4 Dec Aarhus C, Department of Agroecology - Center for Landscape Research in Sustainable Agricultural Futures - Land-CRAFT Data manager for Center for Landscape Research in Sustainable Agricu](https://international.au.dk/about/profile/vacant-positions/job/data-manager-for-center-for-landscape-research-in-sustainable-agricultural-futures-land-craft-department-of-agroecology-aarhus-university-1)
-- **Novo Nordisk**: [Management Coordinator(Maternity Cover)](https://careers.novonordisk.com/job/Kalundborg-Management-Coordinator%28Maternity-Cover%29-Regi/1456897033/)
+- **Vestas**: [Project Manager](https://careers.vestas.com/job/Aarhus-N-Project-Manager-Regi-8200/1455544133/)
+- **Arla Foods**: [F15 Graduate Programme 2027](https://jobs.arla.com/gb/en/job/111614/F15-Graduate-Programme-2027)
+- **Arla Foods**: [IT Graduate Programme 2027 - Gdansk](https://jobs.arla.com/gb/en/job/111638/IT-Graduate-Programme-2027-Gdansk)
+- **Arla Foods**: [Finance Graduate Programme 2027](https://jobs.arla.com/gb/en/job/111629/Finance-Graduate-Programme-2027)
+- **Orsted**: [Senior Lead Financial Analyst](https://orsted.com/en/careers/vacancies-list/2026/11/32943-senior-lead-financial-analyst)
+- **Orsted**: [Senior Sustainability Advisor](https://orsted.com/en/careers/vacancies-list/2026/11/32995-senior-sustainability-advisor)
 
 ## Check these by hand (the script can't read them)
 
@@ -17,7 +21,3 @@ New ads: 2
 - Our World in Data: https://ourworldindata.org/jobs
 - Ember: https://ember-energy.org/about-us/careers/
 - Automattic: https://automattic.com/work-with-us/
-
-## Pages that need attention
-
-- Doist: No job links found: page may need a different URL or a link_regex (https://www.todoist.com/careers)
