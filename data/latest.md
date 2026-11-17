@@ -1,8 +1,9 @@
 # Job Watch 2026-11-17
 
-New ads: 1
+New ads: 2
 
 - **Arla Foods**: [Supply Chain Graduate Programme 2027](https://jobs.arla.com/gb/en/job/111615/Supply-Chain-Graduate-Programme-2027)
+- **Vestas**: [Data Governance Lead Professional](https://careers.vestas.com/job/Aarhus-N-Data-Governance-Lead-Professional-Regi-8200/1440926233/)
 
 ## Check these by hand (the script can't read them)
 
