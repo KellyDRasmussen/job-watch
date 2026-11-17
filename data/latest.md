@@ -1,13 +1,8 @@
-# Job Watch 2026-11-16
+# Job Watch 2026-11-17
 
-New ads: 6
+New ads: 1
 
-- **Vestas**: [Project Manager](https://careers.vestas.com/job/Aarhus-N-Project-Manager-Regi-8200/1455544133/)
-- **Arla Foods**: [F15 Graduate Programme 2027](https://jobs.arla.com/gb/en/job/111614/F15-Graduate-Programme-2027)
-- **Arla Foods**: [IT Graduate Programme 2027 - Gdansk](https://jobs.arla.com/gb/en/job/111638/IT-Graduate-Programme-2027-Gdansk)
-- **Arla Foods**: [Finance Graduate Programme 2027](https://jobs.arla.com/gb/en/job/111629/Finance-Graduate-Programme-2027)
-- **Orsted**: [Senior Lead Financial Analyst](https://orsted.com/en/careers/vacancies-list/2026/11/32943-senior-lead-financial-analyst)
-- **Orsted**: [Senior Sustainability Advisor](https://orsted.com/en/careers/vacancies-list/2026/11/32995-senior-sustainability-advisor)
+- **Arla Foods**: [Supply Chain Graduate Programme 2027](https://jobs.arla.com/gb/en/job/111615/Supply-Chain-Graduate-Programme-2027)
 
 ## Check these by hand (the script can't read them)
 

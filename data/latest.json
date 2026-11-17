@@ -1,48 +1,13 @@
 {
- "run_date": "2026-11-16",
+ "run_date": "2026-11-17",
  "first_run": false,
  "new": [
   {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Project Manager",
-   "url": "https://careers.vestas.com/job/Aarhus-N-Project-Manager-Regi-8200/1455544133/",
-   "context": "Project Manager Aarhus N, Region Central Jutland, DK, 8200 +2 more… Project Portfolio Management Management"
-  },
-  {
    "employer": "Arla Foods",
    "area": "aarhus",
-   "title": "F15 Graduate Programme 2027",
-   "url": "https://jobs.arla.com/gb/en/job/111614/F15-Graduate-Programme-2027",
-   "context": "F15 Graduate Programme 2027Available in {{count}} locations: [ { \"latlong\": { \"lon\": 10.19497, \"lat\": 56.16331 }, \"location\": \"Viby J, Denmark, 8260\" } ]Title: F15 Graduate Programme 2027Category: Students, Trainees and GraduatesLocation: Viby J, Denmark, 8260 Apply Now"
-  },
-  {
-   "employer": "Arla Foods",
-   "area": "aarhus",
-   "title": "IT Graduate Programme 2027 - Gdansk",
-   "url": "https://jobs.arla.com/gb/en/job/111638/IT-Graduate-Programme-2027-Gdansk",
-   "context": "IT Graduate Programme 2027 - GdanskAvailable in {{count}} locations: [ { \"latlong\": { \"lon\": 18.60753, \"lat\": 54.37648 }, \"location\": \"Gdansk, Poland, 80-244\" } ]Title: IT Graduate Programme 2027 - GdanskCategory: Students, Trainees and GraduatesLocation: Gdansk, Poland, 80-244 Apply Now"
-  },
-  {
-   "employer": "Arla Foods",
-   "area": "aarhus",
-   "title": "Finance Graduate Programme 2027",
-   "url": "https://jobs.arla.com/gb/en/job/111629/Finance-Graduate-Programme-2027",
-   "context": "Finance Graduate Programme 2027Available in {{count}} locations: [ { \"latlong\": { \"lon\": 10.19497, \"lat\": 56.16331 }, \"location\": \"Viby J, Denmark, 8260\" } ]Title: Finance Graduate Programme 2027Category: Students, Trainees and GraduatesLocation: Viby J, Denmark, 8260 Apply Now"
-  },
-  {
-   "employer": "Orsted",
-   "area": "copenhagen",
-   "title": "Senior Lead Financial Analyst",
-   "url": "https://orsted.com/en/careers/vacancies-list/2026/11/32943-senior-lead-financial-analyst",
-   "context": "Senior Lead Financial Analyst Finance and controlling Permanent Denmark Gentofte 01.12.2026 23:59 CET"
-  },
-  {
-   "employer": "Orsted",
-   "area": "copenhagen",
-   "title": "Senior Sustainability Advisor",
-   "url": "https://orsted.com/en/careers/vacancies-list/2026/11/32995-senior-sustainability-advisor",
-   "context": "Senior Sustainability Advisor Public affairs, regulatory and legal Permanent Denmark Gentofte 13.12.2026 23:59 CET"
+   "title": "Supply Chain Graduate Programme 2027",
+   "url": "https://jobs.arla.com/gb/en/job/111615/Supply-Chain-Graduate-Programme-2027",
+   "context": "Supply Chain Graduate Programme 2027Available in {{count}} locations: [ { \"latlong\": { \"lon\": 10.19497, \"lat\": 56.16331 }, \"location\": \"Viby J, Denmark, 8260\" } ]Title: Supply Chain Graduate Programme 2027Category: Students, Trainees and GraduatesLocation: Viby J, Denmark, 8260 Apply Now"
   }
  ],
  "check_manually": [
@@ -113,7 +78,7 @@
    "links": 198,
    "job_like": 39,
    "kept": 2,
-   "new": 0,
+   "new": 1,
    "error": ""
   },
   {
@@ -128,8 +93,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 111,
-   "job_like": 28,
+   "links": 114,
+   "job_like": 31,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -146,8 +111,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 356,
-   "job_like": 63,
+   "links": 358,
+   "job_like": 65,
    "kept": 5,
    "new": 0,
    "error": ""
@@ -209,9 +174,9 @@
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 55,
-   "job_like": 50,
-   "kept": 2,
+   "links": 54,
+   "job_like": 49,
+   "kept": 1,
    "new": 0,
    "error": ""
   },
@@ -227,8 +192,8 @@
   {
    "employer": "Siteimprove",
    "url": "https://careers.siteimprove.com/",
-   "links": 29,
-   "job_like": 24,
+   "links": 28,
+   "job_like": 23,
    "kept": 0,
    "new": 0,
    "error": ""
@@ -245,8 +210,8 @@
   {
    "employer": "Wikimedia Foundation",
    "url": "https://job-boards.greenhouse.io/wikimedia",
-   "links": 19,
-   "job_like": 16,
+   "links": 18,
+   "job_like": 15,
    "kept": 8,
    "new": 0,
    "error": ""
