@@ -1,9 +1,10 @@
 # Job Watch 2026-11-17
 
-New ads: 2
+New ads: 3
 
 - **Arla Foods**: [Supply Chain Graduate Programme 2027](https://jobs.arla.com/gb/en/job/111615/Supply-Chain-Graduate-Programme-2027)
 - **Vestas**: [Data Governance Lead Professional](https://careers.vestas.com/job/Aarhus-N-Data-Governance-Lead-Professional-Regi-8200/1440926233/)
+- **Aarhus University**: [Deadline 1 Dec Aarhus N, Department of Clinical Medicine - Clinical Epidemiology Biostatistician with experience in SAS programming Fixed term: 1 Feb 2027 - 31 Jan 2030 Full-time position](https://international.au.dk/about/profile/vacant-positions/job/biostatistician-with-experience-in-sas-programming)
 
 ## Check these by hand (the script can't read them)
 

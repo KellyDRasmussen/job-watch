@@ -15,6 +15,13 @@
    "title": "Data Governance Lead Professional",
    "url": "https://careers.vestas.com/job/Aarhus-N-Data-Governance-Lead-Professional-Regi-8200/1440926233/",
    "context": "Data Governance Lead Professional Aarhus N, Region Central Jutland, DK, 8200 +1 more… Quality, Health, Safety and Environment Professional"
+  },
+  {
+   "employer": "Aarhus University",
+   "area": "aarhus",
+   "title": "Deadline 1 Dec Aarhus N, Department of Clinical Medicine - Clinical Epidemiology Biostatistician with experience in SAS programming Fixed term: 1 Feb 2027 - 31 Jan 2030 Full-time position",
+   "url": "https://international.au.dk/about/profile/vacant-positions/job/biostatistician-with-experience-in-sas-programming",
+   "context": "Deadline 1 Dec Aarhus N, Department of Clinical Medicine - Clinical Epidemiology Biostatistician with experience in SAS programming Fixed term: 1 Feb 2027 - 31 Jan 2030 Full-time position"
   }
  ],
  "check_manually": [
@@ -76,7 +83,7 @@
    "links": 273,
    "job_like": 60,
    "kept": 9,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -100,8 +107,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 113,
-   "job_like": 30,
+   "links": 114,
+   "job_like": 31,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -118,10 +125,10 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 360,
-   "job_like": 67,
-   "kept": 5,
-   "new": 0,
+   "links": 362,
+   "job_like": 69,
+   "kept": 6,
+   "new": 1,
    "error": ""
   },
   {
@@ -163,8 +170,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 193,
-   "job_like": 32,
+   "links": 195,
+   "job_like": 34,
    "kept": 4,
    "new": 0,
    "error": ""
@@ -172,8 +179,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 201,
-   "job_like": 132,
+   "links": 205,
+   "job_like": 136,
    "kept": 8,
    "new": 0,
    "error": ""
@@ -181,8 +188,8 @@
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 62,
-   "job_like": 57,
+   "links": 63,
+   "job_like": 58,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -190,9 +197,9 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 39,
-   "job_like": 34,
-   "kept": 3,
+   "links": 38,
+   "job_like": 33,
+   "kept": 2,
    "new": 0,
    "error": ""
   },
