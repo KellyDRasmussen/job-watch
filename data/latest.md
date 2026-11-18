@@ -1,7 +1,9 @@
 # Job Watch 2026-11-18
 
-New ads: 0
+New ads: 2
 
+- **Novo Nordisk**: [Project Manager](https://careers.novonordisk.com/job/Hiller%C3%B8d-Project-Manager-Capi/1458413233/)
+- **Novo Nordisk**: [Advanced data analyst](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Advanced-data-analyst-Capi/1458411633/)
 
 ## Check these by hand (the script can't read them)
 

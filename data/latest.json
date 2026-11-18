@@ -1,7 +1,22 @@
 {
  "run_date": "2026-11-18",
  "first_run": false,
- "new": [],
+ "new": [
+  {
+   "employer": "Novo Nordisk",
+   "area": "copenhagen",
+   "title": "Project Manager",
+   "url": "https://careers.novonordisk.com/job/Hiller%C3%B8d-Project-Manager-Capi/1458413233/",
+   "context": "Project Manager Hillerød, Capital Region of Denmark, DK Project Management & Agile 18 Nov 2026"
+  },
+  {
+   "employer": "Novo Nordisk",
+   "area": "copenhagen",
+   "title": "Advanced data analyst",
+   "url": "https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Advanced-data-analyst-Capi/1458411633/",
+   "context": "Advanced data analyst Bagsværd, Capital Region of Denmark, DK Business Support & Administration 18 Nov 2026"
+  }
+ ],
  "check_manually": [
   {
    "employer": "Kamstrup",
@@ -103,8 +118,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 362,
-   "job_like": 69,
+   "links": 364,
+   "job_like": 71,
    "kept": 6,
    "new": 0,
    "error": ""
@@ -157,10 +172,10 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 203,
-   "job_like": 134,
-   "kept": 6,
-   "new": 0,
+   "links": 219,
+   "job_like": 150,
+   "kept": 8,
+   "new": 2,
    "error": ""
   },
   {
@@ -175,8 +190,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 37,
-   "job_like": 32,
+   "links": 38,
+   "job_like": 33,
    "kept": 2,
    "new": 0,
    "error": ""
