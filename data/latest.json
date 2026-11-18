@@ -69,7 +69,7 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 1,
+   "kept": 2,
    "new": 0,
    "error": ""
   },
@@ -148,8 +148,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 195,
-   "job_like": 34,
+   "links": 196,
+   "job_like": 35,
    "kept": 4,
    "new": 0,
    "error": ""
@@ -175,8 +175,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 38,
-   "job_like": 33,
+   "links": 37,
+   "job_like": 32,
    "kept": 2,
    "new": 0,
    "error": ""
