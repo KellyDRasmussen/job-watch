@@ -1,29 +1,7 @@
 {
- "run_date": "2026-11-17",
+ "run_date": "2026-11-18",
  "first_run": false,
- "new": [
-  {
-   "employer": "Arla Foods",
-   "area": "aarhus",
-   "title": "Supply Chain Graduate Programme 2027",
-   "url": "https://jobs.arla.com/gb/en/job/111615/Supply-Chain-Graduate-Programme-2027",
-   "context": "Supply Chain Graduate Programme 2027Available in {{count}} locations: [ { \"latlong\": { \"lon\": 10.19497, \"lat\": 56.16331 }, \"location\": \"Viby J, Denmark, 8260\" } ]Title: Supply Chain Graduate Programme 2027Category: Students, Trainees and GraduatesLocation: Viby J, Denmark, 8260 Apply Now"
-  },
-  {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Data Governance Lead Professional",
-   "url": "https://careers.vestas.com/job/Aarhus-N-Data-Governance-Lead-Professional-Regi-8200/1440926233/",
-   "context": "Data Governance Lead Professional Aarhus N, Region Central Jutland, DK, 8200 +1 more… Quality, Health, Safety and Environment Professional"
-  },
-  {
-   "employer": "Aarhus University",
-   "area": "aarhus",
-   "title": "Deadline 1 Dec Aarhus N, Department of Clinical Medicine - Clinical Epidemiology Biostatistician with experience in SAS programming Fixed term: 1 Feb 2027 - 31 Jan 2030 Full-time position",
-   "url": "https://international.au.dk/about/profile/vacant-positions/job/biostatistician-with-experience-in-sas-programming",
-   "context": "Deadline 1 Dec Aarhus N, Department of Clinical Medicine - Clinical Epidemiology Biostatistician with experience in SAS programming Fixed term: 1 Feb 2027 - 31 Jan 2030 Full-time position"
-  }
- ],
+ "new": [],
  "check_manually": [
   {
    "employer": "Kamstrup",
@@ -82,7 +60,7 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 273,
    "job_like": 60,
-   "kept": 9,
+   "kept": 7,
    "new": 0,
    "error": ""
   },
@@ -107,8 +85,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 114,
-   "job_like": 31,
+   "links": 112,
+   "job_like": 29,
    "kept": 2,
    "new": 0,
    "error": ""
@@ -128,7 +106,7 @@
    "links": 362,
    "job_like": 69,
    "kept": 6,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -161,9 +139,9 @@
   {
    "employer": "ActionAid Denmark (MS)",
    "url": "https://ms.recruiting.mindkey-app.com/da-DK/open-vacancies",
-   "links": 18,
-   "job_like": 6,
-   "kept": 3,
+   "links": 16,
+   "job_like": 5,
+   "kept": 2,
    "new": 0,
    "error": ""
   },
@@ -179,17 +157,17 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 205,
-   "job_like": 136,
-   "kept": 8,
+   "links": 203,
+   "job_like": 134,
+   "kept": 6,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 63,
-   "job_like": 58,
+   "links": 64,
+   "job_like": 59,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -224,8 +202,8 @@
   {
    "employer": "Wikimedia Foundation",
    "url": "https://job-boards.greenhouse.io/wikimedia",
-   "links": 18,
-   "job_like": 15,
+   "links": 19,
+   "job_like": 16,
    "kept": 8,
    "new": 0,
    "error": ""
