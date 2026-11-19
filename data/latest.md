@@ -1,9 +1,8 @@
-# Job Watch 2026-11-18
+# Job Watch 2026-11-19
 
-New ads: 2
+New ads: 1
 
-- **Novo Nordisk**: [Project Manager](https://careers.novonordisk.com/job/Hiller%C3%B8d-Project-Manager-Capi/1458413233/)
-- **Novo Nordisk**: [Advanced data analyst](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Advanced-data-analyst-Capi/1458411633/)
+- **Arla Foods**: [Senior MRO Coordinator - Nijkerk](https://jobs.arla.com/gb/en/job/109857/Senior-MRO-Coordinator-Nijkerk)
 
 ## Check these by hand (the script can't read them)
 
