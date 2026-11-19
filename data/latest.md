@@ -1,8 +1,9 @@
 # Job Watch 2026-11-19
 
-New ads: 1
+New ads: 2
 
 - **Arla Foods**: [Senior MRO Coordinator - Nijkerk](https://jobs.arla.com/gb/en/job/109857/Senior-MRO-Coordinator-Nijkerk)
+- **Novo Nordisk**: [Specialist, CMC Analytical Execution & Technology](https://careers.novonordisk.com/job/M%C3%A5l%C3%B8v-Specialist%2C-CMC-Analytical-Execution-&-Technology-Capi/1440098133/)
 
 ## Check these by hand (the script can't read them)
 

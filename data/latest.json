@@ -8,6 +8,13 @@
    "title": "Senior MRO Coordinator - Nijkerk",
    "url": "https://jobs.arla.com/gb/en/job/109857/Senior-MRO-Coordinator-Nijkerk",
    "context": "Senior MRO Coordinator - NijkerkAvailable in {{count}} locations: [ { \"latlong\": { \"lon\": 5.48611, \"lat\": 52.22 }, \"location\": \"RJ Nijkerk, Netherlands, 3861\" } ]Title: Senior MRO Coordinator - NijkerkCategory: Maintenance & EngineeringLocation: RJ Nijkerk, Netherlands, 3861 Apply Now"
+  },
+  {
+   "employer": "Novo Nordisk",
+   "area": "copenhagen",
+   "title": "Specialist, CMC Analytical Execution & Technology",
+   "url": "https://careers.novonordisk.com/job/M%C3%A5l%C3%B8v-Specialist%2C-CMC-Analytical-Execution-&-Technology-Capi/1440098133/",
+   "context": "Specialist, CMC Analytical Execution & Technology Måløv, Capital Region of Denmark, DK Research 22 Sept 2026"
   }
  ],
  "check_manually": [
@@ -68,7 +75,7 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 273,
    "job_like": 60,
-   "kept": 8,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
@@ -78,7 +85,7 @@
    "links": 198,
    "job_like": 39,
    "kept": 2,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -111,8 +118,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 362,
-   "job_like": 69,
+   "links": 363,
+   "job_like": 70,
    "kept": 6,
    "new": 0,
    "error": ""
@@ -165,17 +172,17 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 219,
-   "job_like": 150,
-   "kept": 5,
-   "new": 0,
+   "links": 229,
+   "job_like": 160,
+   "kept": 6,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 65,
-   "job_like": 60,
+   "links": 69,
+   "job_like": 64,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -183,8 +190,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 38,
-   "job_like": 33,
+   "links": 37,
+   "job_like": 32,
    "kept": 2,
    "new": 0,
    "error": ""
