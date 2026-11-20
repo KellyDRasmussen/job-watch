@@ -91,7 +91,7 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 2,
+   "kept": 1,
    "new": 0,
    "error": ""
   },
@@ -125,8 +125,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 363,
-   "job_like": 70,
+   "links": 366,
+   "job_like": 73,
    "kept": 5,
    "new": 0,
    "error": ""
@@ -164,7 +164,7 @@
    "links": 24,
    "job_like": 9,
    "kept": 6,
-   "new": 3,
+   "new": 0,
    "error": ""
   },
   {
@@ -179,8 +179,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 217,
-   "job_like": 148,
+   "links": 219,
+   "job_like": 150,
    "kept": 4,
    "new": 0,
    "error": ""
@@ -188,8 +188,8 @@
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 67,
-   "job_like": 62,
+   "links": 65,
+   "job_like": 60,
    "kept": 1,
    "new": 0,
    "error": ""
