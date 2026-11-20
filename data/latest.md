@@ -1,10 +1,10 @@
-# Job Watch 2026-11-19
+# Job Watch 2026-11-20
 
 New ads: 3
 
-- **Arla Foods**: [Senior MRO Coordinator - Nijkerk](https://jobs.arla.com/gb/en/job/109857/Senior-MRO-Coordinator-Nijkerk)
-- **Novo Nordisk**: [Specialist, CMC Analytical Execution & Technology](https://careers.novonordisk.com/job/M%C3%A5l%C3%B8v-Specialist%2C-CMC-Analytical-Execution-&-Technology-Capi/1440098133/)
-- **ActionAid Denmark (MS)**: [Akademiet for Håb og Handling](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/19-11-2026)
+- **ActionAid Denmark (MS)**: [Digital Platforms and Design Officer](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/19112026)
+- **ActionAid Denmark (MS)**: [Global Platform Digital Learning Specialist](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/20112026)
+- **ActionAid Denmark (MS)**: [Global Platform Network Coordinator](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/21112026)
 
 ## Check these by hand (the script can't read them)
 

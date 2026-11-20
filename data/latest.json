@@ -1,27 +1,27 @@
 {
- "run_date": "2026-11-19",
+ "run_date": "2026-11-20",
  "first_run": false,
  "new": [
   {
-   "employer": "Arla Foods",
-   "area": "aarhus",
-   "title": "Senior MRO Coordinator - Nijkerk",
-   "url": "https://jobs.arla.com/gb/en/job/109857/Senior-MRO-Coordinator-Nijkerk",
-   "context": "Senior MRO Coordinator - NijkerkAvailable in {{count}} locations: [ { \"latlong\": { \"lon\": 5.48611, \"lat\": 52.22 }, \"location\": \"RJ Nijkerk, Netherlands, 3861\" } ]Title: Senior MRO Coordinator - NijkerkCategory: Maintenance & EngineeringLocation: RJ Nijkerk, Netherlands, 3861 Apply Now"
-  },
-  {
-   "employer": "Novo Nordisk",
+   "employer": "ActionAid Denmark (MS)",
    "area": "copenhagen",
-   "title": "Specialist, CMC Analytical Execution & Technology",
-   "url": "https://careers.novonordisk.com/job/M%C3%A5l%C3%B8v-Specialist%2C-CMC-Analytical-Execution-&-Technology-Capi/1440098133/",
-   "context": "Specialist, CMC Analytical Execution & Technology Måløv, Capital Region of Denmark, DK Research 22 Sept 2026"
+   "title": "Digital Platforms and Design Officer",
+   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/19112026",
+   "context": "Digital Platforms and Design Officer Can you combine digital know-how with an eye for design? Join ActionAid Denmark to create accessible digital spaces and engaging materials that connect young people across the Global Platforms network and help bring their stories, ideas and opportunities to wider"
   },
   {
    "employer": "ActionAid Denmark (MS)",
    "area": "copenhagen",
-   "title": "Akademiet for Håb og Handling",
-   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/19-11-2026",
-   "context": "Akademiet for Håb og Handling Søg en plads på Akademiet for Håb og Handling i foråret 2027 og få konkrete værktøjer til at skabe forandring. Akademiet er en praktisk uddannelse for unge, der ønsker at udvikle deres lederskabsevner og gøre en forskel i en verden præget af ulighed, uretfærdighed og ko"
+   "title": "Global Platform Digital Learning Specialist",
+   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/20112026",
+   "context": "Global Platform Digital Learning Specialist Can you design digital learning processes, blended learning and make digital learning easy to access and use, wherever people are? Join ActionAid Denmark to develop and turn courses, tools and ideas into practical learning resources that connect young peop"
+  },
+  {
+   "employer": "ActionAid Denmark (MS)",
+   "area": "copenhagen",
+   "title": "Global Platform Network Coordinator",
+   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/21112026",
+   "context": "Global Platform Network Coordinator Do you enjoy bringing people together and turning connections into shared action? Join ActionAid Denmark to help young people across the Global Platforms network connect, learn from one another and organize across borders. We are looking for a coordinator who comb"
   }
  ],
  "check_manually": [
@@ -82,7 +82,7 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 273,
    "job_like": 60,
-   "kept": 5,
+   "kept": 6,
    "new": 0,
    "error": ""
   },
@@ -116,7 +116,7 @@
   {
    "employer": "UNIwise",
    "url": "https://uniwise.dk/careers/",
-   "links": 41,
+   "links": 38,
    "job_like": 0,
    "kept": 0,
    "new": 0,
@@ -127,7 +127,7 @@
    "url": "https://international.au.dk/about/profile/vacant-positions",
    "links": 363,
    "job_like": 70,
-   "kept": 6,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
@@ -161,10 +161,10 @@
   {
    "employer": "ActionAid Denmark (MS)",
    "url": "https://ms.recruiting.mindkey-app.com/da-DK/open-vacancies",
-   "links": 18,
-   "job_like": 6,
-   "kept": 3,
-   "new": 1,
+   "links": 24,
+   "job_like": 9,
+   "kept": 6,
+   "new": 3,
    "error": ""
   },
   {
@@ -179,9 +179,9 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 229,
-   "job_like": 160,
-   "kept": 6,
+   "links": 217,
+   "job_like": 148,
+   "kept": 4,
    "new": 0,
    "error": ""
   },
@@ -206,8 +206,8 @@
   {
    "employer": "Siteimprove",
    "url": "https://careers.siteimprove.com/",
-   "links": 109,
-   "job_like": 16,
+   "links": 107,
+   "job_like": 12,
    "kept": 0,
    "new": 0,
    "error": ""
@@ -224,16 +224,16 @@
   {
    "employer": "Wikimedia Foundation",
    "url": "https://job-boards.greenhouse.io/wikimedia",
-   "links": 19,
-   "job_like": 16,
-   "kept": 8,
+   "links": 18,
+   "job_like": 15,
+   "kept": 7,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Doist",
    "url": "https://www.todoist.com/careers",
-   "links": 76,
+   "links": 85,
    "job_like": 1,
    "kept": 0,
    "new": 0,
