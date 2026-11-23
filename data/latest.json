@@ -83,7 +83,7 @@
    "links": 273,
    "job_like": 60,
    "kept": 7,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -125,16 +125,16 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 365,
-   "job_like": 72,
+   "links": 366,
+   "job_like": 73,
    "kept": 6,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
    "employer": "Rockwool Foundation",
    "url": "https://rockwoolfonden.dk/ledige-stillinger/",
-   "links": 51,
+   "links": 52,
    "job_like": 0,
    "kept": 0,
    "new": 0,
@@ -182,14 +182,14 @@
    "links": 209,
    "job_like": 140,
    "kept": 5,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 68,
-   "job_like": 63,
+   "links": 65,
+   "job_like": 60,
    "kept": 1,
    "new": 0,
    "error": ""
