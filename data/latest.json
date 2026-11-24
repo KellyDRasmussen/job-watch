@@ -29,6 +29,20 @@
    "title": "Data Governance Lead Professional",
    "url": "https://careers.vestas.com/job/Copenhagen-S-Data-Governance-Lead-Professional-Regi-2300/1459999833",
    "context": "Data Governance Lead Professional Copenhagen S, Regi, DK Job FamilyQuality, Health, Safety and Environment"
+  },
+  {
+   "employer": "Vestas",
+   "area": "aarhus",
+   "title": "Finance Transformation (Senior) Project Manager",
+   "url": "https://careers.vestas.com/job/Copenhagen-S-Finance-Transformation-%28Senior%29-Project-Manager-Regi-2300/1459966333",
+   "context": "Finance Transformation (Senior) Project Manager Copenhagen S, Regi, DK Job FamilyFinance"
+  },
+  {
+   "employer": "Vestas",
+   "area": "aarhus",
+   "title": "Commercial Growth & Insights Manager",
+   "url": "https://careers.vestas.com/job/Copenhagen-S-Commercial-Growth-&amp;-Insights-Manager-Regi-2300/1459960833",
+   "context": "Commercial Growth & Insights Manager Copenhagen S, Regi, DK Job FamilyCommercial"
   }
  ],
  "check_manually": [
@@ -89,8 +103,8 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 177,
    "job_like": 30,
-   "kept": 4,
-   "new": 4,
+   "kept": 6,
+   "new": 2,
    "error": ""
   },
   {
@@ -98,7 +112,7 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 1,
+   "kept": 2,
    "new": 0,
    "error": ""
   },
@@ -132,8 +146,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 366,
-   "job_like": 73,
+   "links": 367,
+   "job_like": 74,
    "kept": 6,
    "new": 0,
    "error": ""
@@ -204,9 +218,9 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 38,
-   "job_like": 33,
-   "kept": 1,
+   "links": 37,
+   "job_like": 32,
+   "kept": 0,
    "new": 0,
    "error": ""
   },
