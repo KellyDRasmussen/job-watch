@@ -104,7 +104,7 @@
    "links": 177,
    "job_like": 30,
    "kept": 6,
-   "new": 2,
+   "new": 0,
    "error": ""
   },
   {
@@ -202,7 +202,7 @@
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
    "links": 223,
    "job_like": 154,
-   "kept": 5,
+   "kept": 4,
    "new": 0,
    "error": ""
   },
@@ -218,8 +218,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 37,
-   "job_like": 32,
+   "links": 35,
+   "job_like": 30,
    "kept": 0,
    "new": 0,
    "error": ""
@@ -227,8 +227,8 @@
   {
    "employer": "Siteimprove",
    "url": "https://careers.siteimprove.com/",
-   "links": 106,
-   "job_like": 11,
+   "links": 107,
+   "job_like": 12,
    "kept": 0,
    "new": 0,
    "error": ""
