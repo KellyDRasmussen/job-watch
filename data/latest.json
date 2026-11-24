@@ -1,27 +1,34 @@
 {
- "run_date": "2026-11-23",
+ "run_date": "2026-11-24",
  "first_run": false,
  "new": [
   {
    "employer": "Vestas",
    "area": "aarhus",
-   "title": "NPI Procurement Project Manager",
-   "url": "https://careers.vestas.com/job/Aarhus-N-NPI-Procurement-Project-Manager-Regi-8200/1426980633/",
-   "context": "NPI Procurement Project Manager Aarhus N, Region Central Jutland, DK, 8200 Project Portfolio Management Management"
+   "title": "Team Lead Warehouse operations - Offshore Service Campaign (f/m/d)",
+   "url": "https://careers.vestas.com/job/Esbjerg-Team-Lead-Warehouse-operations-Offshore-Service-Campaign-%28fmd%29-Regi/1459964333",
+   "context": "Team Lead Warehouse operations - Offshore Service Campaign (f/m/d) Esbjerg, Regi, DK Job FamilySupply Chain and Logistics"
   },
   {
-   "employer": "Aarhus University",
+   "employer": "Vestas",
    "area": "aarhus",
-   "title": "Deadline 1 Jan Roskilde, Department of Environmental Science Automated Analysis of Non-Target HPLC Mass Spectrometry Data Fixed term: 1 Apr 2027 - 31 Mar 2029 Full-time position",
-   "url": "https://international.au.dk/about/profile/vacant-positions/job/automated-analysis-of-non-target-hplc-mass-spectrometry-data",
-   "context": "Deadline 1 Jan Roskilde, Department of Environmental Science Automated Analysis of Non-Target HPLC Mass Spectrometry Data Fixed term: 1 Apr 2027 - 31 Mar 2029 Full-time position"
+   "title": "Team Lead Warehouse operations - Offshore Service Campaign (f/m/d)",
+   "url": "https://careers.vestas.com/job/Copenhagen-S-Team-Lead-Warehouse-operations-Offshore-Service-Campaign-%28fmd%29-Regi/1459964033",
+   "context": "Team Lead Warehouse operations - Offshore Service Campaign (f/m/d) Copenhagen S, Regi, DK Job FamilySupply Chain and Logistics"
   },
   {
-   "employer": "Novo Nordisk",
-   "area": "copenhagen",
-   "title": "Sr Supply Chain Project Manager",
-   "url": "https://careers.novonordisk.com/job/H%C3%B8je-Taastrup-Sr-Supply-Chain-Project-Manager-Capi/1457880433/",
-   "context": "Sr Supply Chain Project Manager Høje-Taastrup, Capital Region of Denmark, DK Project Management & Agile 17 Nov 2026"
+   "employer": "Vestas",
+   "area": "aarhus",
+   "title": "Project Manager",
+   "url": "https://careers.vestas.com/job/Esbjerg-Project-Manager-Regi-6700/1460022433",
+   "context": "Project Manager Esbjerg, Regi, DK Job FamilyProject Portfolio Management"
+  },
+  {
+   "employer": "Vestas",
+   "area": "aarhus",
+   "title": "Data Governance Lead Professional",
+   "url": "https://careers.vestas.com/job/Copenhagen-S-Data-Governance-Lead-Professional-Regi-2300/1459999833",
+   "context": "Data Governance Lead Professional Copenhagen S, Regi, DK Job FamilyQuality, Health, Safety and Environment"
   }
  ],
  "check_manually": [
@@ -80,10 +87,10 @@
   {
    "employer": "Vestas",
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
-   "links": 273,
-   "job_like": 60,
-   "kept": 6,
-   "new": 0,
+   "links": 177,
+   "job_like": 30,
+   "kept": 4,
+   "new": 4,
    "error": ""
   },
   {
@@ -107,7 +114,7 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 121,
+   "links": 118,
    "job_like": 38,
    "kept": 2,
    "new": 0,
@@ -125,8 +132,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 368,
-   "job_like": 75,
+   "links": 366,
+   "job_like": 73,
    "kept": 6,
    "new": 0,
    "error": ""
@@ -179,8 +186,8 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 221,
-   "job_like": 152,
+   "links": 223,
+   "job_like": 154,
    "kept": 5,
    "new": 0,
    "error": ""
@@ -188,8 +195,8 @@
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 64,
-   "job_like": 59,
+   "links": 66,
+   "job_like": 61,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -197,8 +204,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 36,
-   "job_like": 31,
+   "links": 38,
+   "job_like": 33,
    "kept": 1,
    "new": 0,
    "error": ""

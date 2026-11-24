@@ -1,10 +1,11 @@
-# Job Watch 2026-11-23
+# Job Watch 2026-11-24
 
-New ads: 3
+New ads: 4
 
-- **Vestas**: [NPI Procurement Project Manager](https://careers.vestas.com/job/Aarhus-N-NPI-Procurement-Project-Manager-Regi-8200/1426980633/)
-- **Aarhus University**: [Deadline 1 Jan Roskilde, Department of Environmental Science Automated Analysis of Non-Target HPLC Mass Spectrometry Data Fixed term: 1 Apr 2027 - 31 Mar 2029 Full-time position](https://international.au.dk/about/profile/vacant-positions/job/automated-analysis-of-non-target-hplc-mass-spectrometry-data)
-- **Novo Nordisk**: [Sr Supply Chain Project Manager](https://careers.novonordisk.com/job/H%C3%B8je-Taastrup-Sr-Supply-Chain-Project-Manager-Capi/1457880433/)
+- **Vestas**: [Team Lead Warehouse operations - Offshore Service Campaign (f/m/d)](https://careers.vestas.com/job/Esbjerg-Team-Lead-Warehouse-operations-Offshore-Service-Campaign-%28fmd%29-Regi/1459964333)
+- **Vestas**: [Team Lead Warehouse operations - Offshore Service Campaign (f/m/d)](https://careers.vestas.com/job/Copenhagen-S-Team-Lead-Warehouse-operations-Offshore-Service-Campaign-%28fmd%29-Regi/1459964033)
+- **Vestas**: [Project Manager](https://careers.vestas.com/job/Esbjerg-Project-Manager-Regi-6700/1460022433)
+- **Vestas**: [Data Governance Lead Professional](https://careers.vestas.com/job/Copenhagen-S-Data-Governance-Lead-Professional-Regi-2300/1459999833)
 
 ## Check these by hand (the script can't read them)
 
