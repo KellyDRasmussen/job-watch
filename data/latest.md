@@ -1,13 +1,8 @@
-# Job Watch 2026-11-24
+# Job Watch 2026-11-25
 
-New ads: 6
+New ads: 1
 
-- **Vestas**: [Team Lead Warehouse operations - Offshore Service Campaign (f/m/d)](https://careers.vestas.com/job/Esbjerg-Team-Lead-Warehouse-operations-Offshore-Service-Campaign-%28fmd%29-Regi/1459964333)
-- **Vestas**: [Team Lead Warehouse operations - Offshore Service Campaign (f/m/d)](https://careers.vestas.com/job/Copenhagen-S-Team-Lead-Warehouse-operations-Offshore-Service-Campaign-%28fmd%29-Regi/1459964033)
-- **Vestas**: [Project Manager](https://careers.vestas.com/job/Esbjerg-Project-Manager-Regi-6700/1460022433)
-- **Vestas**: [Data Governance Lead Professional](https://careers.vestas.com/job/Copenhagen-S-Data-Governance-Lead-Professional-Regi-2300/1459999833)
-- **Vestas**: [Finance Transformation (Senior) Project Manager](https://careers.vestas.com/job/Copenhagen-S-Finance-Transformation-%28Senior%29-Project-Manager-Regi-2300/1459966333)
-- **Vestas**: [Commercial Growth & Insights Manager](https://careers.vestas.com/job/Copenhagen-S-Commercial-Growth-&amp;-Insights-Manager-Regi-2300/1459960833)
+- **Wikimedia Foundation**: [Program Delivery Coordinator (Contract)New Remote](https://job-boards.greenhouse.io/wikimedia/jobs/8367429)
 
 ## Check these by hand (the script can't read them)
 

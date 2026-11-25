@@ -1,48 +1,13 @@
 {
- "run_date": "2026-11-24",
+ "run_date": "2026-11-25",
  "first_run": false,
  "new": [
   {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Team Lead Warehouse operations - Offshore Service Campaign (f/m/d)",
-   "url": "https://careers.vestas.com/job/Esbjerg-Team-Lead-Warehouse-operations-Offshore-Service-Campaign-%28fmd%29-Regi/1459964333",
-   "context": "Team Lead Warehouse operations - Offshore Service Campaign (f/m/d) Esbjerg, Regi, DK Job FamilySupply Chain and Logistics"
-  },
-  {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Team Lead Warehouse operations - Offshore Service Campaign (f/m/d)",
-   "url": "https://careers.vestas.com/job/Copenhagen-S-Team-Lead-Warehouse-operations-Offshore-Service-Campaign-%28fmd%29-Regi/1459964033",
-   "context": "Team Lead Warehouse operations - Offshore Service Campaign (f/m/d) Copenhagen S, Regi, DK Job FamilySupply Chain and Logistics"
-  },
-  {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Project Manager",
-   "url": "https://careers.vestas.com/job/Esbjerg-Project-Manager-Regi-6700/1460022433",
-   "context": "Project Manager Esbjerg, Regi, DK Job FamilyProject Portfolio Management"
-  },
-  {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Data Governance Lead Professional",
-   "url": "https://careers.vestas.com/job/Copenhagen-S-Data-Governance-Lead-Professional-Regi-2300/1459999833",
-   "context": "Data Governance Lead Professional Copenhagen S, Regi, DK Job FamilyQuality, Health, Safety and Environment"
-  },
-  {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Finance Transformation (Senior) Project Manager",
-   "url": "https://careers.vestas.com/job/Copenhagen-S-Finance-Transformation-%28Senior%29-Project-Manager-Regi-2300/1459966333",
-   "context": "Finance Transformation (Senior) Project Manager Copenhagen S, Regi, DK Job FamilyFinance"
-  },
-  {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Commercial Growth & Insights Manager",
-   "url": "https://careers.vestas.com/job/Copenhagen-S-Commercial-Growth-&amp;-Insights-Manager-Regi-2300/1459960833",
-   "context": "Commercial Growth & Insights Manager Copenhagen S, Regi, DK Job FamilyCommercial"
+   "employer": "Wikimedia Foundation",
+   "area": "remote",
+   "title": "Program Delivery Coordinator (Contract)New Remote",
+   "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8367429",
+   "context": "Job Program Delivery Coordinator (Contract)New Remote Senior Program Officer, Sub-Saharan Africa (SSA) Remote"
   }
  ],
  "check_manually": [
@@ -103,7 +68,7 @@
    "url": "https://careers.vestas.com/search/?q=&locationsearch=Denmark",
    "links": 177,
    "job_like": 30,
-   "kept": 6,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
@@ -112,7 +77,7 @@
    "url": "https://jobs.arla.com/search/?q=&locationsearch=Denmark",
    "links": 198,
    "job_like": 39,
-   "kept": 2,
+   "kept": 1,
    "new": 0,
    "error": ""
   },
@@ -130,7 +95,7 @@
    "url": "https://job-boards.greenhouse.io/trustpilot",
    "links": 118,
    "job_like": 38,
-   "kept": 2,
+   "kept": 1,
    "new": 0,
    "error": ""
   },
@@ -148,7 +113,7 @@
    "url": "https://international.au.dk/about/profile/vacant-positions",
    "links": 367,
    "job_like": 74,
-   "kept": 6,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
@@ -191,8 +156,8 @@
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 194,
-   "job_like": 33,
+   "links": 192,
+   "job_like": 31,
    "kept": 4,
    "new": 0,
    "error": ""
@@ -200,17 +165,17 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 223,
-   "job_like": 154,
-   "kept": 4,
+   "links": 225,
+   "job_like": 158,
+   "kept": 5,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 66,
-   "job_like": 61,
+   "links": 65,
+   "job_like": 60,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -218,8 +183,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 35,
-   "job_like": 30,
+   "links": 37,
+   "job_like": 32,
    "kept": 0,
    "new": 0,
    "error": ""
@@ -245,10 +210,10 @@
   {
    "employer": "Wikimedia Foundation",
    "url": "https://job-boards.greenhouse.io/wikimedia",
-   "links": 15,
-   "job_like": 12,
-   "kept": 5,
-   "new": 0,
+   "links": 16,
+   "job_like": 13,
+   "kept": 6,
+   "new": 1,
    "error": ""
   },
   {
