@@ -114,8 +114,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 117,
-   "job_like": 37,
+   "links": 116,
+   "job_like": 36,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -132,8 +132,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 364,
-   "job_like": 71,
+   "links": 365,
+   "job_like": 72,
    "kept": 5,
    "new": 0,
    "error": ""
@@ -186,10 +186,10 @@
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 229,
-   "job_like": 162,
+   "links": 233,
+   "job_like": 166,
    "kept": 8,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
