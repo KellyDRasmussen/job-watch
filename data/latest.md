@@ -1,10 +1,11 @@
 # Job Watch 2026-11-26
 
-New ads: 3
+New ads: 4
 
 - **Vestas**: [Service Business Performance & Pricing Analyst](https://careers.vestas.com/job/Copenhagen-S-Service-Business-Performance-&amp;-Pricing-Analyst-Regi-2300/1460021933)
 - **Novo Nordisk**: [Incident Response Analyst](https://careers.novonordisk.com/job/Ballerup-Incident-Response-Analyst-Capi/1460714233/)
 - **Novo Nordisk**: [Knowledge Manager - Customer Service Excellence](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Knowledge-Manager-Customer-Service-Excellence-Capi/1460713033/)
+- **Novo Nordisk**: [Sr Project Manager](https://careers.novonordisk.com/job/H%C3%B8je-Taastrup-Sr-Project-Manager-Capi/1460993033/)
 
 ## Check these by hand (the script can't read them)
 
