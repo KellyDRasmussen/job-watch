@@ -1,8 +1,10 @@
-# Job Watch 2026-11-25
+# Job Watch 2026-11-26
 
-New ads: 1
+New ads: 3
 
-- **Wikimedia Foundation**: [Program Delivery Coordinator (Contract)New Remote](https://job-boards.greenhouse.io/wikimedia/jobs/8367429)
+- **Vestas**: [Service Business Performance & Pricing Analyst](https://careers.vestas.com/job/Copenhagen-S-Service-Business-Performance-&amp;-Pricing-Analyst-Regi-2300/1460021933)
+- **Novo Nordisk**: [Incident Response Analyst](https://careers.novonordisk.com/job/Ballerup-Incident-Response-Analyst-Capi/1460714233/)
+- **Novo Nordisk**: [Knowledge Manager - Customer Service Excellence](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Knowledge-Manager-Customer-Service-Excellence-Capi/1460713033/)
 
 ## Check these by hand (the script can't read them)
 
