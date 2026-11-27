@@ -1,11 +1,9 @@
-# Job Watch 2026-11-26
+# Job Watch 2026-11-27
 
-New ads: 4
+New ads: 2
 
-- **Vestas**: [Service Business Performance & Pricing Analyst](https://careers.vestas.com/job/Copenhagen-S-Service-Business-Performance-&amp;-Pricing-Analyst-Regi-2300/1460021933)
-- **Novo Nordisk**: [Incident Response Analyst](https://careers.novonordisk.com/job/Ballerup-Incident-Response-Analyst-Capi/1460714233/)
-- **Novo Nordisk**: [Knowledge Manager - Customer Service Excellence](https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Knowledge-Manager-Customer-Service-Excellence-Capi/1460713033/)
-- **Novo Nordisk**: [Sr Project Manager](https://careers.novonordisk.com/job/H%C3%B8je-Taastrup-Sr-Project-Manager-Capi/1460993033/)
+- **ActionAid Denmark (MS)**: [Kommunikationspraktikant hos Global Contact](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/26-11-2026)
+- **Orsted**: [Financial Analyst](https://orsted.com/en/careers/vacancies-list/2026/11/32896-financial-analyst)
 
 ## Check these by hand (the script can't read them)
 

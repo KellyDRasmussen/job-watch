@@ -1,34 +1,20 @@
 {
- "run_date": "2026-11-26",
+ "run_date": "2026-11-27",
  "first_run": false,
  "new": [
   {
-   "employer": "Vestas",
-   "area": "aarhus",
-   "title": "Service Business Performance & Pricing Analyst",
-   "url": "https://careers.vestas.com/job/Copenhagen-S-Service-Business-Performance-&amp;-Pricing-Analyst-Regi-2300/1460021933",
-   "context": "Service Business Performance & Pricing Analyst Copenhagen S, Regi, DK Job FamilyCommercial"
+   "employer": "ActionAid Denmark (MS)",
+   "area": "copenhagen",
+   "title": "Kommunikationspraktikant hos Global Contact",
+   "url": "https://ms.recruiting.mindkey-app.com/da-DK/vacancy/26-11-2026",
+   "context": "Kommunikationspraktikant hos Global Contact Vil du fortælle historier, der giver unge mod på at opleve verden som frivillig? Så er det måske dig, vi har brug for. Global Contact søger lige nu en kommunikationspraktikant, der kan formidle positive historier om frivilligt arbejde i udlandet gennem web"
   },
   {
-   "employer": "Novo Nordisk",
+   "employer": "Orsted",
    "area": "copenhagen",
-   "title": "Incident Response Analyst",
-   "url": "https://careers.novonordisk.com/job/Ballerup-Incident-Response-Analyst-Capi/1460714233/",
-   "context": "Incident Response Analyst Ballerup, Capital Region of Denmark, DK Digital & IT 25 Nov 2026"
-  },
-  {
-   "employer": "Novo Nordisk",
-   "area": "copenhagen",
-   "title": "Knowledge Manager - Customer Service Excellence",
-   "url": "https://careers.novonordisk.com/job/Bagsv%C3%A6rd-Knowledge-Manager-Customer-Service-Excellence-Capi/1460713033/",
-   "context": "Knowledge Manager - Customer Service Excellence Bagsværd, Capital Region of Denmark, DK Quality 25 Nov 2026"
-  },
-  {
-   "employer": "Novo Nordisk",
-   "area": "copenhagen",
-   "title": "Sr Project Manager",
-   "url": "https://careers.novonordisk.com/job/H%C3%B8je-Taastrup-Sr-Project-Manager-Capi/1460993033/",
-   "context": "Sr Project Manager Høje-Taastrup, Capital Region of Denmark, DK Manufacturing 26 Nov 2026"
+   "title": "Financial Analyst",
+   "url": "https://orsted.com/en/careers/vacancies-list/2026/11/32896-financial-analyst",
+   "context": "Financial Analyst Finance and controlling Permanent Denmark Gentofte 04.12.2026 23:59 CET"
   }
  ],
  "check_manually": [
@@ -114,8 +100,8 @@
   {
    "employer": "Trustpilot",
    "url": "https://job-boards.greenhouse.io/trustpilot",
-   "links": 116,
-   "job_like": 36,
+   "links": 115,
+   "job_like": 35,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -132,9 +118,9 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 365,
-   "job_like": 72,
-   "kept": 5,
+   "links": 363,
+   "job_like": 70,
+   "kept": 4,
    "new": 0,
    "error": ""
   },
@@ -168,35 +154,35 @@
   {
    "employer": "ActionAid Denmark (MS)",
    "url": "https://ms.recruiting.mindkey-app.com/da-DK/open-vacancies",
-   "links": 14,
-   "job_like": 7,
-   "kept": 5,
-   "new": 0,
+   "links": 15,
+   "job_like": 8,
+   "kept": 6,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Orsted",
    "url": "https://orsted.com/en/careers/vacancies-list",
-   "links": 197,
-   "job_like": 36,
-   "kept": 4,
-   "new": 0,
+   "links": 198,
+   "job_like": 37,
+   "kept": 5,
+   "new": 1,
    "error": ""
   },
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 233,
-   "job_like": 166,
-   "kept": 8,
+   "links": 229,
+   "job_like": 162,
+   "kept": 7,
    "new": 0,
    "error": ""
   },
   {
    "employer": "Too Good To Go",
    "url": "https://jobs.ashbyhq.com/toogoodtogo",
-   "links": 67,
-   "job_like": 62,
+   "links": 68,
+   "job_like": 63,
    "kept": 1,
    "new": 0,
    "error": ""
@@ -204,9 +190,9 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 38,
-   "job_like": 33,
-   "kept": 0,
+   "links": 36,
+   "job_like": 31,
+   "kept": 1,
    "new": 0,
    "error": ""
   },
