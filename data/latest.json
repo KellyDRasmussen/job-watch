@@ -118,8 +118,8 @@
   {
    "employer": "Aarhus University",
    "url": "https://international.au.dk/about/profile/vacant-positions",
-   "links": 363,
-   "job_like": 70,
+   "links": 364,
+   "job_like": 71,
    "kept": 4,
    "new": 0,
    "error": ""
@@ -157,7 +157,7 @@
    "links": 15,
    "job_like": 8,
    "kept": 6,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
@@ -166,14 +166,14 @@
    "links": 198,
    "job_like": 37,
    "kept": 5,
-   "new": 1,
+   "new": 0,
    "error": ""
   },
   {
    "employer": "Novo Nordisk",
    "url": "https://careers.novonordisk.com/search/?q=&locationsearch=Denmark",
-   "links": 229,
-   "job_like": 162,
+   "links": 231,
+   "job_like": 164,
    "kept": 7,
    "new": 0,
    "error": ""
@@ -190,8 +190,8 @@
   {
    "employer": "Pleo",
    "url": "https://jobs.ashbyhq.com/pleo",
-   "links": 36,
-   "job_like": 31,
+   "links": 35,
+   "job_like": 30,
    "kept": 1,
    "new": 0,
    "error": ""
