@@ -1,9 +1,10 @@
 # Job Watch 2026-11-27
 
-New ads: 2
+New ads: 3
 
 - **ActionAid Denmark (MS)**: [Kommunikationspraktikant hos Global Contact](https://ms.recruiting.mindkey-app.com/da-DK/vacancy/26-11-2026)
 - **Orsted**: [Financial Analyst](https://orsted.com/en/careers/vacancies-list/2026/11/32896-financial-analyst)
+- **Novo Nordisk**: [Digital Conference Coordinator](https://careers.novonordisk.com/job/Hiller%C3%B8d-Digital-Conference-Coordinator-Capi/1461421733/)
 
 ## Check these by hand (the script can't read them)
 
